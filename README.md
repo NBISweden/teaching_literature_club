@@ -7,6 +7,7 @@ in which we read literature regarding teaching.
 - Frequency: monthly
 - Duration: 55 minutes
 - Meeting type: online-only
+- URL to meet: ?
 
 ## Schedule
 
@@ -33,6 +34,10 @@ That person determines freely:
 
 - whether there is a presentation about the reading material 
 - how to lead a discussion on the reading material
+
+### I am not part of NBIS. Am I welcome?
+
+Yes.
 
 ### I want to attend and will be 5 minutes late. Am I welcome?
 
