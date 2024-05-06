@@ -55,12 +55,12 @@ Yes.
 
 Great!
 
-First, we need to know, so we can put you in the schedule and share
+**First**, we need to know, so we can put you in the schedule and share
 the reading materials one meeting in advance with the rest.
 
-To let us: create an Issue here or send an email to `richel.bilderbeek@icm.uu.se`.
+To let us know: create an Issue here or send an email to `richel.bilderbeek@icm.uu.se`.
 
-Second, on the day you discuss a paper or book chapter,
+**Second**, on the day you discuss a paper or book chapter,
 you may determine freely:
 
 - whether there is a presentation about the reading material 
