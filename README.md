@@ -25,6 +25,15 @@ Date      |Person|Description
 
 ## FAQ
 
+### How do I know when meetings are?
+
+The schedule above shows when the meetings are :-)
+
+### Why is there no emaillist?
+
+Because no need for it is felt yet.
+You are encouraged to volunteer to maintain one :-)
+
 ### How does a meeting go?
 
 When you show up at a meeting,
@@ -34,6 +43,8 @@ That person determines freely:
 
 - whether there is a presentation about the reading material 
 - how to lead a discussion on the reading material
+
+
 
 ### I am not part of NBIS. Am I welcome?
 
