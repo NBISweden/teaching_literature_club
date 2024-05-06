@@ -76,7 +76,7 @@ Elin and Richel will always have a paper to be discussed ready.
 ### Why online-only?
 
 NBIS is a national organisation throughout Sweden, 
-hence online is the norm.
+hence online is the norm.https://github.com/NBISweden/teaching_literature_club
 
 ### Why not hybrid?
 
@@ -95,3 +95,8 @@ so meeting in real life (in any one place) would exclude most of NBIS.
 We felt this is a reasonable starting frequency. 
 If the schedule starts overflowing, 
 we will consider doing this every two weeks.
+
+## Links
+
+- GitHub repository: [https://github.com/NBISweden/teaching_literature_club](https://github.com/NBISweden/teaching_literature_club)
+- GitHub Pages: [https://bit.ly/nbis_tlc](https://bit.ly/nbis_tlc)
