@@ -13,8 +13,7 @@ in which we read literature regarding teaching.
 
 Date      |Person|Description
 ----------|------|----------------------------------------------------
-2024-05-06|ER    |Prepare day and times for Doodle
-2024-06-03|ER    |Inform TrSG people about this club, open Doodle
+2024-05-20|ER    |Inform TrSG people about this club, open Doodle
 2024-06-20|R     |Pick day and time for club from Doodle, close Doodle
 2024-08-??|R     |Send out link to paper or book chapter (third week of the month)
 2024-09-??|?     |Discuss [paper or book chapter] (third week of the month)
