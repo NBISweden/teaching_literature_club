@@ -4,7 +4,8 @@ The NBIS' teaching literature club
 in which we read literature regarding teaching.
 
 - Goal: read and discuss literature on teaching
-- Frequency: monthly, in the third week of the month
+- Frequency: monthly
+- Day: third Wednesday of the month, from 9:00-9:55
 - Duration: 55 minutes
 - Meeting type: online-only
 - Zoom room to meet: [https://bit.ly/tlc_room](https://bit.ly/tlc_room) 
@@ -14,15 +15,15 @@ in which we read literature regarding teaching.
 
 Date      |Person|Description
 ----------|------|----------------------------------------------------
-2024-05-20|ER    |Inform TrSG people about this club, open and share survey
-2024-06-20|R     |Pick day and time for club from survey, close survey
-2024-08-??|R     |Announce first paper or book chapter at this website (third week of the month)
-2024-09-??|?     |Discuss [paper or book chapter] (third week of the month)
-2024-10-??|?     |Discuss [paper or book chapter] (third week of the month)
-2024-11-??|?     |Discuss [paper or book chapter] (third week of the month)
-.         |R     |Collect feedback on meetings till now  (third week of the month)
-2024-12-??|?     |Discuss [paper or book chapter] (third week of the month)
-.         |R     |Share feedback on meetings, share changes to structure  (third week of the month)
+2024-05-20|ER    |[DONE] Inform TrSG people about this club, open and share survey
+2024-06-20|R     |[DONE] Pick day and time for club from survey, close survey
+2024-08-21|R     |Announce first paper or book chapter at this website
+2024-09-18|?     |Discuss [paper or book chapter]
+2024-10-16|?     |Discuss [paper or book chapter]
+2024-11-20|?     |Discuss [paper or book chapter]
+.         |R     |Collect feedback on meetings till now
+2024-12-18|?     |Discuss [paper or book chapter]
+.         |R     |Share feedback on meetings, share changes to structure
 
 ## FAQ
 
