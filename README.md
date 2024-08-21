@@ -8,8 +8,7 @@ in which we read literature regarding teaching.
 - Day: third Wednesday of the month, from 9:00-9:55
 - Duration: 55 minutes
 - Meeting type: online-only
-- Zoom room to meet: [https://bit.ly/tlc_room](https://bit.ly/tlc_room) 
-  (requires a password, email an organiser to get it!)
+- Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
 
 ## Schedule
 
@@ -133,5 +132,4 @@ You can share your feedback at this repository by:
 
 - GitHub repository: [https://github.com/NBISweden/teaching_literature_club](https://github.com/NBISweden/teaching_literature_club)
 - GitHub Pages: [https://bit.ly/teaching_literature_club](https://bit.ly/teaching_literature_club)
-- Zoom room to meet: [https://bit.ly/tlc_room](https://bit.ly/tlc_room) 
-  (requires a password, email an organiser to get it!)
+- Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
