@@ -16,8 +16,8 @@ Date      |Person|Description
 ----------|------|----------------------------------------------------
 2024-09-18|R     |Discuss: Lockman, Alison S., and Barbara R. Schirmer. "Online instruction in higher education: Promising, research-based, and evidence-based practices." Journal of Education and e-Learning Research 7.2 (2020): 130-152. [Download page](https://eric.ed.gov/?id=EJ1258655)
 2024-10-16|?     |Discuss [paper or book chapter]
-2024-11-20|?  !R |Discuss [paper or book chapter]
-.         |?E !R |Collect feedback on meetings till now
+2024-11-20|? !R  |Discuss [paper or book chapter]
+.         |E !R  |Collect feedback on meetings till now
 2024-12-18|?     |Discuss [paper or book chapter]
 .         |R     |Share feedback on meetings, share changes to structure
 
