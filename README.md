@@ -26,6 +26,15 @@ Date      |Person|Description
 
 ## FAQ
 
+### What is the goal of the teaching literature club?
+
+Successful journal clubs have a long-term overarching
+goal `[Deenadayalan et al., 2008]`.
+
+The goal of this teaching literature club is,
+by reading and discussing the literature on teaching, 
+to become a better teachers
+
 ### How do I know when meetings are?
 
 The schedule above shows when the meetings are :-)
@@ -109,13 +118,30 @@ so meeting in real life (in any one place) would exclude most of NBIS.
 
 ### Why monthly?
 
-We felt this is a reasonable starting frequency. 
+A succesful journal club meets at
+regular and predictable intervals `[Deenadayalan et al., 2008]`.
+
+For this club, we felt that monthly is a reasonable starting frequency. 
 If the schedule starts overflowing, 
 we will consider doing this every two weeks.
 
+### Who is/are the organizers?
+
+Within an effective journal club it is clear who
+(singular or plural) leads it `[Deenadayalan et al., 2008]`.
+
+Currently, Richel is chairman and Elin is vice chairman.
+
 ### Why not organise this differently?
 
-Because this is the current plan. 
+Because this is the current plan.
+
+There are points we feel we can deviate from the literature:
+
+- In this club, attendence is not expected and not recorded and not mandatory
+  (instead of the advice to have attendance expected and/or recorded
+  and/or mandatory `[Deenadayalan et al., 2008]`).
+  We feel this does not fit the NBIS life of flexible schedule
 
 You can share your feedback at this repository by:
  
@@ -133,3 +159,10 @@ You can share your feedback at this repository by:
 - GitHub repository: [https://github.com/NBISweden/teaching_literature_club](https://github.com/NBISweden/teaching_literature_club)
 - GitHub Pages: [https://bit.ly/teaching_literature_club](https://bit.ly/teaching_literature_club)
 - Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
+
+## References
+
+- `[Deenadayalan et al., 2008]`
+  Deenadayalan, Yamini, et al. 
+  "How to run an effective journal club: a systematic review." 
+  Journal of evaluation in clinical practice 14.5 (2008): 898-911.
