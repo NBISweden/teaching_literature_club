@@ -6,7 +6,7 @@ in which we read literature regarding teaching.
 - Goal: read and discuss literature on teaching
 - Frequency: monthly
 - Day: third Wednesday of the month, from 9:00 (sharp!) - 9:55 (sharp!). Room will be open at 8:45
-- Duration: 55 minutes
+- Duration: 55 minutes (max)
 - Meeting type: online-only
 - Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
 
