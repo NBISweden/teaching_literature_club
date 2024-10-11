@@ -80,3 +80,4 @@ ly
 github
 https
 pre
+cancelled
