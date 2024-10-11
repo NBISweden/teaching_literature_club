@@ -1,5 +1,11 @@
 # NBIS' teaching literature club
 
+[![Check links](https://github.com/NBISweden/teaching_literature_club/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/NBISweden/teaching_literature_club/actions/workflows/check_links.yaml)
+[![Check markdown](https://github.com/NBISweden/teaching_literature_club/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/NBISweden/teaching_literature_club/actions/workflows/check_markdown.yaml)
+[![Check spelling](https://github.com/NBISweden/teaching_literature_club/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/NBISweden/teaching_literature_club/actions/workflows/check_spelling.yaml)
+[![Create website](https://github.com/NBISweden/teaching_literature_club/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/NBISweden/teaching_literature_club/actions/workflows/create_website.yaml)
+
+
 The NBIS' teaching literature club
 in which we read literature regarding teaching.
 
