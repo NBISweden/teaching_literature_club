@@ -21,7 +21,7 @@ Date      |Person           |Description
 .         |R                |Share feedback on meetings, share changes to structure
 
 - `!` means 'not', e.g `!R` means 'not Richel'
-- `?` means 'maybe', e.g. '?E' meand 'maybe Elin'
+- `?` means 'maybe', e.g. '?E' means 'maybe Elin'
 
 ## FAQ
 
@@ -117,7 +117,7 @@ so meeting in real life (in any one place) would exclude most of NBIS.
 
 ### Why monthly?
 
-A succesfull journal club meets at
+A successful journal club meets at
 regular and predictable intervals `[Deenadayalan et al., 2008]`.
 
 For this club, we felt that monthly is a reasonable starting frequency.
