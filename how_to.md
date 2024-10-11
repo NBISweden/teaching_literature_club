@@ -1,4 +1,4 @@
-# How to run a literature club.
+# How to run a literature club
 
 A review of of the literature :-)
 
@@ -62,10 +62,10 @@ A review of of the literature :-)
 ## References
 
 - `[Deenadayalan et al., 2008]`
-  Deenadayalan, Yamini, et al. 
-  "How to run an effective journal club: a systematic review." 
+  Deenadayalan, Yamini, et al.
+  "How to run an effective journal club: a systematic review."
   Journal of evaluation in clinical practice 14.5 (2008): 898-911.
-- `[Burstein et al., 1996]` 
-  Burstein, Jonathan L., Judd E. Hollander, and David Barlas. 
+- `[Burstein et al., 1996]`
+  Burstein, Jonathan L., Judd E. Hollander, and David Barlas.
   "Enhancing the value of journal club: use of a structured review instrument."
   The American journal of emergency medicine 14.6 (1996): 561-563.
