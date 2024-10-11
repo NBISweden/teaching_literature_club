@@ -1,13 +1,13 @@
 # Check that there is correct spelling in all files
 name: Check spelling
 
-# Check spelling on the 21st day of the month.
-# 21st as the first letter of this repo is the 21st letter in the alphabet.
+# Check spelling on the 20th day of the month.
+# 20th as the first letter of this repo is the 20th letter in the alphabet.
 on:
   push:
   pull_request:
   schedule:
-  - cron: "0 0 21 * *"
+  - cron: "0 0 20 * *"
 
 
 jobs:
@@ -20,9 +20,6 @@ jobs:
 
       - name: Set up Git repository
         uses: actions/checkout@v4
-
-      - name: Do not check raw evaluation results
-        run: rm evaluations/20240827/survey_feedback.md
 
       - uses: igsekor/pyspelling-any@v1.0.4
 
