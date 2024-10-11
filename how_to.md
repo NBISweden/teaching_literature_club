@@ -4,7 +4,7 @@ A review of of the literature :-)
 
 - [x] members should be of the same discipline `[Deenadayalan et al., 2008]`
 
-### Leading journal club
+## Leading journal club
 
 - 'Train the leader/facilitator of the journal club in relevant
   research design and/or statistical knowledge so as to appropriately
@@ -20,7 +20,7 @@ A review of of the literature :-)
   for journal club, and to answer questions that may arise from the
   journal club discussion' `[Deenadayalan et al., 2008]`
 
-### Choosing articles for discussion
+## Choosing articles for discussion
 
 - 'Choose relevant case-based or clinical articles for discussion.
   These papers should be of interest to all participants. Articles
@@ -31,7 +31,7 @@ A review of of the literature :-)
   to be discussed for each meeting. This person should also lead
   the discussion on the article at the journal club' `[Deenadayalan et al., 2008]`
 
-### Circulating articles for discussion
+## Circulating articles for discussion
 
 - 'Provide all participants for each journal club (in addition to the
   leader) with pre-reading at a suitable time period prior to the
@@ -43,7 +43,7 @@ A review of of the literature :-)
   meeting, maintaining journal club resources and optimizing use of
   time and resources' `[Deenadayalan et al., 2008]`
 
-### Efficiently running the journal club
+## Efficiently running the journal club
 
 - 'Use established critical appraisal approaches and structured
   worksheets during the journal club session, which leads to healthy
@@ -51,7 +51,7 @@ A review of of the literature :-)
 - 'Formally conclude each journal club by putting the article in
   context of clinical practice' `[Deenadayalan et al., 2008]`
 
-### Journal club effectiveness
+## Journal club effectiveness
 
 - 'Depending on the journal club purpose, it may be appropriate to
   evaluate knowledge uptake formally or informally' `[Deenadayalan et al., 2008]`

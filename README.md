@@ -12,6 +12,8 @@ in which we read literature regarding teaching.
 
 ## Schedule
 
+<!-- markdownlint-disable MD013 -->
+
 Date      |Person           |Description
 ----------|-----------------|----------------------------------------------------
 2024-10-16|Stephan Nylinder |Discuss Dimitriadou, Eleni, and Andreas Lanitis. "Evaluating the impact of an automated body language assessment system." Education and Information Technologies (2024): 1-31. [Download page](https://link.springer.com/article/10.1007/s10639-024-12931-5) [PDF](papers/dimitriadou_and_lanitis_2024.pdf)
@@ -19,6 +21,8 @@ Date      |Person           |Description
 .         |E !R             |Collect feedback on meetings till now
 2024-12-18|?                |Discuss [paper or book chapter]
 .         |R                |Share feedback on meetings, share changes to structure
+
+<!-- markdownlint-enable MD013 -->
 
 - `!` means 'not', e.g `!R` means 'not Richel'
 - `?` means 'maybe', e.g. '?E' means 'maybe Elin'
@@ -168,6 +172,8 @@ You can share your feedback at this repository by:
 
 ## Files used by continuous integration scripts
 
+<!-- markdownlint-disable MD013 -->
+
 Filename                              |Descriptions
 --------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
 [mlc_config.json](mlc_config.json)    |Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally
@@ -176,3 +182,4 @@ Filename                              |Descriptions
 [.markdownlint.jsonc](.markdownlint.jsonc)|Configuration of the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
 [.markdownlintignore](.markdownlintignore)|Files ignored by the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
 
+<!-- markdownlint-enable MD013 -->
