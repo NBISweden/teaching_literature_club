@@ -36,7 +36,7 @@ A review of of the literature :-)
 - 'Provide all participants for each journal club (in addition to the
   leader) with pre-reading at a suitable time period prior to the
   journal club (may be up to a week prior). Participants should agree
-  to the time frame for pre-reading. In some curriculum-based 
+  to the time frame for pre-reading. In some curriculum-based
   situations, assessment of whether pre-reading has occurred may be
   appropriate' `[Deenadayalan et al., 2008]`
 - 'Use the internet as a means of distributing articles prior to the
@@ -55,7 +55,7 @@ A review of of the literature :-)
 
 - 'Depending on the journal club purpose, it may be appropriate to
   evaluate knowledge uptake formally or informally' `[Deenadayalan et al., 2008]`
-- 'Evaluation should specifically relate to the article(s) for 
+- 'Evaluation should specifically relate to the article(s) for
   discussion, critical appraisal, understanding of biostatistics reported in
   the paper and translating evidence into practice' `[Deenadayalan et al., 2008]`
 
