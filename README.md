@@ -78,6 +78,9 @@ Yes.
 
 Yes.
 
+There is a chance the literature club has been cancelled, if,
+for example, there are zero attendees at the starting time.
+
 ### I want to attend without having read the paper. Am I welcome?
 
 Yes.
