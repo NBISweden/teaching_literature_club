@@ -117,7 +117,7 @@ so meeting in real life (in any one place) would exclude most of NBIS.
 
 ### Why monthly?
 
-A succesful journal club meets at
+A succesfull journal club meets at
 regular and predictable intervals `[Deenadayalan et al., 2008]`.
 
 For this club, we felt that monthly is a reasonable starting frequency.
@@ -137,7 +137,7 @@ Because this is the current plan.
 
 There are points we feel we can deviate from the literature:
 
-- In this club, attendence is not expected and not recorded and not mandatory
+- In this club, attendance is not expected and not recorded and not mandatory
   (instead of the advice to have attendance expected and/or recorded
   and/or mandatory `[Deenadayalan et al., 2008]`).
   We feel this does not fit the NBIS life of flexible schedule

@@ -13,8 +13,8 @@ A review of of the literature :-)
 - 'The leader can change from meeting to meeting, however he/she
   needs to have the skills to present the paper under discussion and
   lead the group adequately. It is a fine balance between choosing a
-  leader of high academic standing whose expertise may stifle dis-
-  cussion, or choosing a leader from peers who may not have the
+  leader of high academic standing whose expertise may stifle discussion,
+  or choosing a leader from peers who may not have the
   requisite understanding of the paper under discussion' `[Deenadayalan et al., 2008]`
 - 'Provide access to a statistician to assist the leader in preparing
   for journal club, and to answer questions that may arise from the
@@ -27,8 +27,8 @@ A review of of the literature :-)
   should be chosen in line with the overarching purpose of the
   journal club' `[Deenadayalan et al., 2008]`
 - 'Identify one journal club member (either the designated leader
-  or a member) who has the responsibility for identifying the litera-
-  ture to be discussed for each meeting. This person should also lead
+  or a member) who has the responsibility for identifying the literature
+  to be discussed for each meeting. This person should also lead
   the discussion on the article at the journal club' `[Deenadayalan et al., 2008]`
 
 ### Circulating articles for discussion
@@ -36,8 +36,8 @@ A review of of the literature :-)
 - 'Provide all participants for each journal club (in addition to the
   leader) with pre-reading at a suitable time period prior to the
   journal club (may be up to a week prior). Participants should agree
-  to the time frame for pre-reading. In some curriculum-based situ-
-  ations, assessment of whether pre-reading has occurred may be
+  to the time frame for pre-reading. In some curriculum-based 
+  situations, assessment of whether pre-reading has occurred may be
   appropriate' `[Deenadayalan et al., 2008]`
 - 'Use the internet as a means of distributing articles prior to the
   meeting, maintaining journal club resources and optimizing use of
@@ -55,8 +55,8 @@ A review of of the literature :-)
 
 - 'Depending on the journal club purpose, it may be appropriate to
   evaluate knowledge uptake formally or informally' `[Deenadayalan et al., 2008]`
-- 'Evaluation should specifically relate to the article(s) for discus-
-  sion, critical appraisal, understanding of biostatistics reported in
+- 'Evaluation should specifically relate to the article(s) for 
+  discussion, critical appraisal, understanding of biostatistics reported in
   the paper and translating evidence into practice' `[Deenadayalan et al., 2008]`
 
 ## References
