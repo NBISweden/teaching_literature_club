@@ -5,7 +5,8 @@ in which we read literature regarding teaching.
 
 - Goal: read and discuss literature on teaching
 - Frequency: monthly
-- Day: third Wednesday of the month, from 9:00 (sharp!) - 9:55 (sharp!). Room will be open at 8:45
+- Day: third Wednesday of the month, from 9:00 (sharp!) - 9:55 (sharp!).
+  Room will be open at 8:45
 - Duration: 55 minutes (max)
 - Meeting type: online-only
 - Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
@@ -97,7 +98,7 @@ you may determine freely:
 
 The meeting will end sharply on time!
 
-### I present a paper or book chapter and need to cancel at the last minute. What do I do?
+### I present a something and need to cancel at the last minute. What do I do?
 
 Create an Issue here or send an email to `richel.bilderbeek@icm.uu.se`.
 Elin and Richel will always have a paper to be discussed ready.
