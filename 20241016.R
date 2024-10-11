@@ -61,7 +61,7 @@ ggplot2::ggplot(t, ggplot2::aes(x = p)) +
   ggplot2::geom_vline(xintercept = 0.05, lty = "dashed") +
   ggplot2::geom_vline(xintercept = mean(t$p), color = "red") + 
   ggplot2::labs(
-    title = "Distribution of simulated p-values",
+    title = "Distribution of simulated p-values, multiple times",
     caption = paste0(
         "Black vertical line: reported in paper. \n",
         "Black dashed vertical line: 0.05%. \n",
@@ -69,4 +69,4 @@ ggplot2::ggplot(t, ggplot2::aes(x = p)) +
       )
     )
 
-ggplot2::ggsave("20241011_tabel_5_sim.png", width = 4, height = 7)
+ggplot2::ggsave("20241016_tabel_5_sim.png", width = 4, height = 7)
