@@ -162,6 +162,11 @@ You can share your feedback at this repository by:
   These results will probably be shared in December,
   i.e. during the fourth meeting.
 
+## What is the number of visitors per event?
+
+The number of visitors per event can be found
+[in the data folder of this repository](data/README.md)
+
 ## Links
 
 - GitHub repository: [https://github.com/NBISweden/teaching_literature_club](https://github.com/NBISweden/teaching_literature_club)
