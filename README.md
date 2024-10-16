@@ -22,7 +22,6 @@ in which we read literature regarding teaching.
 
 Date      |Person           |Description
 ----------|-----------------|----------------------------------------------------
-2024-10-16|Stephan Nylinder |Discuss Dimitriadou, Eleni, and Andreas Lanitis. "Evaluating the impact of an automated body language assessment system." Education and Information Technologies (2024): 1-31. [Download page](https://link.springer.com/article/10.1007/s10639-024-12931-5) [PDF](papers/dimitriadou_and_lanitis_2024.pdf)
 2024-11-28|Elin Kronander   |Discuss [paper or book chapter]
 2024-12-18|?                |Discuss [paper or book chapter]
 .         |R                |Share feedback on meetings, share changes to structure
