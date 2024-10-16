@@ -2,7 +2,9 @@
 
 This is the data collected by the Teaching Literature Club.
 
-## [n_visistors_per_day.csv](n_visistors_per_day.csv)
+## [n_visistors_per_event.csv](n_visistors_per_event.csv)
+
+The number of visitors per event.
 
 Field       |Descripion
 ------------|------------------------------------------------------
