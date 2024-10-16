@@ -10,3 +10,7 @@ Field       |Descripion
 ------------|------------------------------------------------------
 `date`      |The data in `YYYYMMDD` format
 `n_visitors`|The number of visitors. This excludes the presenter(s)
+
+![The number of visitors per event](n_visitors_per_event.png)
+
+> The number of visitors per event
