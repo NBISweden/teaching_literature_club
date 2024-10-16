@@ -10,7 +10,7 @@ in which we read literature regarding teaching.
 
 - Goal: read and discuss literature on teaching
 - Frequency: monthly
-- Day: third Wednesday of the month, from 9:00 (sharp!) - 9:55 (sharp!).
+- Day: around the third Wednesday of the month, from 9:00 (sharp!) - 9:55 (sharp!).
   Room will be open at 8:45
 - Duration: 55 minutes (max)
 - Meeting type: online-only
@@ -23,15 +23,11 @@ in which we read literature regarding teaching.
 Date      |Person           |Description
 ----------|-----------------|----------------------------------------------------
 2024-10-16|Stephan Nylinder |Discuss Dimitriadou, Eleni, and Andreas Lanitis. "Evaluating the impact of an automated body language assessment system." Education and Information Technologies (2024): 1-31. [Download page](https://link.springer.com/article/10.1007/s10639-024-12931-5) [PDF](papers/dimitriadou_and_lanitis_2024.pdf)
-2024-11-20|? !R             |Discuss [paper or book chapter]
-.         |E !R             |Collect feedback on meetings till now
+2024-11-28|Elin Kronander   |Discuss [paper or book chapter]
 2024-12-18|?                |Discuss [paper or book chapter]
 .         |R                |Share feedback on meetings, share changes to structure
 
 <!-- markdownlint-enable MD013 -->
-
-- `!` means 'not', e.g `!R` means 'not Richel'
-- `?` means 'maybe', e.g. '?E' means 'maybe Elin'
 
 ## FAQ
 
