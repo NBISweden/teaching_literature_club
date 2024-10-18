@@ -22,7 +22,7 @@ in which we read literature regarding teaching.
 
 Date      |Person           |Description
 ----------|-----------------|----------------------------------------------------
-2024-11-28|Elin Kronander   |Discuss [paper or book chapter]
+2024-11-28|Elin Kronander   |Discuss Traci Sitzmann and Stefanie Johnson. "**The paradox of seduction by irrelevant details: How irrelevant information helps and hinders self-regulated learning**." Learning and Individual Differences (2014): 1-11. [Download page](https://doi.org/10.1016/j.lindif.2014.05.009)
 2024-12-18|?                |Discuss [paper or book chapter]
 .         |R                |Share feedback on meetings, share changes to structure
 
