@@ -15,8 +15,6 @@ Field       |Description
 
 > The number of visitors per event
 
-
-
 ## [data_request.csv](data_request.csv)
 
 The status of data requests.
@@ -37,4 +35,6 @@ Field         |Description
 
 > Frequency of data requests
 
-Provided as paradata are the emails to contact an author.
+Provided as paradata are the emails to contact an author,
+in the form `email_[request_date].md`. The script `plot_data_requests.R`
+checks if all requests have a file with an email text provided.
