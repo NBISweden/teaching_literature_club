@@ -28,6 +28,8 @@ Date      |Person           |Description
 
 <!-- markdownlint-enable MD013 -->
 
+For [past events](past_events.md), see [past events](past_events.md).
+
 ## FAQ
 
 ### What is the goal of the teaching literature club?
