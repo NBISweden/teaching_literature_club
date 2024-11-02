@@ -37,5 +37,5 @@ Field         |Description
 > Frequency of data requests
 
 Provided as paradata are the emails to contact an author,
-in the form `email_[request_date].md`. The script `plot_data_requests.R`
+in the form `email_[request_date].txt`. The script `plot_data_requests.R`
 checks if all requests have a file with an email text provided.

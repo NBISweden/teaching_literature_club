@@ -4,7 +4,7 @@ t$status <- as.factor(t$status)
 
 ## Check data: all data must have an email
 for (date in t$request_date) {
-  filename <- paste0("email_", date, ".md")
+  filename <- paste0("email_", date, ".txt")
   if (!file.exists(filename)) {
     stop("File 'filename' does not exist. Please add it")
   }
