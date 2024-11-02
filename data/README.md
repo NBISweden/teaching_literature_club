@@ -14,3 +14,27 @@ Field       |Description
 ![The number of visitors per event](n_visitors_per_event.png)
 
 > The number of visitors per event
+
+
+
+## [data_request.csv](data_request.csv)
+
+The status of data requests.
+
+Field         |Description
+--------------|------------------------------------------------------
+`request_date`|The date an email request was sent, in `YYYYMMDD` format
+`status_date` |The date of the current status , in `YYYYMMDD` format
+`status`      |The status of the data requestion, see values below
+
+`status` value      |Description
+--------------------|------------------------------------------------------
+`no_reply`          |No reply to the email
+`denied`            |The request was denied,
+`provided`          |The data was provided
+
+![Frequency of data requests](data_request_status_frequency.png)
+
+> Frequency of data requests
+
+Provided as paradata are the emails to contact an author.

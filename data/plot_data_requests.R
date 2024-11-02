@@ -3,8 +3,8 @@ t <- readr::read_csv(file = "data_request.csv", show_col_types = FALSE)
 t$status <- as.factor(t$status)
 
 ## Check data: all data must have an email
-for (date in t$date) {
-  filename <- paste0("mail_", date, ".md")
+for (date in t$request_date) {
+  filename <- paste0("email_", date, ".md")
   if (!file.exists(filename)) {
     stop("File 'filename' does not exist. Please add it")
   }
