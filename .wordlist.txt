@@ -84,4 +84,10 @@ cancelled
 csv
 Kronander
 Sitzmann
+counterintuitive
+Cronbach's
+dec
+doi
+paradata
+aug
 

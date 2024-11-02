@@ -24,7 +24,7 @@ Field         |Description
 --------------|------------------------------------------------------
 `request_date`|The date an email request was sent, in `YYYYMMDD` format
 `status_date` |The date of the current status , in `YYYYMMDD` format
-`status`      |The status of the data requestion, see values below
+`status`      |The status of the data request, see values below
 
 `status` value      |Description
 --------------------|------------------------------------------------------
