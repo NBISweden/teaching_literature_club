@@ -4,7 +4,7 @@ This is the data collected by the Teaching Literature Club.
 
 ## [n_visitors_per_event.csv](n_visitors_per_event.csv)
 
-The number of visitors per event.
+The number of visitors per Teaching Literature Club event.
 
 Field       |Description
 ------------|------------------------------------------------------
@@ -17,7 +17,8 @@ Field       |Description
 
 ## [data_request.csv](data_request.csv)
 
-The status of data requests.
+The status of data requests sent to the authors of paper discussed
+in the Teaching Literature Club.
 
 Field         |Description
 --------------|------------------------------------------------------
