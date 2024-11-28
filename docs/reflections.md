@@ -1,6 +1,6 @@
 # Reflections
 
-## 2024-11-28
+## 2024-11-28 by Richèl
 
 After three TLCs, I am quite happy.
 Below is why, followed by future plans
