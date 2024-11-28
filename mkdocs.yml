@@ -20,7 +20,7 @@ theme:
     text: Lato
     code: JetBrains Mono
 
-  logo: logo/osu_logo.png
+  logo: logo/nbis_logo.png
 
   features:
     - toc.integrate
