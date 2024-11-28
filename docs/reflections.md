@@ -30,6 +30,12 @@ mind, but that is not someone dominating a discussion).
 I feel lucky with our current participants who
 seem to care about a healthy conversation too.
 
+### Fancy website
+
+As I feel the club is doing well,
+I've decided to turn the GitHub
+repository into a more fancy website.
+
 ### Future plans
 
 Keep going as it is: it seems to go fine.
