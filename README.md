@@ -6,7 +6,8 @@
 [![Create website](https://github.com/NBISweden/teaching_literature_club/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/NBISweden/teaching_literature_club/actions/workflows/create_website.yaml)
 
 The NBIS' teaching literature club
-in which we read literature regarding teaching.
+in which we read literature regarding teaching
+and discuss those in an informal way.
 
 - Goal: read and discuss literature on teaching
 - Frequency: monthly
