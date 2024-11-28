@@ -9,6 +9,8 @@ nav:
     - Past events: past_events.md
   - FAQ:
     - Frequently asked questions: faq.md
+  - Misc:
+    - Data: data/README.md
 
 theme:
   name: material
