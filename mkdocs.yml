@@ -10,7 +10,8 @@ nav:
   - FAQ:
     - Frequently asked questions: faq.md
   - Misc:
-    - Data: data/README.md
+    - Data: data.md
+    - Reflections: reflections.md
 
 theme:
   name: material
