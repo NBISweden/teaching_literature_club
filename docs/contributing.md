@@ -9,4 +9,5 @@ with a preference to accept suggestions.
 * For questions, you can create an Issue
 * Textual changes go via Pull Requests
 
-This GitHub follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
+This GitHub follows the
+[Contributor Covenant Code of Conduct](code_of_conduct.md).
