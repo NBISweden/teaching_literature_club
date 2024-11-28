@@ -26,7 +26,7 @@ tell me it is fine.
 As far as I see, the conversations are enjoyable.
 I feel that there is nobody being dominant in our
 meetings (except for me, that want everyone to speak his/her
-mind, but that is not someone dominating a discussion). 
+mind, but that is not someone dominating a discussion).
 I feel lucky with our current participants who
 seem to care about a healthy conversation too.
 
