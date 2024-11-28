@@ -1,11 +1,11 @@
 # Security Policy
 
-The content of this repository (a website)
+This repository ...
 
-## Reporting a Vulnerability
+- provides an HTML website
+- does not store any sensitive data
+- does not run any code on your computer
 
-Use this section to tell people how to report a vulnerability.
+You are safe :-)
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+
