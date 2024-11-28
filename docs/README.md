@@ -5,8 +5,9 @@ in which we read literature regarding teaching
 and discuss those in an informal way.
 
 - Goal: read and discuss literature on teaching in an informal way
-- Frequency: monthly
-- Day: around the third Wednesday of the month, from 9:00 (sharp!) - 9:55 (sharp!).
+- Frequency: around monthly
+- Day: scheduled at the end of a meeting
+- Time: 9:00 (sharp!) - 9:55 (sharp!).
   Room will be open at 8:45
 - Duration: 55 minutes (max)
 - Meeting type: online-only
