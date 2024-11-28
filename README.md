@@ -163,6 +163,17 @@ You can share your feedback at this repository by:
   These results will probably be shared in December,
   i.e. during the fourth meeting.
 
+## Why is the name so clumsy?
+
+For two reasons:
+
+- is uses only simple words, hence no 'pedagogy' in the name
+- at least one of the organizers thinks
+  it is funny to have such a clumsy name,
+  as it is unclear if it is a club to
+  read the pedagogy literature or that it
+  teaches literature.
+
 ## What is the number of visitors per event?
 
 The number of visitors per event can be found
