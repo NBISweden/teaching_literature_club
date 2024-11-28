@@ -20,7 +20,7 @@ theme:
     text: Lato
     code: JetBrains Mono
   palette:
-    primary: teal
+    primary: white
 
   logo: logo/nbis_logo.png
 
