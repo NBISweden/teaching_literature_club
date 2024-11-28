@@ -2,7 +2,7 @@
 
 This is the data collected by the Teaching Literature Club.
 
-## [n_visitors_per_event.csv](n_visitors_per_event.csv)
+## [n_visitors_per_event.csv](data/n_visitors_per_event.csv)
 
 The number of visitors per Teaching Literature Club event.
 
@@ -11,11 +11,11 @@ Field       |Description
 `date`      |The data in `YYYYMMDD` format
 `n_visitors`|The number of visitors. This excludes the presenter(s)
 
-![The number of visitors per event](n_visitors_per_event.png)
+![The number of visitors per event](data/n_visitors_per_event.png)
 
 > The number of visitors per event
 
-## [data_request.csv](data_request.csv)
+## [data_request.csv](data/data_request.csv)
 
 The status of data requests sent to the authors of paper discussed
 in the Teaching Literature Club.
@@ -32,7 +32,7 @@ Field         |Description
 `denied`            |The request was denied,
 `provided`          |The data was provided
 
-![Frequency of data requests](data_request_status_frequency.png)
+![Frequency of data requests](data/data_request_status_frequency.png)
 
 > Frequency of data requests
 
