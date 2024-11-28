@@ -145,7 +145,7 @@ For two reasons:
 ## What is the number of visitors per event?
 
 The number of visitors per event can be found
-[in the data folder of this repository](data/README.md)
+at [the 'Data' page](data.md).
 
 ## References
 
