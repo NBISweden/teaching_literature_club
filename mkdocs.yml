@@ -18,6 +18,8 @@ theme:
   font:
     text: Lato
     code: JetBrains Mono
+  palette:
+    primary: light green
 
   logo: logo/nbis_logo.png
 
