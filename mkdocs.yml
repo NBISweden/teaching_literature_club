@@ -4,14 +4,11 @@ repo_url: https://github.com/NBISweden/teaching_literature_club
 
 nav:
   - About:
-    - About us: about_us.md
-  - Schedule:
-    - Schedule: schedule.md
+    - About us: README.md
+  - Past events:
     - Past events: past_events.md
   - FAQ:
     - Frequently asked questions: faq.md
-  - Contact us:
-    - Contact us: contact_us.md
 
 theme:
   name: material
