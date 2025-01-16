@@ -263,6 +263,10 @@ From [a review by Mine Cetinkaya-Rundel](https://www.scienceopen.com/document/re
 > discuss the importance of finding small p-values with the small US dataset,
 > however a similar discussion is not included for the French dataset.
 
+## Notes from meeting
+
+- Maybe in natural subjects, the correlation is stronger.
+
 ## References
 
 - `[Boring & Ottoboni, 2016]`

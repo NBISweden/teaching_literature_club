@@ -17,7 +17,7 @@ and discuss those in an informal way.
 
 Date      |Person           |Description
 ----------|-----------------|----------------------------------------------------
-2025-01-16|Åsa Björklund    |Discuss Boring, Anne, and Kellie Ottoboni. "Student evaluations of teaching (mostly) do not measure teaching effectiveness." ScienceOpen research (2016). [Article website](https://www.scienceopen.com/document/read?vid=818d8ec0-5908-47d8-86b4-5dc38f04b23e) [PDF](papers/boring_et_al_2016.pdf)
+2025-03-06|Stephan Nylinder |Something about how to evaluation a course or teacher properly
 
 <!-- markdownlint-enable MD013 -->
 
