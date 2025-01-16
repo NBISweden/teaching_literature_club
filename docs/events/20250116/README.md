@@ -43,7 +43,7 @@ I think I did reasonably well.
 ### Do you think the statistics in this paper are well-done?
 
 Yes. I see they tested the code for the statistics on
-data from MacNeill. A quick glance reveiled
+data from MacNeill. A quick glance revealed
 no obvious flaw.
 As this in sharp contrast to showing obvious plots,
 the paper feels like a p-value hacking expedition.
