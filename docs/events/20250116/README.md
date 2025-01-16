@@ -3,7 +3,7 @@
 - Discussion leader: Åsa Björklund
 - Date: 2025-01-16
 - Paper: `[Boring & Ottoboni, 2016]`
-  [Download page](https://doi.org/10.1016/j.lindif.2014.05.009)
+  [Download page](https://www.scienceopen.com/document/read?vid=818d8ec0-5908-47d8-86b4-5dc38f04b23e)
 
 ## Notes by Richel
 
