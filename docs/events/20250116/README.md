@@ -9,23 +9,24 @@
 
 My questions:
 
-- How would you summarize the paper?
+### How would you summarize the paper?
 
 The paper claims that SET is useless,
 as the factors that most influence the grade are not about teacher
 quality.
 
-- How would you describe the quality of the paper?
+### How would you describe the quality of the paper?
 
-- Grade: 4
-    - Seems to avoid showing some obvious plots 
-    - Code is open
-    - 0.2% of the data is open: 43 out of (23,001 + 43 = ) 23,043
-    - Useless without the closed French data
-    - The results were never interpreted in an obvious English
-      fashion
+Grade: 4
 
-- Does this paper convince you on the uselessness of SET score?
+- Seems to avoid showing some obvious plots 
+- Code is open
+- 0.2% of the data is open: 43 out of (23,001 + 43 = ) 23,043
+- Useless without the closed French data
+- The results were never interpreted in an obvious English
+  fashion
+
+### Does this paper convince you on the uselessness of SET score?
 
 No. It feels more like a p-value hacking expedition.
 
@@ -35,11 +36,11 @@ Or, as review Jason Barr writes: 'this study shows gender contributes only
 about 1% of the variance in student ratings. Hardly
 a “large and statistically significant” amount as stated by the authors'.
 
-- Did you understand the statistics in this paper?
+### Did you understand the statistics in this paper?
 
 I think I did reasonably well.
 
-- Do you think the statistics in this paper are well-done?
+### Do you think the statistics in this paper are well-done?
 
 Yes. I see they tested the code for the statistics on
 data from MacNeill. A quick glance reveiled
@@ -47,7 +48,7 @@ no obvious flaw.
 As this in sharp contrast to showing obvious plots,
 the paper feels like a p-value hacking expedition.
 
-- Are you convinced of the conclusions of this paper?
+### Are you convinced of the conclusions of this paper?
 
 No.
 
