@@ -19,7 +19,7 @@ quality.
 
 Grade: 4
 
-- Seems to avoid showing some obvious plots 
+- Seems to avoid showing some obvious plots
 - Code is open
 - 0.2% of the data is open: 43 out of (23,001 + 43 = ) 23,043
 - Useless without the closed French data
@@ -141,6 +141,7 @@ This meta-analysis `[Clayson, 2009]`:
 > class data as measured in these studies. The relationship
 > is small, not universal, and subject to the following inter-
 > vening variables:
+>
 > 1. The association is stronger in research published in
 > educational journals than in other sources.
 > 2. The association is strongest in studies from the
@@ -165,10 +166,15 @@ This meta-analysis `[Clayson, 2009]`:
 
 Here is meta-analysis `[Uttl et al., 2017]`, that came out after the paper:
 
-> - Students do not learn more from professors with higher student evaluation of teaching (SET) ratings.
-> - Previus [sic] meta-analyses of SET/learning correlations in multisection studies are not interprettable.
-> - Re-analyses of previous meta-analyses of multisection studies indicate that SET ratings explain at most 1% of variability in measures of student learning.
-> - New meta-analyses of multisection studies show that SET ratings are unrelated to student learning.
+> - Students do not learn more from professors with higher
+>   student evaluation of teaching (SET) ratings.
+> - Previus [sic] meta-analyses of SET/learning correlations
+>   in multisection studies are not interprettable.
+> - Re-analyses of previous meta-analyses of multisection studies
+>   indicate that SET ratings explain at most 1% of variability
+>   in measures of student learning.
+> - New meta-analyses of multisection studies show that SET ratings
+>   are unrelated to student learning.
 
 Also from `[Uttl et al., 2017]`:
 
@@ -201,13 +207,15 @@ And:
 These are comments below the paper:
 
 > Emil Ole William Kirkegaard wrote:
-> 
+>
 > I have some comments:
 >
-> - Use confidence intervals, not p values (cf. 'New Statistics'). These can be obtained by bootstrapping. If you really want p values, then report both.
+> - Use confidence intervals, not p values (cf. 'New Statistics'). 
+>   These can be obtained by bootstrapping.
+>   If you really want p values, then report both.
 > - Put the effect sizes with confidence intervals in the abstract.
 > - Alter the empahsis to be more about the lack of correlation between SET and
->  teacher ability. The focus on gender bias is not warranted with the small
+>   teacher ability. The focus on gender bias is not warranted with the small
 >   effect. It is clearly not "large" as claimed. mean r = 0.09 ≈ d 0.20,
 >   which by Cohen's standards is small. There is too much social justice
 >   warrior about this article.
@@ -241,11 +249,12 @@ And:
 > this study shows gender contributes only about 1% of the variance in
 > student ratings
 > Hardly a “large and statistically significant” amount
-> as stated by the authors. 
+> as stated by the authors.
 
 Note the short reply by the authors:
 
-> We look forward to additional reviews by people who do not have a financial interest in SET.
+> We look forward to additional reviews by people
+> who do not have a financial interest in SET.
 
 This is funny, as Boring lists 'Gender economics'
 on [her website](http://www.anneboring.com/)

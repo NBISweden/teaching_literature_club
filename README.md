@@ -18,7 +18,7 @@ Go to the nicely rendered pages [here](https://bit.ly/teaching_literature_club).
 
 ## Files used by continuous integration scripts
 
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Filename                              |Descriptions
 --------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
