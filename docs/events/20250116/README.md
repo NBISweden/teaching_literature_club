@@ -75,25 +75,25 @@ SET grades:
 
 ```text
    group  professional  respect  caring  enthusiastic  communicate  helpful  \
-0      3             5        5       4             4            4        3   
-1      3             4        4       4             4            5        5   
-2      3             5        5       5             5            5        5   
-3      3             5        5       5             5            5        3   
-4      3             5        5       5             5            5        5   
+0      3             5        5       4             4            4        3
+1      3             4        4       4             4            5        5
+2      3             5        5       5             5            5        5
+3      3             5        5       5             5            5        3
+4      3             5        5       5             5            5        5
 
    feedback  prompt  consistent  fair  responsive  praised  knowledgeable  \
-0         4       4           4     4           4        4              3   
-1         5       5           3     4           5        5              5   
-2         5       5           5     5           5        5              5   
-3         5       5           5     5           3        5              5   
-4         5       3           4     5           5        5              5   
+0         4       4           4     4           4        4              3
+1         5       5           3     4           5        5              5
+2         5       5           5     5           5        5              5
+3         5       5           5     5           3        5              5
+4         5       3           4     5           5        5              5
 
-   clear  overall  gender   age  tagender  taidgender  
-0      5        4       2  1990         0           1  
-1      5        4       1  1992         0           1  
-2      5        5       2  1991         0           1  
-3      5        5       2  1991         0           1  
-4      5        5       2  1992         0           1 
+   clear  overall  gender   age  tagender  taidgender
+0      5        4       2  1990         0           1
+1      5        4       1  1992         0           1
+2      5        5       2  1991         0           1
+3      5        5       2  1991         0           1
+4      5        5       2  1992         0           1
 ```
 
 So, for table 2, we see history has a correlation of 0.16 (and a p value of 0.01)
@@ -210,7 +210,7 @@ These are comments below the paper:
 >
 > I have some comments:
 >
-> - Use confidence intervals, not p values (cf. 'New Statistics'). 
+> - Use confidence intervals, not p values (cf. 'New Statistics').
 >   These can be obtained by bootstrapping.
 >   If you really want p values, then report both.
 > - Put the effect sizes with confidence intervals in the abstract.
