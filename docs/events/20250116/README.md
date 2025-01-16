@@ -114,7 +114,7 @@ big conclusions about:
 
 > Correlation between average group grade and average rating of
 > the 'overall' trait of the instructor per group.
-> Analysis in [analysis.R](analysis.R)
+> Analysis in [analyse.R](analyse.R)
 
 Open questions:
 
