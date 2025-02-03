@@ -4,4 +4,10 @@
 
 ## Notes by Richel
 
+At first glance, co-teaching seems very exciting.
+I feel that doing so makes both teachers better,
+similar to pair programming.
 
+The more interesting question is: 'Is it worth it?'.
+Is it worth it to have twice as many teachers (hence, twice
+the financial costs)?
