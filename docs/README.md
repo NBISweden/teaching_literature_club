@@ -8,7 +8,7 @@
 [![Create website](https://github.com/NBISweden/teaching_literature_club/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/NBISweden/teaching_literature_club/actions/workflows/create_website.yaml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14893427.svg)](https://doi.org/10.5281/zenodo.14893427)
 
-<!-- markdownlint-enable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
+<!-- markdownlint-enable MD013 -->
 
 The NBIS' teaching literature club
 in which we read literature regarding teaching
@@ -23,7 +23,7 @@ and discuss those in an informal way.
 - Meeting type: online-only
 - Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
 
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Date      |Person           |Description
 ----------|-----------------|----------------------------------------------------
