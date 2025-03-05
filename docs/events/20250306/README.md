@@ -8,12 +8,28 @@
 ## Notes by Richel
 
 - What grade on a scale from 1 (worst) to 10 (best) would you give this paper?
+
+8
+
 - How would you praise the paper?
+
+It is a proper review with helpful tables.
+
 - How would you criticise the paper?
+
+The method the literature was searched was unspecified.
+10 out of ~70 references had the last author among the authors.
+
 - How would you summarize the paper in one line?
+
+Co-teaching has effects, mostly positive, but more research is needed.
+
 - How would this paper make us a better teacher?
   (putting in bigger context, as recommended by `[Deenadayalan et al., 2008]`)
 
+It encourages us to try it out.
+
+---
 
 At first glance, co-teaching seems very exciting.
 I feel that doing so makes both teachers better,
