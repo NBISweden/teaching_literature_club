@@ -67,8 +67,7 @@ Other recent reviews are:
 - `[Barron & Friend, 2024]`:
 - `[Nápoles, 2024]`: 
 
-A review on who to lear to co-teach `[Rytivaara et al., 2024]`.
-
+A review on how to learn to co-teach is `[Rytivaara et al., 2024]`.
 
 ## References
 
