@@ -17,8 +17,8 @@ and discuss those in an informal way.
 - Goal: read and discuss literature on teaching in an informal way
 - Frequency: around monthly
 - Day: scheduled at the end of a meeting
-- Time: 9:00 (sharp!) - 9:55 (sharp!).
-  Room will be open at 8:45
+- Time: 10:00 (sharp!) - 10:55 (sharp!).
+  Room will be open at 9:45
 - Duration: 55 minutes (max)
 - Meeting type: online-only
 - Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
@@ -26,8 +26,8 @@ and discuss those in an informal way.
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Date      |Person           |Description
-----------|-----------------|----------------------------------------------------
-2025-03-06|Stephan Nylinder |Haag, Kirstin, et al. "Co-Teaching in undergraduate STEM education: a lever for pedagogical change toward evidence-based teaching?." CBE—Life Sciences Education 22.1 (2023): es1. [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074276/)
+----------|-----------------|-----------------------------------------------------------------------------------
+2025-04-11|Richèl Bilderbeek|[No paper yet] The differences when teaching a short-form course that the learners chose to follow
 
 <!-- markdownlint-enable MD013 -->
 
