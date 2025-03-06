@@ -81,22 +81,21 @@ of co-teaching, which is estimated to be 0.11.
 Other recent reviews are:
 
 - `[Barron & Friend, 2024]`:
-- `[Nápoles, 2024]`: 
+- `[Nápoles, 2024]`:
 
 A review on how to learn to co-teach is `[Rytivaara et al., 2024]`.
 
 ## References
 
-- `[Kursch & Veteska]` Kursch, M., and P. J. Veteska. "Advantages and disadvantages of co-teaching." Prague, Czech Republic (2020).
-- `[Spörer et al., 2021]` Spörer, Nadine, Thorsten Henke, and Stefanie Bosse. "Is there a dark side of co-teaching? A study on the social participation of primary school students and their interactions with teachers and classmates." Learning and Instruction 71 (2021): 101393.
-- `[Stark, 2015]` Stark, Emily. "Co-teaching: The benefits and disadvantages." Journal on best teaching practices 2.2 (2015): 7-8.
-
-
-- `[Vembye et al., 2024]` Vembye, Mikkel Helding, Felix Weiss, and Bethany Hamilton Bhat. "The effects of co-teaching and related collaborative models of instruction on student achievement: A systematic review and meta-analysis." Review of Educational Research 94.3 (2024): 376-422.
-
-- `[Nápoles, 2024]` Nápoles, Jessica. "Co-Teaching: A Review of the Literature." Update: Applications of Research in Music Education (2024): 87551233231226131.
+<!-- markdownlint-disable MD013 --><!-- Keep references on one line per reference, hence will break 80 characters per line -->
 
 - `[Barron & Friend, 2024]` Barron, Tammy, and Marilyn Friend. "Co-teaching: Are we there yet?." Journal of Educational and Psychological Consultation (2024): 1-26.
 - `[Haag et al., 2023]` Haag, Kirstin, et al. "Co-Teaching in undergraduate STEM education: a lever for pedagogical change toward evidence-based teaching?." CBE—Life Sciences Education 22.1 (2023): es1. [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074276/)
-
+- `[Kursch & Veteska]` Kursch, M., and P. J. Veteska. "Advantages and disadvantages of co-teaching." Prague, Czech Republic (2020).
+- `[Spörer et al., 2021]` Spörer, Nadine, Thorsten Henke, and Stefanie Bosse. "Is there a dark side of co-teaching? A study on the social participation of primary school students and their interactions with teachers and classmates." Learning and Instruction 71 (2021): 101393.
+- `[Stark, 2015]` Stark, Emily. "Co-teaching: The benefits and disadvantages." Journal on best teaching practices 2.2 (2015): 7-8.
+- `[Nápoles, 2024]` Nápoles, Jessica. "Co-Teaching: A Review of the Literature." Update: Applications of Research in Music Education (2024): 87551233231226131.
 - `[Rytivaara et al., 2024]` Rytivaara, Anna, et al. "Learning to co-teach: A systematic review." Education Sciences 14.1 (2024): 113.
+- `[Vembye et al., 2024]` Vembye, Mikkel Helding, Felix Weiss, and Bethany Hamilton Bhat. "The effects of co-teaching and related collaborative models of instruction on student achievement: A systematic review and meta-analysis." Review of Educational Research 94.3 (2024): 376-422.
+
+<!-- markdownlint-enable MD013 -->
