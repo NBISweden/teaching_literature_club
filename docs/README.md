@@ -27,7 +27,7 @@ and discuss those in an informal way.
 
 Date      |Person           |Description
 ----------|-----------------|-----------------------------------------------------------------------------------
-2025-04-11|Richèl Bilderbeek|[No paper yet] The differences when teaching a short-form course that the learners chose to follow
+2025-04-11|Richèl Bilderbeek|[De Grave, Willem, et al. "Workshops and seminars: enhancing effectiveness." Faculty Development in the Health Professions: A Focus on Research and Practice (2014): 181-195.](https://link.springer.com/chapter/10.1007/978-94-007-7612-8_9)
 
 <!-- markdownlint-enable MD013 -->
 
