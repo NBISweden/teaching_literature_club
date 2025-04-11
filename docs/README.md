@@ -17,8 +17,8 @@ and discuss those in an informal way.
 - Goal: read and discuss literature on teaching in an informal way
 - Frequency: around monthly
 - Day: scheduled at the end of a meeting
-- Time: 10:00 (sharp!) - 10:55 (sharp!).
-  Room will be open at 9:45
+- Time: 15:00 (sharp!) - 15:55 (sharp!).
+  Room will be open at 14:45
 - Duration: 55 minutes (max)
 - Meeting type: online-only
 - Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
@@ -27,7 +27,7 @@ and discuss those in an informal way.
 
 Date      |Person           |Description
 ----------|-----------------|-----------------------------------------------------------------------------------
-2025-04-11|Richèl Bilderbeek|[De Grave, Willem, et al. "Workshops and seminars: enhancing effectiveness." Faculty Development in the Health Professions: A Focus on Research and Practice (2014): 181-195.](https://link.springer.com/chapter/10.1007/978-94-007-7612-8_9)
+2025-05-27|Elin Kronander   |TBA
 
 <!-- markdownlint-enable MD013 -->
 
