@@ -112,7 +112,7 @@ Definitions:
   and skills, and the stimulation of changes in attitudes and behavior
   (Brooks-Harris and Stock-Ward 1999; Sork 1984; Steinert et al. 2006).  
 - Seminars (or short series of seminars) tend to focus on a single, primarily
-  cognitive topic, usually aimed at expanding the participants' knowledge base 
+  cognitive topic, usually aimed at expanding the participants' knowledge base
   (e.g. for education in the health professions)
 
 
@@ -161,10 +161,13 @@ Problem: The learning processes of teachers are
 rarely described, even though the success or failure of educational innovations
 relies heavily on their efforts.
 
-Solution: We recommend two ways to improve the effectiveness of workshops and seminars:
+Solution: We recommend two ways to improve the effectiveness of workshops
+and seminars:
 
-- to describe the activities in detail, in relation to their learning objectives and design
-- to ground faculty development activities in a theoretical framework of teacher learning
+- to describe the activities in detail,
+  in relation to their learning objectives and design
+- to ground faculty development activities
+  in a theoretical framework of teacher learning
 
 ### 9.4 New framework
 
@@ -179,18 +182,20 @@ learning and theory of teaching.
 The framework consists of three main elements:
 
 - (1) learning outcomes;
-    - cognitive 1: changes in knowledge and beliefs (awareness, confirmed or new ideas)
-    - cognitive 2: intent to practice (to try or continue to use new practices,
-    or to continue using current practices)
+    - cognitive 1: changes in knowledge and beliefs
+      (awareness, confirmed or new ideas)
+    - cognitive 2: intent to practice
+      (to try or continue to use new practices, or to continue using
+      current practices)
     - behavioral: changes in skills and behavior
 - (2) learning activities;
     - (1) cognitive learning activities: those mental activities that learners
-    use to process information, leading to changes in knowledge and beliefs,
-    (e.g. by relating or structuring information)
+      use to process information, leading to changes in knowledge and beliefs,
+      (e.g. by relating or structuring information)
     - (2) affective learning activities: e.g. focusing attention, self-motivation
-    and coping with feelings of uncertainty, boredom or distraction.
+      and coping with feelings of uncertainty, boredom or distraction.
     - (3) regulative or metacognitive activities: monitor, adjust and evaluate
-    their cognitive and affective learning activities
+      their cognitive and affective learning activities
 - (3) instructional methods to elicit specific learning activities.
 
 
