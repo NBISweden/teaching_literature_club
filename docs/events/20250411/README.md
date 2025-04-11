@@ -70,6 +70,8 @@ This paper taught me:
 
 ## Notes
 
+<!-- markdownlint-disable MD013 --><!-- Mermaid cannot be split up over lines, hence will break 80 characters per line -->
+
 ```mermaid
 flowchart TD
   faculty_development[Faculty development]
@@ -94,7 +96,9 @@ flowchart TD
 
 ```
 
-Asking questions such as the following (Clark 2010; Yardley and Dornan 2012): 
+<!-- markdownlint-enable MD013 -->
+
+Asking questions such as the following (Clark 2010; Yardley and Dornan 2012):
 
 - What are the features of this particular method?
 - What is the evidence to support its use?
@@ -108,13 +112,13 @@ Definitions:
   and skills, and the stimulation of changes in attitudes and behavior
   (Brooks-Harris and Stock-Ward 1999; Sork 1984; Steinert et al. 2006).  
 - Seminars (or short series of seminars) tend to focus on a single, primarily
-  cognitive topic, usually aimed at expanding the participants’ knowledge base (e.g. for
-  education in the health professions)
-
+  cognitive topic, usually aimed at expanding the participants' knowledge base 
+  (e.g. for education in the health professions)
 
 
 Steinert et al. (2006) deduced five important characteristics of effective
-faculty development workshops: 
+faculty development workshops:
+
 - the use of experiential learning
 - the provision of feedback
 - effective peer and colleague relationships
@@ -123,8 +127,9 @@ faculty development workshops:
     - ?
 
 Workshops have impacts:
-- changing teachers’ attitudes, skills and behavior
-- can enhance teachers’ motivation, self-awareness and enthusiasm
+
+- changing teachers' attitudes, skills and behavior
+- can enhance teachers' motivation, self-awareness and enthusiasm
 
 Seminars have a positive impact on, according to first paper:
 
@@ -149,19 +154,21 @@ Positive outcomes of seminars is explained by:
 - the limited number of participants and stability of the group composition
 - the focus on cases and the application of the acquired knowledge
 - the role of the facilitator and adequate preparation for the seminar
-- the scheduling of sufficient time between meetings (Davis and Davis 2010; Spruijt et al. 2012)
+- the scheduling of sufficient time between meetings (Davis and Davis 2010;
+  Spruijt et al. 2012)
 
 Problem: The learning processes of teachers are
-rarely described, even though the success or failure of educational innovations relies
-heavily on their efforts. 
+rarely described, even though the success or failure of educational innovations
+relies heavily on their efforts.
 
-Solution: We recommend two ways to improve the effectiveness of workshops and seminars: 
+Solution: We recommend two ways to improve the effectiveness of workshops and seminars:
+
 - to describe the activities in detail, in relation to their learning objectives and design
 - to ground faculty development activities in a theoretical framework of teacher learning
 
 ### 9.4 New framework
 
-'Congruence and friction between learning and teaching'by 
+'Congruence and friction between learning and teaching'by
 Jan D Vermunt, Nico Verloop tries to get more interaction between theory of
 learning and theory of teaching.
 
@@ -169,19 +176,20 @@ learning and theory of teaching.
   should begin with defining the learning objectives (i.e. what is to be
   learned)'. Who already does that?
 
-The framework consists of three main elements: 
+The framework consists of three main elements:
+
 - (1) learning outcomes;
-  - cognitive 1: changes in knowledge and beliefs (awareness, confirmed or new ideas)
-  - cognitive 2: intent to practice (to try or continue to use new practices,
-    or to continue using current practices) 
-  - behavioral: changes in skills and behavior
+    - cognitive 1: changes in knowledge and beliefs (awareness, confirmed or new ideas)
+    - cognitive 2: intent to practice (to try or continue to use new practices,
+    or to continue using current practices)
+    - behavioral: changes in skills and behavior
 - (2) learning activities;
-  - (1) cognitive learning activities: those mental activities that learners
+    - (1) cognitive learning activities: those mental activities that learners
     use to process information, leading to changes in knowledge and beliefs,
     (e.g. by relating or structuring information)
-  - (2) affective learning activities: e.g. focusing attention, self-motivation
-    and coping with feelings of uncertainty, boredom or distraction. 
-  - (3) regulative or metacognitive activities: monitor, adjust and evaluate
+    - (2) affective learning activities: e.g. focusing attention, self-motivation
+    and coping with feelings of uncertainty, boredom or distraction.
+    - (3) regulative or metacognitive activities: monitor, adjust and evaluate
     their cognitive and affective learning activities
 - (3) instructional methods to elicit specific learning activities.
 
@@ -200,7 +208,7 @@ The challenge for the designers and facilitators is to create:
 > after having formulated their own learning needs and goals,
 > even if their attendance at the workshop was compulsory.
 
-How much? No data here: could be a significant irrelevant difference 
+How much? No data here: could be a significant irrelevant difference
 or a non-significant relevant
 
 Actually, this whole chapter shows no data.
@@ -208,7 +216,7 @@ This means I do not believe it.
 
 Also, this workshop seems to have stopped.
 Related workshops, e.g.
-https://www.erasmusmc.nl/nl-nl/onderwijs/opleidingen/teach_the_teacher_iii
+<https://www.erasmusmc.nl/nl-nl/onderwijs/opleidingen/teach_the_teacher_iii>
 show no data either.
 
 ## 9.5.2
