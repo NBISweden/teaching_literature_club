@@ -1,5 +1,11 @@
 #!/bin/env Rscript
-t <- readr::read_csv(file = "n_visitors_per_event.csv", show_col_types = FALSE)
+t <- readr::read_csv(
+  file = "n_visitors_per_event.csv",
+  col_types = readr::cols(
+    date = readr::col_date(format = "%Y%m%d"),
+    n_visitors = readr::col_integer()
+  )
+)
 
 ggplot2::ggplot(t, ggplot2::aes(x = date, y = n_visitors)) + 
   ggplot2::geom_line() +
