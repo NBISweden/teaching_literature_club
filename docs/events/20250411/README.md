@@ -171,7 +171,7 @@ and seminars:
 
 ### 9.4 New framework
 
-'Congruence and friction between learning and teaching'by
+'Congruence and friction between learning and teaching' by
 Jan D Vermunt, Nico Verloop tries to get more interaction between theory of
 learning and theory of teaching.
 
