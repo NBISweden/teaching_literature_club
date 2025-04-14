@@ -66,7 +66,7 @@ This paper taught me:
   I will read up more on that,
   as this may be useful.
 - the term 'experts by experience'. I will use this as a friendlier
-  synonymn for my term, which is 'experienced beginner'
+  synonym for my term, which is 'experienced beginner'
 
 ## Notes
 
