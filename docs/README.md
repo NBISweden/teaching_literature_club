@@ -27,7 +27,7 @@ and discuss those in an informal way.
 
 Date      |Person           |Description
 ----------|-----------------|-----------------------------------------------------------------------------------
-2025-05-27|Elin Kronander   |TBA
+2025-05-27|Elin Kronander   |Discuss: Andrés Garzón et al. **E-learning strategies from a bioinformatics postgraduate programme to improve student engagement and completion rate**, Bioinformatics Advances (2022) [https://doi.org/10.1093/bioadv/vbac031](https://doi.org/10.1093/bioadv/vbac031)
 
 <!-- markdownlint-enable MD013 -->
 
