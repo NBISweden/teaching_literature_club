@@ -1,5 +1,4 @@
-
-
+#!/bin/env Rscript
 read_data <- function() {
   readr::read_csv(file = "suppl6.csv", show_col_types = FALSE)
 }
@@ -103,6 +102,18 @@ create_course_satisfaction_changes_test_csv <- function() {
   )
 }
 create_course_satisfaction_changes_test_csv()
+
+create_course_satisfaction_changes_test_md <- function() {
+  t <- calc_tests_course_and_all()
+  t$p_value <- round(t$p_value, digits = 3)
+  
+  readr::write_lines(
+    x = knitr::kable(t),
+    file = "course_satisfaction_changes_test.md"
+  )
+}
+create_course_satisfaction_changes_test_csv()
+
 
 appender <- function(
     courses_label

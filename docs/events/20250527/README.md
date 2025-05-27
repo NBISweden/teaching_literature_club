@@ -12,25 +12,69 @@
 
 ## Notes
 
-### My one-line summary
+### Questions
 
-Ambitious course designers optimize on
-useless metric and try to oversell it.
+- Q: What grade on a scale from 1 (worst) to 10 (best) would you give this paper?
+
+4.0, as I do enjoy the ambitions of the authors,
+but they only deliver parts of
+the data and oversell the results.
+
+- Q: How would you praise the paper?
+
+It seems to be written by teachers that seem ambitious,
+strive to follow evidence-based best practices
+and know part of the literature.
+
+- Q: How would you criticise the paper?
+
+- The data and code are only supplied partially
+- No statistics, but do explain results on eyeballing and
+  wishful thinking
+- They could have read that there is no relation
+  between teaching ratings and student learning `[Uttl et al., 2017]`.
+
+- Q: How would you summarize the paper in one line?
+
+Ambitious teachers overselling a course that has reduced its dropout
+rate for an unknown reason.
+
+- Q: How would you explain the reduced dropout rate?
+
+
+
+- Q: How would this paper make us a better teacher?
+  (putting in bigger context, as recommended by `[Deenadayalan et al., 2008]`)
+
+This paper taught me:
+
+- How it looks like when authors struggle to get their paper published
+
+### Course history
+
+- The course still exists at
+  [the course website](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)
+- Costs nowadays: 855 euros per year, for a two-year course, however,
+  there are also these costs (from
+  [the course website, section 'Pagos'](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)):
+    - Reservation fee: 128.25 euros
+    - Registration fee (once admission is notified and before the program begins): 363.38 euros
+    - First installment payment (January 2026): 363.37 euros
 
 ### My opinion
 
 - They claim they share all data, but they do not
 - They do not share their analysis code
-
-
-
-
+- Figure 2c, showing dropout and yield rate is the most promising
+  result. However, its last year shaped by the corona pandemic.
+  Ignoring the last value still shows a promising trend.
+- There is no data to statistically show that the course grades have improved
+- There is no evidence that satisfaction has changed in any way
 
 They measure the course satisfaction of the learners.
 We know from meta-analyses that there is no relation
 between teaching ratings and student learning `[Uttl et al., 2017]`.
 I wonder how they explain the change (if any) of the values?
-
 
 Why do they keep track of countries and regions?
 
@@ -59,10 +103,22 @@ Year|Number of evaluations|Percentage evaluations per registration
 2018-2019|33 |33/62=53%
 2019-2020|37 |37/78=47%
 
+## Grades
+
+I think this is what it is about.
+
+Starting year|Average grade
+-------------|-------------
+2015         |7.4
+2016         |7.6
+2017         |?
+2018         |8.1
+2019         |7.95
+
 In figure 2d, what was the average final grade for the green/2017-2018 cohort?
 
 From figure 2e, I see no reason to believe that the average grade
-has changed.
+has changed. I cannot check, as this data has not been published.
 
 Why not publish the grades?
 
@@ -103,11 +159,26 @@ except when I combine the satisfactions of the courses:
 |Bioinformatics in general      |   0.688|FALSE       |
 |Courses combined               |   0.036|TRUE        |
 
+This means that this statement is nonsense:
+
+> the scores show a positive trend over the successive course editions,
+> which could be related to both the faculty’s accumulated experience,
+> and the students’ higher profiles.
+
+Also, not the survivorship bias here:
+
 > The average mark given by the students for the course as a whole
 > has always been above 8 out of 10 and is currently close to 9.
 
-Yes, let's focus on the learners that stay: this will ensure high grades. 
+## Misc
 
+> In addition, students’ perceptions must be considered
+> with caution (Islam, 2013).
+> It was shown, for example, that both teachers and students resisted active
+> teaching strategies and preferred traditional methods,
+> despite better results in acquired competencies (Deslauriers et al., 2019).
+
+Fun!
 
 ## References
 
