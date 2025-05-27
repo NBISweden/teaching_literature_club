@@ -6,11 +6,12 @@ read_data <- function() {
 read_data()
 
 get_satisfactions <- function() {
-  t <- read_data() |> 
+  t <- read_data()
+  t <- t |> 
     dplyr::select(Edition, 10:ncol(t)) |>
     tidyr::pivot_longer(!Edition, names_to = "course")
   names(t) <- c("edition", "course", "satisfaction")
-  t$starting_year <- satisfactions$edition |> 
+  t$starting_year <- t$edition |> 
     stringr::str_sub(3, 4) |> as.numeric()
   t$iteration <- t$starting_year -
     min(t$starting_year)
@@ -78,11 +79,12 @@ ggplot2::ggplot(
 
 ggplot2::ggsave("satisfactions.png", width = 4, height = 7)
 
-names(satisfactions)
-
 satisfactions <- get_satisfactions()
 
-satisfactions_with_stats <- merge(satisfactions, tests_courses)
+satisfactions_with_stats <- merge(
+  get_satisfactions(), 
+  calc_tests_courses()
+)
 
 appender <- function(
     courses_label
@@ -132,3 +134,4 @@ ggplot2::ggplot(
     axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust = 1)
   )
 
+ggplot2::ggsave("satisfactions_with_stats.png", width = 7, height = 7)

@@ -79,7 +79,20 @@ Well:
   For R, this trend is not as clear
 - For other subjects, there is no trend at all
 - The data uses a scale from 1-10, where this is plotted from 1-5. Why?
-  
+
+
+course                        |p_value|is_changing
+------------------------------|-------|-----------
+Sequence similarity searching |0.97|FALSE
+Bioinformatics databases      |0.62|FALSE
+Linux                         |0.28|FALSE
+R programming                 |0.29|FALSE
+Perl/Python programming       |0.18|FALSE
+NGS and RNA-Seq data analysing|0.86|FALSE
+Genome annotation             |0.15|FALSE
+Bioinformatics in general     |0.69|FALSE
+
+
 
 
 ## References
