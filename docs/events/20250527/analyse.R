@@ -6,13 +6,15 @@ read_data <- function() {
 read_data()
 
 get_satisfactions <- function() {
-  satisfactions <- read_data() |> 
+  t <- read_data() |> 
     dplyr::select(Edition, 10:ncol(t)) |>
     tidyr::pivot_longer(!Edition, names_to = "course")
-  names(satisfactions) <- c("edition", "course", "satisfaction")
-  satisfactions$starting_year <- satisfactions$edition |> 
+  names(t) <- c("edition", "course", "satisfaction")
+  t$starting_year <- satisfactions$edition |> 
     stringr::str_sub(3, 4) |> as.numeric()
-  satisfactions
+  t$iteration <- t$starting_year -
+    min(t$starting_year)
+  t
 }
 get_satisfactions()
 
@@ -62,6 +64,7 @@ calc_tests_course_and_all <- function() {
   )
 }
 calc_tests_course_and_all()
+satisfactions <- get_satisfactions()
 
 ggplot2::ggplot(
   satisfactions,
@@ -75,9 +78,36 @@ ggplot2::ggplot(
 
 ggplot2::ggsave("satisfactions.png", width = 4, height = 7)
 
+names(satisfactions)
+
+satisfactions <- get_satisfactions()
+
+satisfactions_with_stats <- merge(satisfactions, tests_courses)
+
+appender <- function(
+    courses_label
+) { 
+  tests_courses <- calc_tests_courses()  
+  # message("Length: " , length(string), ", String:", string)
+  #row_index <- which(string == tests_courses$course)
+  t <- tibble::tibble(
+    course = courses_label  
+  )
+  t <- merge(t, tests_courses)
+  t$label <- paste0(
+    t$course,
+    ", p_value: " , 
+    round(t$p_value, digits = 2)
+  )
+  t$label
+}
+
+
+names(satisfactions_with_stats)
+
 ggplot2::ggplot(
-  satisfactions,
-  ggplot2::aes(x = starting_year, y = satisfaction)
+  satisfactions_with_stats,
+  ggplot2::aes(x = iteration, y = satisfaction)
 ) + ggplot2::geom_point() + 
   ggplot2::geom_smooth(
     formula = y ~ x, 
@@ -93,7 +123,10 @@ ggplot2::ggplot(
     ), 
     formula = y ~ x
   ) +
-  ggplot2::facet_grid(rows = ggplot2::vars(course)) +
+  ggplot2::facet_grid(
+    rows = ggplot2::vars(course),
+    labeller = ggplot2::as_labeller(appender)
+  ) +
   ggplot2::theme(
     strip.text.y = ggplot2::element_text(angle = 0),
     axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust = 1)
