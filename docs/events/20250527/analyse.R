@@ -87,8 +87,8 @@ satisfactions_with_stats <- merge(
 )
 
 create_course_satisfaction_changes_test_csv <- function() {
-  t <- calc_tests_courses()
-  t$p_value <- round(t$p_value, digits = 2)
+  t <- calc_tests_course_and_all()
+  t$p_value <- round(t$p_value, digits = 3)
   readr::write_csv(
     x = t,
     file = "course_satisfaction_changes_test.csv"

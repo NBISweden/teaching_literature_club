@@ -1,9 +1,10 @@
 course,p_value,is_changing
-Sequence similarity searching,0.97,FALSE
-Bioinformatics databases,0.62,FALSE
-Linux,0.28,FALSE
-R programming,0.29,FALSE
-Perl/Python programming,0.18,FALSE
-NGS and RNA-Seq data analysing,0.86,FALSE
-Genome annotation,0.15,FALSE
-Bioinformatics in general,0.69,FALSE
+Sequence similarity searching,0.974,FALSE
+Bioinformatics databases,0.615,FALSE
+Linux,0.277,FALSE
+R programming,0.289,FALSE
+Perl/Python programming,0.176,FALSE
+NGS and RNA-Seq data analysing,0.857,FALSE
+Genome annotation,0.154,FALSE
+Bioinformatics in general,0.688,FALSE
+All,0.036,TRUE
