@@ -81,17 +81,33 @@ Well:
 - The data uses a scale from 1-10, where this is plotted from 1-5. Why?
 
 
-course                        |p_value|is_changing
-------------------------------|-------|-----------
-Sequence similarity searching |0.974|FALSE
-Bioinformatics databases      |0.616|FALSE
-Linux                         |0.277|FALSE
-R programming                 |0.289|FALSE
-Perl/Python programming       |0.176|FALSE
-NGS and RNA-Seq data analysing|0.857|FALSE
-Genome annotation             |0.154|FALSE
-Bioinformatics in general     |0.688|FALSE
-All combined                  |0.036|TRUE
+##  Fig 4a, section 4.3: student course satisfaction
+
+In section '4.3 Students' and teachers' overall course satisfaction
+help to progressively improve the programme':
+the problem with this title is that
+there is no change in any satisfaction over the years,
+except when I combine the satisfactions of the courses:
+
+|course                         | p_value|is_changing |
+|:------------------------------|-------:|:-----------|
+|Course grade                   |   0.684|FALSE       |
+|Relative course grade          |   0.438|FALSE       |
+|Sequence similarity searching  |   0.974|FALSE       |
+|Bioinformatics databases       |   0.615|FALSE       |
+|Linux                          |   0.277|FALSE       |
+|R programming                  |   0.289|FALSE       |
+|Perl/Python programming        |   0.176|FALSE       |
+|NGS and RNA-Seq data analysing |   0.857|FALSE       |
+|Genome annotation              |   0.154|FALSE       |
+|Bioinformatics in general      |   0.688|FALSE       |
+|Courses combined               |   0.036|TRUE        |
+
+> The average mark given by the students for the course as a whole
+> has always been above 8 out of 10 and is currently close to 9.
+
+Yes, let's focus on the learners that stay: this will ensure high grades. 
+
 
 ## References
 

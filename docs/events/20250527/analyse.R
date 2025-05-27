@@ -7,10 +7,15 @@ read_data()
 
 get_satisfactions <- function() {
   t <- read_data()
-  t <- t |> 
-    dplyr::select(Edition, 10:ncol(t)) |>
+
+  t <- t |> dplyr::select(1, 8:ncol(t)) 
+
+  names(t) <- c("Edition", "Course grade", "Relative course grade", names(t)[-3:-1])
+  
+  t <- t |>
     tidyr::pivot_longer(!Edition, names_to = "course")
   names(t) <- c("edition", "course", "satisfaction")
+  
   t$starting_year <- t$edition |> 
     stringr::str_sub(3, 4) |> as.numeric()
   t$iteration <- t$starting_year -
@@ -39,10 +44,13 @@ calc_tests_courses <- function() {
 }
 calc_tests_courses()
 
-calc_tests_all <- function() {
+calc_tests_course_combined <- function() {
   satisfactions <- get_satisfactions()
+  satisfactions <- satisfactions |> 
+    dplyr::filter(course != "Course grade") |>
+    dplyr::filter(course != "Relative course grade")
   test_all <- tibble::tibble(
-    course = "All",
+    course = "Courses combined",
     p_value = NA,
     is_changing = NA
   )
@@ -55,13 +63,13 @@ calc_tests_all <- function() {
   test_all$is_changing <- test_all$p_value < 0.05
   test_all
 }
-calc_tests_all()
+calc_tests_course_combined()
 names(t)
 
 calc_tests_course_and_all <- function() {
   dplyr::bind_rows(
     calc_tests_courses(),
-    calc_tests_all()
+    calc_tests_course_combined()
   )
 }
 calc_tests_course_and_all()
