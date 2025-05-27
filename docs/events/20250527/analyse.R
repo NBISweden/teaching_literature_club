@@ -86,6 +86,16 @@ satisfactions_with_stats <- merge(
   calc_tests_courses()
 )
 
+create_course_satisfaction_changes_test_csv <- function() {
+  t <- calc_tests_courses()
+  t$p_value <- round(t$p_value, digits = 2)
+  readr::write_csv(
+    x = t,
+    file = "course_satisfaction_changes_test.csv"
+  )
+}
+create_course_satisfaction_changes_test_csv()
+
 appender <- function(
     courses_label
 ) { 
@@ -130,8 +140,8 @@ ggplot2::ggplot(
     labeller = ggplot2::as_labeller(appender)
   ) +
   ggplot2::theme(
-    strip.text.y = ggplot2::element_text(angle = 0),
-    axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust = 1)
+    strip.text.y = ggplot2::element_text(angle = 0)
+    # axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust = 1)
   )
 
 ggplot2::ggsave("satisfactions_with_stats.png", width = 7, height = 7)
