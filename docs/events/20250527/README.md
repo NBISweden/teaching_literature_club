@@ -28,11 +28,15 @@ and know part of the literature.
 
 - Q: How would you criticise the paper?
 
+- The title is false: 'E-learning strategies from a bioinformatics
+  postgraduate programme to improve student engagement' should be called
+  'A bioinformatics postgraduate programme that has reduced its dropout rate'
 - The data and code are only supplied partially
 - No statistics, but do explain results on eyeballing and
   wishful thinking
 - They could have read that there is no relation
   between teaching ratings and student learning `[Uttl et al., 2017]`.
+- They write 'we show' without showing it at all
 
 - Q: How would you summarize the paper in one line?
 
@@ -41,7 +45,30 @@ rate for an unknown reason.
 
 - Q: How would you explain the reduced dropout rate?
 
+It is not an increase in course satisfaction, as there is none.
 
+They state that:
+
+> We showed that
+> the differentiation of teaching roles, including mentors that monitor
+> small groups and provide rapid-response support to students, can
+> make a major contribution to improving the performance of individ-
+> ual learners. The intended outcome of this mentoring strategy is to
+> reduce the impact of any negative critical incidents on the students’
+> perception, which has been pointed as a major factor in student
+> dropout (Lin, 2011)
+
+However, they do not show it. Figure 4b, panel 4.1 'The importance
+of the tutor's contribution' shows:
+
+- no clear increase at all
+- is from the teacher's perspective: the students have never
+  been asked.
+- the data is absent to check
+- there is no statistics.
+- few teachers filling in the survey
+
+I do assume the literature is right, they just don't show it.
 
 - Q: How would this paper make us a better teacher?
   (putting in bigger context, as recommended by `[Deenadayalan et al., 2008]`)
@@ -49,12 +76,15 @@ rate for an unknown reason.
 This paper taught me:
 
 - How it looks like when authors struggle to get their paper published
+- A paper to read, that may show that negative critical incidents
+  are a major factor in student
+  dropout (Lin, 2011)
 
 ### Course history
 
 - The course still exists at
   [the course website](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)
-- Costs nowadays: 855 euros per year, for a two-year course, however,
+- Costs nowadays: 855 euros per year. However,
   there are also these costs (from
   [the course website, section 'Pagos'](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)):
     - Reservation fee: 128.25 euros
@@ -165,10 +195,44 @@ This means that this statement is nonsense:
 > which could be related to both the faculty’s accumulated experience,
 > and the students’ higher profiles.
 
-Also, not the survivorship bias here:
+![Course satisfaction](satisfactions.png)
+
+![Course satisfaction with statistics](satisfactions_with_stats.png)
+
+Also, note the survivorship bias here:
 
 > The average mark given by the students for the course as a whole
 > has always been above 8 out of 10 and is currently close to 9.
+
+## As quoted by others
+
+From [Wolff, Katharina, et al. "Data literacy in genome research." Journal of Integrative Bioinformatics 20.4 (2024): 20230033]:
+
+- Previous publications also reported success with transdisciplinary
+  approaches used for diverse cohorts [xx, xx]
+  and the particular importance of a practical methodology and problem-based
+  learning approaches [25].
+
+This paper did not prove the particular importance of a practical
+methodology and problem-based learning approaches...?
+
+From [Minga Vallejo, Ruth Elizabeth. "Construcción social de aprendizajes a través de MOOCS para la sustentabilidad energética como espacios para la innovación abierta y colaborativa." (2024)]:
+
+> 26 used a quantitative method, such as [x], [x], [x].
+> 10 used a mixed method, such as [x], [x], [69]
+
+Ah, they used a mixed method ...?
+
+The second and last mention of the same study:
+
+> Of the 70 articles identified in Scopus and Wos,
+> 50 used the qualitative method, some examples are articles with
+> identification numbers [x], [x], [x];
+> 25 of these articles used a phenomenological design,
+> some examples are studies [x], [x], [69]
+
+I assume this a mistranslation: using a 'phenomenological design'
+is new to me ...?
 
 ## Misc
 
