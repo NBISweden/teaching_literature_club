@@ -14,7 +14,7 @@ The NBIS' teaching literature club
 in which we read literature regarding teaching
 and discuss those in an informal way.
 
-Go to the nicely rendered pages [here](https://bit.ly/teaching_literature_club).
+Go to [the nicely rendered pages](https://bit.ly/teaching_literature_club).
 
 ## Files used by continuous integration scripts
 

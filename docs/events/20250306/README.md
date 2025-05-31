@@ -3,7 +3,7 @@
 - Paper: Haag, Kirstin, et al. "Co-Teaching in undergraduate STEM
   education: a lever for pedagogical change toward evidence-based teaching?."
   CBE—Life Sciences Education 22.1 (2023): es1.
-  [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074276/)
+  [site](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074276/)
 
 ## Notes by Richel
 
@@ -90,7 +90,7 @@ A review on how to learn to co-teach is `[Rytivaara et al., 2024]`.
 <!-- markdownlint-disable MD013 --><!-- Keep references on one line per reference, hence will break 80 characters per line -->
 
 - `[Barron & Friend, 2024]` Barron, Tammy, and Marilyn Friend. "Co-teaching: Are we there yet?." Journal of Educational and Psychological Consultation (2024): 1-26.
-- `[Haag et al., 2023]` Haag, Kirstin, et al. "Co-Teaching in undergraduate STEM education: a lever for pedagogical change toward evidence-based teaching?." CBE—Life Sciences Education 22.1 (2023): es1. [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074276/)
+- `[Haag et al., 2023]` Haag, Kirstin, et al. "Co-Teaching in undergraduate STEM education: a lever for pedagogical change toward evidence-based teaching?." CBE—Life Sciences Education 22.1 (2023): es1. [site](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074276/)
 - `[Kursch & Veteska]` Kursch, M., and P. J. Veteska. "Advantages and disadvantages of co-teaching." Prague, Czech Republic (2020).
 - `[Spörer et al., 2021]` Spörer, Nadine, Thorsten Henke, and Stefanie Bosse. "Is there a dark side of co-teaching? A study on the social participation of primary school students and their interactions with teachers and classmates." Learning and Instruction 71 (2021): 101393.
 - `[Stark, 2015]` Stark, Emily. "Co-teaching: The benefits and disadvantages." Journal on best teaching practices 2.2 (2015): 7-8.

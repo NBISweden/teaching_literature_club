@@ -2,19 +2,19 @@
 
 - Date: 2025-05-25
 - Lead discussion: Elin Kronander
-- Paper: Andrés Garzón et al. 
+- Paper: Andrés Garzón et al.
   E-learning strategies from a bioinformatics postgraduate programme
   to improve student engagement and completion rate,
   Bioinformatics Advances (2022)
   [`https://doi.org/10.1093/bioadv/vbac031`](https://doi.org/10.1093/bioadv/vbac031)
 
 
-
 ## Notes
 
 ### Questions
 
-- Q: What grade on a scale from 1 (worst) to 10 (best) would you give this paper?
+- Q: What grade on a scale from 1 (worst) to 10 (best)
+  would you give this paper?
 
 4.0, as I do enjoy the ambitions of the authors,
 but they only deliver parts of
@@ -88,7 +88,8 @@ This paper taught me:
   there are also these costs (from
   [the course website, section 'Pagos'](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)):
     - Reservation fee: 128.25 euros
-    - Registration fee (once admission is notified and before the program begins): 363.38 euros
+    - Registration fee (once admission is notified and before the program
+      begins): 363.38 euros
     - First installment payment (January 2026): 363.37 euros
 
 ### My opinion
@@ -108,7 +109,8 @@ I wonder how they explain the change (if any) of the values?
 
 Why do they keep track of countries and regions?
 
-`suppl6.xlsx` shows that there are 127 learners over 5 years = ~25 learners per year
+`suppl6.xlsx` shows that there are 127 learners
+over 5 years = ~25 learners per year
 
 > (more than 30 students on average; see Fig. 3a for details)
 
@@ -126,7 +128,7 @@ Year     |Number of registrations
 From `suppl6.xlsx`:
 
 Year|Number of evaluations|Percentage evaluations per registration
----------|---|---
+---------|---|---------
 2015-2016|16 |16/59=27%
 2016-2017|18 |18/53=34%
 2017-2018|22 |22/60=37%
@@ -167,7 +169,7 @@ Well:
 - The data uses a scale from 1-10, where this is plotted from 1-5. Why?
 
 
-##  Fig 4a, section 4.3: student course satisfaction
+## Fig 4a, section 4.3: student course satisfaction
 
 In section '4.3 Students' and teachers' overall course satisfaction
 help to progressively improve the programme':
@@ -175,19 +177,19 @@ the problem with this title is that
 there is no change in any satisfaction over the years,
 except when I combine the satisfactions of the courses:
 
-|course                         | p_value|is_changing |
-|:------------------------------|-------:|:-----------|
-|Course grade                   |   0.684|FALSE       |
-|Relative course grade          |   0.438|FALSE       |
-|Sequence similarity searching  |   0.974|FALSE       |
-|Bioinformatics databases       |   0.615|FALSE       |
-|Linux                          |   0.277|FALSE       |
-|R programming                  |   0.289|FALSE       |
-|Perl/Python programming        |   0.176|FALSE       |
-|NGS and RNA-Seq data analysing |   0.857|FALSE       |
-|Genome annotation              |   0.154|FALSE       |
-|Bioinformatics in general      |   0.688|FALSE       |
-|Courses combined               |   0.036|TRUE        |
+course                         | p_value|is_changing
+-------------------------------|--------|------------
+Course grade                   |   0.684|FALSE
+Relative course grade          |   0.438|FALSE
+Sequence similarity searching  |   0.974|FALSE
+Bioinformatics databases       |   0.615|FALSE
+Linux                          |   0.277|FALSE
+R programming                  |   0.289|FALSE
+Perl/Python programming        |   0.176|FALSE
+NGS and RNA-Seq data analysing |   0.857|FALSE
+Genome annotation              |   0.154|FALSE
+Bioinformatics in general      |   0.688|FALSE
+Courses combined               |   0.036|TRUE
 
 This means that this statement is nonsense:
 
@@ -206,7 +208,8 @@ Also, note the survivorship bias here:
 
 ## As quoted by others
 
-From [Wolff, Katharina, et al. "Data literacy in genome research." Journal of Integrative Bioinformatics 20.4 (2024): 20230033]:
+From [Wolff, Katharina, et al. "Data literacy in genome research." Journal
+of Integrative Bioinformatics 20.4 (2024): 20230033]:
 
 - Previous publications also reported success with transdisciplinary
   approaches used for diverse cohorts [xx, xx]
@@ -216,7 +219,9 @@ From [Wolff, Katharina, et al. "Data literacy in genome research." Journal of In
 This paper did not prove the particular importance of a practical
 methodology and problem-based learning approaches...?
 
-From [Minga Vallejo, Ruth Elizabeth. "Construcción social de aprendizajes a través de MOOCS para la sustentabilidad energética como espacios para la innovación abierta y colaborativa." (2024)]:
+From [Minga Vallejo, Ruth Elizabeth. "Construcción social de aprendizajes
+a través de MOOCS para la sustentabilidad energética como espacios para
+la innovación abierta y colaborativa." (2024)]:
 
 > 26 used a quantitative method, such as [x], [x], [x].
 > 10 used a mixed method, such as [x], [x], [69]
