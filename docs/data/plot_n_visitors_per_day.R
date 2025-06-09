@@ -7,11 +7,11 @@ t <- readr::read_csv(
   )
 )
 
-ggplot2::ggplot(t, ggplot2::aes(x = date, y = n_visitors)) + 
+ggplot2::ggplot(t, ggplot2::aes(x = date, y = n_visitors)) +
   ggplot2::geom_line() +
   ggplot2::geom_point() +
   ggplot2::scale_y_continuous(
-    "Number of visitors", 
+    "Number of visitors",
     breaks = seq(0, max(t$n_visitors)),
     limits = c(0, max(t$n_visitors))
   ) +

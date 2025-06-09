@@ -29,7 +29,7 @@ simulate_p_values <- function(
   testthat::expect_equal(after_sd, 0.5)
   testthat::expect_equal(n_people, 9)
   testthat::expect_equal(n_p_values, 100)
-  
+
   p_values <- rep(NA, n_p_values)
   for (i in seq_len(n_p_values)) {
     dist_before <- rnorm(n = n_people, mean = before_mean, sd = before_sd)
@@ -54,12 +54,12 @@ t <- dplyr::bind_rows(all_data)
 
 
 ggplot2::ggplot(t, ggplot2::aes(x = p)) +
-  ggplot2::geom_histogram() + 
+  ggplot2::geom_histogram() +
   ggplot2::facet_wrap(ggplot2::vars(i), ncol = 2) +
   ggplot2::scale_x_continuous(limits = c(0.0, 0.06)) +
   ggplot2::geom_vline(xintercept = expected_p_value) +
   ggplot2::geom_vline(xintercept = 0.05, lty = "dashed") +
-  ggplot2::geom_vline(xintercept = mean(t$p), color = "red") + 
+  ggplot2::geom_vline(xintercept = mean(t$p), color = "red") +
   ggplot2::labs(
     title = "Distribution of simulated p-values, multiple times",
     caption = paste0(

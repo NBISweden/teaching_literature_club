@@ -49,20 +49,23 @@ n <- min(n_ratings, n_grades)
 names(grades) <- c("group", "grade")
 
 
-average_ratings_per_group <- ratings |> dplyr::select(group, overall) |>
+average_ratings_per_group <- ratings |>
+  dplyr::select(group, overall) |>
   dplyr::group_by(group) |> dplyr::summarise(mean_overall = mean(overall))
-average_grade_per_group <- grades |> dplyr::select(group, grade) |>
-  dplyr::group_by(group) |> dplyr::summarise(mean_grade = mean(grade))
+average_grade_per_group <- grades |>
+  dplyr::select(group, grade) |>
+  dplyr::group_by(group) |>
+  dplyr::summarise(mean_grade = mean(grade))
 t <- merge(average_ratings_per_group, average_grade_per_group)
 t
 
 ggplot2::ggplot(
-  t, 
+  t,
   ggplot2::aes(x = mean_overall, y = mean_grade)
-) + ggplot2::geom_point() + 
+) + ggplot2::geom_point() +
   ggplot2::scale_x_continuous(limits = c(1, 5)) +
   ggplot2::scale_y_continuous(limits = c(0, 100)) +
-  ggplot2::geom_smooth(method = "lm") + 
+  ggplot2::geom_smooth(method = "lm") +
   ggplot2::labs(caption = paste0("n: ", n))
 
 ggplot2::ggsave(filename = "macnell.png", width = 7, height = 7)
