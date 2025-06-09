@@ -15,9 +15,9 @@
 - Q: What grade on a scale from 1 (worst) to 10 (best)
   would you give this paper?
 
-  4.0, as I do enjoy the ambitions of the authors,
-  but they only deliver parts of
-  the data and oversell the results.
+    4.0, as I do enjoy the ambitions of the authors,
+    but they only deliver parts of
+    the data and oversell the results.
 
 - Q: How would you praise the paper?
 
@@ -86,10 +86,10 @@ This paper taught me:
 - Costs nowadays: 855 euros per year. However,
   there are also these costs (from
   [the course website, section 'Pagos'](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)):
-  - Reservation fee: 128.25 euros
-  - Registration fee (once admission is notified and before the program
-    begins): 363.38 euros
-  - First installment payment (January 2026): 363.37 euros
+    - Reservation fee: 128.25 euros
+    - Registration fee (once admission is notified and before the program
+      begins): 363.38 euros
+    - First installment payment (January 2026): 363.37 euros
 
 ### My opinion
 

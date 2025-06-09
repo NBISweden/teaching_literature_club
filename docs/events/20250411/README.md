@@ -11,8 +11,8 @@
 
 - Q: What grade on a scale from 1 (worst) to 10 (best) would you give this paper?
 
-  7.5, as it is a (dull) review, where I feel they oversell
-  the workshops that they, the authors, teach, as they provide no data at all.
+    7.5, as it is a (dull) review, where I feel they oversell
+    the workshops that they, the authors, teach, as they provide no data at all.
 
 - Q: How would you praise the paper?
 
@@ -123,7 +123,7 @@ faculty development workshops:
 - effective peer and colleague relationships
 - the application of principles of teaching and learning
 - the use of multiple instructional methods
-  - ?
+    - ?
 
 Workshops have impacts:
 
@@ -181,20 +181,20 @@ learning and theory of teaching.
 The framework consists of three main elements:
 
 - (1) learning outcomes;
-  - cognitive 1: changes in knowledge and beliefs
-    (awareness, confirmed or new ideas)
-  - cognitive 2: intent to practice
-    (to try or continue to use new practices, or to continue using
-    current practices)
-  - behavioral: changes in skills and behavior
+    - cognitive 1: changes in knowledge and beliefs
+      (awareness, confirmed or new ideas)
+    - cognitive 2: intent to practice
+      (to try or continue to use new practices, or to continue using
+      current practices)
+    - behavioral: changes in skills and behavior
 - (2) learning activities;
-  - (1) cognitive learning activities: those mental activities that learners
-    use to process information, leading to changes in knowledge and beliefs,
-    (e.g. by relating or structuring information)
-  - (2) affective learning activities: e.g. focusing attention, self-motivation
-    and coping with feelings of uncertainty, boredom or distraction.
-  - (3) regulative or metacognitive activities: monitor, adjust and evaluate
-    their cognitive and affective learning activities
+    - (1) cognitive learning activities: those mental activities that learners
+      use to process information, leading to changes in knowledge and beliefs,
+      (e.g. by relating or structuring information)
+    - (2) affective learning activities: e.g. focusing attention, self-motivation
+      and coping with feelings of uncertainty, boredom or distraction.
+    - (3) regulative or metacognitive activities: monitor, adjust and evaluate
+      their cognitive and affective learning activities
 - (3) instructional methods to elicit specific learning activities.
 
 The challenge for the designers and facilitators is to create:
