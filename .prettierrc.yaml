@@ -3,6 +3,6 @@
 # That markdownlint has a different default is the error of markdownlint
 # That Prettier has a different default is the error of Prettier
 overrides:
-  - files: "*.md"
+  - files: "**.md"
     options:
       tabWidth: 4

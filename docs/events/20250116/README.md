@@ -257,9 +257,9 @@ Note the short reply by the authors:
 > who do not have a financial interest in SET.
 
 This is funny, as Boring lists 'Gender economics'
-on [her website](http://www.anneboring.com/)
+on [her site](http://www.anneboring.com/)
 and Stark mentions 'gender bias'
-on [his website](https://www.stat.berkeley.edu/~stark/).
+on [his site](https://www.stat.berkeley.edu/~stark/).
 They too have a financial interest in finding gender biases :-)
 
 From [a review by Mine Cetinkaya-Rundel](https://www.scienceopen.com/document/review?review=1d3e7568-9805-4fc3-b25b-e57e14431b62&vid=818d8ec0-5908-47d8-86b4-5dc38f04b23e):

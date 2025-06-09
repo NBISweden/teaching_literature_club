@@ -2,7 +2,7 @@
 
 This repository ...
 
-- provides an HTML website
+- provides an HTML site
 - does not store any sensitive data
 - does not run any code on your computer
 

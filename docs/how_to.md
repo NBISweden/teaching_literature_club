@@ -10,7 +10,7 @@ A review of of the literature :-)
   research design and/or statistical knowledge so as to appropriately
   direct group discussions and assist the group to work towards its
   goals' `[Deenadayalan et al., 2008]`
-- 'The leader can change from meeting to meeting, however he/she
+- 'The leader can change from meeting to meeting, however they
   needs to have the skills to present the paper under discussion and
   lead the group adequately. It is a fine balance between choosing a
   leader of high academic standing whose expertise may stifle discussion,
