@@ -82,10 +82,10 @@ This paper taught me:
 ### Course history
 
 - The course still exists at
-  [the course website](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)
+  [the course site](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)
 - Costs nowadays: 855 euros per year. However,
   there are also these costs (from
-  [the course website, section 'Pagos'](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)):
+  [the course site, section 'Pagos'](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)):
     - Reservation fee: 128.25 euros
     - Registration fee (once admission is notified and before the program
       begins): 363.38 euros

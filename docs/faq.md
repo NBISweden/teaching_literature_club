@@ -27,7 +27,7 @@ You are encouraged to volunteer to maintain one :-)
 
 When you show up at a meeting,
 someone has prepared to discuss a paper or book chapter.
-This paper or book chapter is announced on this website,
+This paper or book chapter is announced on this site,
 ideally at least one month in advance.
 
 The person having picked the reading material determines freely:

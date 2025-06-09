@@ -5,7 +5,7 @@
 - Paper: De Grave, Willem, et al. "Workshops and seminars:
   enhancing effectiveness." Faculty Development in the Health Professions:
   A Focus on Research and Practice (2014): 181-195.
-  [website](https://link.springer.com/chapter/10.1007/978-94-007-7612-8_9)
+  [site](https://link.springer.com/chapter/10.1007/978-94-007-7612-8_9)
 
 ## Questions
 
