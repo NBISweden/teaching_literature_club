@@ -4,4 +4,5 @@
 # Markdown assumes 4 spaces for indentation.
 # That markdownlint has a different default is the error of markdownlint.
 # That Prettier has a different default is the error of Prettier.
+[*.md]
 indent_size = 4
