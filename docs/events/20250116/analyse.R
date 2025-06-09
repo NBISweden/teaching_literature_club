@@ -27,7 +27,7 @@ if (1 == 2) {
   remotes::install_github ("mpadge/deposits")
   cli <- deposits::depositsClient$new(service = "datadryad")
   cli$deposit_download_file(grade_data_url)
-  print (cli)
+  print(cli)
 }
 
 if (1 == 2) {

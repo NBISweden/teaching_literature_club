@@ -16,12 +16,12 @@ n_p_values <- 100
 n_experiments <- 10
 
 simulate_p_values <- function(
-    before_mean = 4.78,
-    before_sd = 0.67,
-    after_mean = 5.67,
-    after_sd = 0.50,
-    n_people = 9,
-    n_p_values = 100
+  before_mean = 4.78,
+  before_sd = 0.67,
+  after_mean = 5.67,
+  after_sd = 0.50,
+  n_people = 9,
+  n_p_values = 100
 ) {
   testthat::expect_equal(before_mean, 4.78)
   testthat::expect_equal(before_sd, 0.67)
