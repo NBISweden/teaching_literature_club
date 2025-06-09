@@ -23,6 +23,7 @@ Go to [the nicely rendered pages](https://bit.ly/teaching_literature_club).
 | Filename                                     | Descriptions                                                                                                                                |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | [`mlc_config.json`](mlc_config.json)         | Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally      |
+| [`.editorconfig`](.editorconfig)             | Configuration for Prettier, run with `./scripts/run_prettier.sh` to run Prettier locally                                                    |
 | [`.jscpd.json`](.jscpd.json)                 | Configuration for `jscpd`, as used by Prettier                                                                                              |
 | [`.prettierrc.yaml`](.prettierrc.yaml)       | Configuration for Prettier, run with `./scripts/run_prettier.sh` to run Prettier locally                                                    |
 | [`.spellcheck.yml`](.spellcheck.yml)         | Configuration of the spell checker, use `pyspelling -c .spellcheck.yml` to do spell checking locally                                        |
