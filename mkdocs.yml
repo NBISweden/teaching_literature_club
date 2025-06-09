@@ -4,16 +4,16 @@ repo_url: https://github.com/NBISweden/teaching_literature_club
 
 nav:
   - About:
-    - About us: README.md
+      - About us: README.md
   - Past events:
-    - Past events: past_events.md
+      - Past events: past_events.md
   - FAQ:
-    - Frequently asked questions: faq.md
+      - Frequently asked questions: faq.md
   - Misc:
-    - Data: data.md
-    - Code of conduct: code_of_conduct.md
-    - Contributing: contributing.md
-    - Reflections: reflections.md
+      - Data: data.md
+      - Code of conduct: code_of_conduct.md
+      - Contributing: contributing.md
+      - Reflections: reflections.md
 
 theme:
   name: material
@@ -33,14 +33,14 @@ theme:
     - navigation.sections
     - navigation.path
     - navigation.footer
-#    - navigation.expand
+    #    - navigation.expand
     - search.suggest
     - content.code.annotate
     - content.code.copy
     - content.tabs.link
     - content.action.edit
     - content.action.view
-      
+
 markdown_extensions:
   - toc:
       toc_depth: 2
@@ -69,4 +69,3 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: true
-      

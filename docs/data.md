@@ -6,10 +6,10 @@ This is the data collected by the Teaching Literature Club.
 
 The number of visitors per Teaching Literature Club event.
 
-Field       |Description
-------------|------------------------------------------------------
-`date`      |The data in `YYYYMMDD` format
-`n_visitors`|The number of visitors. This excludes the presenter(s)
+| Field        | Description                                            |
+| ------------ | ------------------------------------------------------ |
+| `date`       | The data in `YYYYMMDD` format                          |
+| `n_visitors` | The number of visitors. This excludes the presenter(s) |
 
 ![The number of visitors per event](data/n_visitors_per_event.png)
 
@@ -20,17 +20,17 @@ Field       |Description
 The status of data requests sent to the authors of paper discussed
 in the Teaching Literature Club.
 
-Field         |Description
---------------|------------------------------------------------------
-`request_date`|The date an email request was sent, in `YYYYMMDD` format
-`status_date` |The date of the current status , in `YYYYMMDD` format
-`status`      |The status of the data request, see values below
+| Field          | Description                                              |
+| -------------- | -------------------------------------------------------- |
+| `request_date` | The date an email request was sent, in `YYYYMMDD` format |
+| `status_date`  | The date of the current status , in `YYYYMMDD` format    |
+| `status`       | The status of the data request, see values below         |
 
-`status` value      |Description
---------------------|------------------------------------------------------
-`no_reply`          |No reply to the email
-`denied`            |The request was denied,
-`provided`          |The data was provided
+| `status` value | Description             |
+| -------------- | ----------------------- |
+| `no_reply`     | No reply to the email   |
+| `denied`       | The request was denied, |
+| `provided`     | The data was provided   |
 
 ![Frequency of data requests](data/data_request_status_frequency.png)
 

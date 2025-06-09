@@ -8,7 +8,6 @@
   Bioinformatics Advances (2022)
   [`https://doi.org/10.1093/bioadv/vbac031`](https://doi.org/10.1093/bioadv/vbac031)
 
-
 ## Notes
 
 ### Questions
@@ -16,9 +15,9 @@
 - Q: What grade on a scale from 1 (worst) to 10 (best)
   would you give this paper?
 
-4.0, as I do enjoy the ambitions of the authors,
-but they only deliver parts of
-the data and oversell the results.
+  4.0, as I do enjoy the ambitions of the authors,
+  but they only deliver parts of
+  the data and oversell the results.
 
 - Q: How would you praise the paper?
 
@@ -89,7 +88,7 @@ This paper taught me:
   [the course website, section 'Pagos'](https://www.upo.es/formacionpermanente/diploma-especializacion/analisis-bioinformatico/)):
     - Reservation fee: 128.25 euros
     - Registration fee (once admission is notified and before the program
-      begins): 363.38 euros
+    begins): 363.38 euros
     - First installment payment (January 2026): 363.37 euros
 
 ### My opinion
@@ -114,38 +113,37 @@ over 5 years = ~25 learners per year
 
 > (more than 30 students on average; see Fig. 3a for details)
 
-
 From `suppl5.xlsx`:
 
-Year     |Number of registrations
----------|-----------------------
-2015-2016|59
-2016-2017|53
-2017-2018|60
-2018-2019|62
-2019-2020|78
+| Year      | Number of registrations |
+| --------- | ----------------------- |
+| 2015-2016 | 59                      |
+| 2016-2017 | 53                      |
+| 2017-2018 | 60                      |
+| 2018-2019 | 62                      |
+| 2019-2020 | 78                      |
 
 From `suppl6.xlsx`:
 
-Year|Number of evaluations|Percentage evaluations per registration
----------|---|---------
-2015-2016|16 |16/59=27%
-2016-2017|18 |18/53=34%
-2017-2018|22 |22/60=37%
-2018-2019|33 |33/62=53%
-2019-2020|37 |37/78=47%
+| Year      | Number of evaluations | Percentage evaluations per registration |
+| --------- | --------------------- | --------------------------------------- |
+| 2015-2016 | 16                    | 16/59=27%                               |
+| 2016-2017 | 18                    | 18/53=34%                               |
+| 2017-2018 | 22                    | 22/60=37%                               |
+| 2018-2019 | 33                    | 33/62=53%                               |
+| 2019-2020 | 37                    | 37/78=47%                               |
 
 ## Grades
 
 I think this is what it is about.
 
-Starting year|Average grade
--------------|-------------
-2015         |7.4
-2016         |7.6
-2017         |?
-2018         |8.1
-2019         |7.95
+| Starting year | Average grade |
+| ------------- | ------------- |
+| 2015          | 7.4           |
+| 2016          | 7.6           |
+| 2017          | ?             |
+| 2018          | 8.1           |
+| 2019          | 7.95          |
 
 In figure 2d, what was the average final grade for the green/2017-2018 cohort?
 
@@ -168,7 +166,6 @@ Well:
 - For other subjects, there is no trend at all
 - The data uses a scale from 1-10, where this is plotted from 1-5. Why?
 
-
 ## Fig 4a, section 4.3: student course satisfaction
 
 In section '4.3 Students' and teachers' overall course satisfaction
@@ -177,19 +174,19 @@ the problem with this title is that
 there is no change in any satisfaction over the years,
 except when I combine the satisfactions of the courses:
 
-course                         | p_value|is_changing
--------------------------------|--------|------------
-Course grade                   |   0.684|FALSE
-Relative course grade          |   0.438|FALSE
-Sequence similarity searching  |   0.974|FALSE
-Bioinformatics databases       |   0.615|FALSE
-Linux                          |   0.277|FALSE
-R programming                  |   0.289|FALSE
-Perl/Python programming        |   0.176|FALSE
-NGS and RNA-Seq data analysing |   0.857|FALSE
-Genome annotation              |   0.154|FALSE
-Bioinformatics in general      |   0.688|FALSE
-Courses combined               |   0.036|TRUE
+| course                         | p_value | is_changing |
+| ------------------------------ | ------- | ----------- |
+| Course grade                   | 0.684   | FALSE       |
+| Relative course grade          | 0.438   | FALSE       |
+| Sequence similarity searching  | 0.974   | FALSE       |
+| Bioinformatics databases       | 0.615   | FALSE       |
+| Linux                          | 0.277   | FALSE       |
+| R programming                  | 0.289   | FALSE       |
+| Perl/Python programming        | 0.176   | FALSE       |
+| NGS and RNA-Seq data analysing | 0.857   | FALSE       |
+| Genome annotation              | 0.154   | FALSE       |
+| Bioinformatics in general      | 0.688   | FALSE       |
+| Courses combined               | 0.036   | TRUE        |
 
 This means that this statement is nonsense:
 

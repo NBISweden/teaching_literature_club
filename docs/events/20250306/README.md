@@ -60,7 +60,6 @@ peer observation and writing reflections. I feel co-teaching is like
 mutual peer observation. It forces one to work togethers, where this is
 especially rare with course material.
 
-
 10 of the ~100 papers are by Andrews, the last author.
 
 `[Kursch & Veteska]` and `[Stark, 2015]` mentions some disadvantages.
@@ -68,11 +67,11 @@ especially rare with course material.
 `[Spörer et al., 2021]` is all positive here, although the title
 of the paper suggests otherwise.
 
-Paper                    |Number of citations
--------------------------|-------------------
-`[Haag et al., 2023]`    |19
-`[Barron & Friend, 2024]`|2
-`[Nápoles, 2024]`        |4
+| Paper                     | Number of citations |
+| ------------------------- | ------------------- |
+| `[Haag et al., 2023]`     | 19                  |
+| `[Barron & Friend, 2024]` | 2                   |
+| `[Nápoles, 2024]`         | 4                   |
 
 A more recent review has been written `[Vembye et al., 2024]`,
 however, it was about determining the effect size

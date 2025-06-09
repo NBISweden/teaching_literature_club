@@ -99,7 +99,7 @@ SET grades:
 So, for table 2, we see history has a correlation of 0.16 (and a p value of 0.01)
 between SET and grade.
 As SET goes from grade 1 to 5, the lowest grade I set to x
-and the highest grade is x + (4 * 0.16) = x + 0.64.
+and the highest grade is x + (4 \* 0.16) = x + 0.64.
 Grades are, however, given as a percentage, i.e.
 values from 1 to 100.
 In this example, the difference between a bad and good teacher is
@@ -143,26 +143,26 @@ This meta-analysis `[Clayson, 2009]`:
 > vening variables:
 >
 > 1. The association is stronger in research published in
-> educational journals than in other sources.
+>    educational journals than in other sources.
 > 2. The association is strongest in studies from the
-> education and liberal arts disciplines. There is no
-> evidence that the association exists in business classes.
+>    education and liberal arts disciplines. There is no
+>    evidence that the association exists in business classes.
 > 3. The type of learning measures made a difference.
-> The more objective the measures, the smaller the
-> learning/SET association.
+>    The more objective the measures, the smaller the
+>    learning/SET association.
 > 4. The more statistical control was utilized to handle
-> extraneous variables in both learning and SET, the
-> less association was found. The attenuation of this
-> relationship when age of publication was added as a
-> covariant suggests simply that researchers are
-> becoming increasingly sophisticated over time in
-> their utilization of statistical control.
+>    extraneous variables in both learning and SET, the
+>    less association was found. The attenuation of this
+>    relationship when age of publication was added as a
+>    covariant suggests simply that researchers are
+>    becoming increasingly sophisticated over time in
+>    their utilization of statistical control.
 > 5. The findings are highly variable, even for the same
-> researcher. Centra’s (1977) correlations ranged
-> from .23 to .87. Sullivan and Skanes’ (1974) find-
-> ings ranged from −.28 to .55.
+>    researcher. Centra’s (1977) correlations ranged
+>    from .23 to .87. Sullivan and Skanes’ (1974) find-
+>    ings ranged from −.28 to .55.
 > 6. There is no evidence in this sample that a learning/
-> SET association exists in within-class data.
+>    SET association exists in within-class data.
 
 Here is meta-analysis `[Uttl et al., 2017]`, that came out after the paper:
 
@@ -280,7 +280,7 @@ From [a review by Mine Cetinkaya-Rundel](https://www.scienceopen.com/document/re
 
 - `[Boring & Ottoboni, 2016]`
   Boring, Anne, and Kellie Ottoboni.
- "Student evaluations of teaching (mostly)
+  "Student evaluations of teaching (mostly)
   do not measure teaching effectiveness." ScienceOpen research (2016).
 - `[Clayson, 2009]`
   Clayson, Dennis E. "Student evaluations of teaching: Are they related to

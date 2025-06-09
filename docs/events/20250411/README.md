@@ -11,8 +11,8 @@
 
 - Q: What grade on a scale from 1 (worst) to 10 (best) would you give this paper?
 
-7.5, as it is a (dull) review, where I feel they oversell
-the workshops that they, the authors, teach, as they provide no data at all.
+  7.5, as it is a (dull) review, where I feel they oversell
+  the workshops that they, the authors, teach, as they provide no data at all.
 
 - Q: How would you praise the paper?
 
@@ -110,11 +110,10 @@ Definitions:
 
 - Workshops generally have two different emphases: the acquisition of knowledge
   and skills, and the stimulation of changes in attitudes and behavior
-  (Brooks-Harris and Stock-Ward 1999; Sork 1984; Steinert et al. 2006).  
+  (Brooks-Harris and Stock-Ward 1999; Sork 1984; Steinert et al. 2006).
 - Seminars (or short series of seminars) tend to focus on a single, primarily
   cognitive topic, usually aimed at expanding the participants' knowledge base
   (e.g. for education in the health professions)
-
 
 Steinert et al. (2006) deduced five important characteristics of effective
 faculty development workshops:
@@ -183,21 +182,20 @@ The framework consists of three main elements:
 
 - (1) learning outcomes;
     - cognitive 1: changes in knowledge and beliefs
-      (awareness, confirmed or new ideas)
+    (awareness, confirmed or new ideas)
     - cognitive 2: intent to practice
-      (to try or continue to use new practices, or to continue using
-      current practices)
+    (to try or continue to use new practices, or to continue using
+    current practices)
     - behavioral: changes in skills and behavior
 - (2) learning activities;
     - (1) cognitive learning activities: those mental activities that learners
-      use to process information, leading to changes in knowledge and beliefs,
-      (e.g. by relating or structuring information)
+    use to process information, leading to changes in knowledge and beliefs,
+    (e.g. by relating or structuring information)
     - (2) affective learning activities: e.g. focusing attention, self-motivation
-      and coping with feelings of uncertainty, boredom or distraction.
+    and coping with feelings of uncertainty, boredom or distraction.
     - (3) regulative or metacognitive activities: monitor, adjust and evaluate
-      their cognitive and affective learning activities
+    their cognitive and affective learning activities
 - (3) instructional methods to elicit specific learning activities.
-
 
 The challenge for the designers and facilitators is to create:
 
@@ -233,4 +231,3 @@ No data, no believing.
 ```bash
 pdftk 978-94-007-7612-8.pdf cat 193-207 output de_grave_et_al_2014.pdf
 ```
-
