@@ -153,6 +153,9 @@ bioadv
 bioinformatics
 programme
 abierta
+Chastain
+DeCaro
+Schröder
 analysing
 aprendizajes
 colaborativa
