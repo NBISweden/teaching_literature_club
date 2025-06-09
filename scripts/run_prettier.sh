@@ -1,11 +1,10 @@
 #!/bin/bash
 #
-# Fix markdown style errors,
-# as is recommended by the Markdown checker.
+# Fix style errors using Prettier.
 #
 # Usage:
 #
-#   ./scripts/fix_markdown_style_errors.sh
+#   ./scripts/run_prettier.sh
 
 if [[ "$PWD" =~ scripts$ ]]; then
 	echo "FATAL ERROR."
@@ -14,10 +13,9 @@ if [[ "$PWD" =~ scripts$ ]]; then
 	echo " "
 	echo "Tip: like this"
 	echo " "
-	echo "  ./scripts/fix_markdown_style_errors.sh"
+	echo "  ./scripts/run_prettier.sh"
 	echo " "
 	exit 42
 fi
 
-markdownlint --fix "**/*.md"
-git status
+npx prettier . --write

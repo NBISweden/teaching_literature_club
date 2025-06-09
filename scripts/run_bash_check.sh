@@ -1,11 +1,10 @@
 #!/bin/bash
 #
-# Fix markdown style errors,
-# as is recommended by the Markdown checker.
+# Run the bash style checker
 #
 # Usage:
 #
-#   ./scripts/fix_markdown_style_errors.sh
+#   ./scripts/run_bash_check.sh
 
 if [[ "$PWD" =~ scripts$ ]]; then
 	echo "FATAL ERROR."
@@ -14,10 +13,12 @@ if [[ "$PWD" =~ scripts$ ]]; then
 	echo " "
 	echo "Tip: like this"
 	echo " "
-	echo "  ./scripts/fix_markdown_style_errors.sh"
+	echo "  ./scripts/run_bash_check.sh"
 	echo " "
 	exit 42
 fi
 
-markdownlint --fix "**/*.md"
-git status
+# We do need the files to be seperated by spaces
+# shellcheck disable=SC2046
+
+shellcheck $(find . | grep "sh$" | grep -v exercises)

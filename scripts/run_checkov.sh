@@ -1,11 +1,12 @@
 #!/bin/bash
 #
-# Fix markdown style errors,
-# as is recommended by the Markdown checker.
+# Run the checkov checker
+# https://github.com/bridgecrewio/checkov
 #
+
 # Usage:
 #
-#   ./scripts/fix_markdown_style_errors.sh
+#   ./scripts/run_checkov.sh
 
 if [[ "$PWD" =~ scripts$ ]]; then
 	echo "FATAL ERROR."
@@ -14,10 +15,9 @@ if [[ "$PWD" =~ scripts$ ]]; then
 	echo " "
 	echo "Tip: like this"
 	echo " "
-	echo "  ./scripts/fix_markdown_style_errors.sh"
+	echo "  ./scripts/run_checkov.sh"
 	echo " "
 	exit 42
 fi
 
-markdownlint --fix "**/*.md"
-git status
+checkov --directory . --quiet
