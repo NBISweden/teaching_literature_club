@@ -18,5 +18,5 @@ A wishlist to read:
   Open Educational Resources as an object of measurement
   for scientometric analysis.
   Quantitative Science Studies 2025; 6 216–237.
-  doi: https://doi.org/10.1162/qss_a_00346
+  doi: <https://doi.org/10.1162/qss_a_00346>
   [paper](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00346/126307/Teaching-counts-Open-Educational-Resources-as-an)
