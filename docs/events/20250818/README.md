@@ -238,7 +238,7 @@ Setting              |Grade
 ---------------------|-----
 No prompts           |0.71
 Metacognitive prompts|0.74
-Congnitive prompts   |0.8
+Cognitive prompts    |0.8
 
 > A main effect of course was also found [...]
 > Despite this main effect, no interaction was
@@ -278,7 +278,7 @@ Is this what the data in figure 2 states? I would say:
 Disagree. For example, `[Brecht, 2012]` found that 'videos with a strong
 presentation of relief and change-of-pace elements (design 2's use of
 graphics and sounds) are' 13% more effective (compared to
-the 9% for disorganized learers only, as shown in this paper).
+the 9% for disorganized learners only, as shown in this paper).
 
 ## References
 
