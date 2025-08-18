@@ -16,43 +16,43 @@
 - Q: What grade on a scale from 1 (worst) to 10 (best)
   would you give this paper?
 
-7. 
+My grade would be a 7.
 
 - Q: How would you praise the paper?
 
-  - I learned the term 'surface level information processing'
-  - The paper made me do a literature search, as some of its references
+    - I learned the term 'surface level information processing'
+    - The paper made me do a literature search, as some of its references
     are too old
-  - I learned about Edpuzzle, which seems a fine website for me to try this
+    - I learned about Edpuzzle, which seems a fine website for me to try this
     out
-  - I now believe that cognitive prompts do improve grades for disorganized
+    - I now believe that cognitive prompts do improve grades for disorganized
     students by 9%, where these grades decrease for organized students by 17%
 
 - Q: How would you criticise the paper?
 
-  - No mention of accessing the data at all.
-    Also 
+    - No mention of accessing the data at all.
+    Also
     [the homepage of the first author](https://kwc.edu/academics/academic-programs/majors/psychology/meet-the-faculty/dr-derek-mcclellan/)
     offers no help
-  - Demographics of students, such as the distribution of dis-/organizedness,
+    - Demographics of students, such as the distribution of dis-/organizedness,
     is missing
-  - Old (2012 and 2015) literature references for
+    - Old (2012 and 2015) literature references for
     'Research supports the use of video lecture as an effec-
     tive method of instruction'; with ease I could found reviews
     in 2019, 2020, 2021 and 2022. The newest paper cited (in this 2023 paper)
-    is from 2021. 
-  - The conclusion is not completely true:
+    is from 2021.
+    - The conclusion is not completely true:
     cognitive prompts do improve grades for disorganized students.
     However, cognitive prompts do decrease grades for organized students.
     This seems to be tucked away
-  - It does not mention other ways to increase grades
+    - It does not mention other ways to increase grades
 
 - Q: How would you summarize the paper in one line?
 
 Cognitive prompts do improve grades for disorganized students by 9%,
 where these grades decrease for organized students by 17%.
 
-- Q: Should we add cognitive prompts in our video material? 
+- Q: Should we add cognitive prompts in our video material?
 
 We could argue that we should aim for the weaker students.
 Cognitive prompts do improve the grades for these disorganized
@@ -66,7 +66,8 @@ graphics and sounds) are' 13% more effective.
 
 However, for NBIS, we typically teach live,
 giving is more parameters to work with.
-On [Hattie's list of effect sizes](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/),
+On
+[Hattie's list of effect sizes](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/),
 the closest I could find to 'cognitive prompts on video' was
 
 Rank|Influence                             |Effect size
@@ -123,14 +124,18 @@ From Figure 2, using [graphreader](https://www.graphreader.com/):
 
 ### Introduction 1
 
+<!-- markdownlint-disable MD013 --><!-- Verbatim quotes cannot be split up over lines, hence will break 80 characters per line -->
+
 > Research supports the use of video lecture as an effec-
 > tive method of instruction, both as supplemental to other learning methods (Brecht,
 > 2012; Stockwell et al., 2015), and in place of traditional lecture methods (Fireman
 > et al., 2021).
 
+<!-- markdownlint-enable MD013 -->
+
 Checking `[Brecht, 2012]`, this seems to be indeed a paper that demonstrates
 that adding videos with change-of-pace elements increases the course
-grade by 27% compared to having no videos. This is however based on 
+grade by 27% compared to having no videos. This is however based on
 a back-of-the envelope calculation.
 
 > Videos with a strong
@@ -164,9 +169,13 @@ or [`Belt & Lowenthal, 2021`].
 
 or [`Fyfield et al., 2022`]:
 
+<!-- markdownlint-disable MD013 --><!-- Verbatim quotes cannot be split up over lines, hence will break 80 characters per line -->
+
 > - Instructional videos that are shorter, segmented, coherent and pairedwith learning activities are more likely to lead to improved learning gains in students.
 > - Researchers reporting on the use of videos should provide comprehensive descriptions of media, including links to the media where possible.
 > - Designers of instructional videos should critically evaluate design principles established for non-video media
+
+<!-- markdownlint-enable MD013 -->
 
 or `[Robertson & Flowers, 2020]`:
 
@@ -189,28 +198,37 @@ Here another case of not reading the literature:
 > differentially impacts learning.
 
 This is similar to `[Lin & Chen, 2019]`, that used brainwaves
-to detect when to give a prompt: 
+to detect when to give a prompt:
 
-> Analytical results indicate that students in the experimental group 
+> Analytical results indicate that students in the experimental group
 > exhibited significantly better review effectiveness
 > than did the control group, and this difference was especially marked for
-> students who had a low attention level, were field-dependent, or were female. 
+> students who had a low attention level, were field-dependent, or were female.
 
 
 ### Study approaches: disorganization
+
+<!-- markdownlint-disable MD013 --><!-- Verbatim quotes cannot be split up over lines, hence will break 80 characters per line -->
 
 > Disorganized
 > study strategies are related to tendencies towards mastery-avoidance goal orienta-
 > tion
 
+<!-- markdownlint-enable MD013 -->
+
+
 I like this!
 
 ### Current study
+
+<!-- markdownlint-disable MD013 --><!-- Verbatim quotes cannot be split up over lines, hence will break 80 characters per line -->
 
 > However, because the
 > metacognitive prompt condition has not always elicited benefits compared to cognitive
 > prompts in prior research (Berthold et al., 2007), an alternative possibility is that cogni-
 > tive prompts will lead to greater learning benefits in our study as well.
+
+<!-- markdownlint-enable MD013 -->
 
 Seems like HARKing to me.
 
@@ -260,9 +278,11 @@ Is this what the data in figure 2 states? I would say:
 Disagree. For example, `[Brecht, 2012]` found that 'videos with a strong
 presentation of relief and change-of-pace elements (design 2's use of
 graphics and sounds) are' 13% more effective (compared to
-the 9% for disorganized learers only, as shown in this paper). 
+the 9% for disorganized learers only, as shown in this paper).
 
 ## References
+
+<!-- markdownlint-disable MD013 --><!-- References are not split up over lines, hence will break 80 characters per line -->
 
 - `[Brecht, 2012]` Brecht, H. David. "Learning from online video lectures." Journal of Information Technology Education. Innovations in Practice 11 (2012): 227.
 
@@ -270,8 +290,8 @@ the 9% for disorganized learers only, as shown in this paper).
   Brent R. Stockwell, Melissa S. Stockwell, Michael Cennamo, Elise Jiang,
   Blended Learning Improves Science Education,
   Cell, Volume 162, Issue 5, 2015, Pages 933-936, ISSN 0092-8674,
-  https://doi.org/10.1016/j.cell.2015.08.009.
-  (https://www.sciencedirect.com/science/article/pii/S0092867415010223)
+  <https://doi.org/10.1016/j.cell.2015.08.009>.
+  (<https://www.sciencedirect.com/science/article/pii/S0092867415010223>)
 
 - `[Noetel et al., 2021]` Noetel, Michael, et al. "Video improves learning in higher education: A systematic review." Review of educational research 91.2 (2021): 204-236.
 
@@ -284,3 +304,5 @@ the 9% for disorganized learers only, as shown in this paper).
 - `[Fyfield et al., 2019]` Fyfield, Matthew, et al. "Videos in higher education: Making the most of a good thing." Australasian Journal of Educational Technology 35.5 (2019): 1-7.
 
 - `[Lin & Chen, 2019]` Lin, Yong-Teng, and Chih-Ming Chen. "Improving effectiveness of learners’ review of video lectures by using an attention-based video lecture review mechanism based on brainwave signals." Interactive Learning Environments 27.1 (2019): 86-102.
+
+<!-- markdownlint-enable MD013 -->
