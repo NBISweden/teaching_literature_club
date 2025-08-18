@@ -5,7 +5,7 @@
 - Paper:  McClellan, D., Chastain, R.J. & DeCaro, M.S.
   Enhancing learning from online video lectures:
   the impact of embedded learning prompts in an undergraduate physics lesson.
-  J Comput High Educ 36, 852–874 (2024).
+  `J Comput High Educ` 36, 852–874 (2024).
   [`https://link.springer.com/article/10.1007/s12528-023-09379-w`](https://link.springer.com/article/10.1007/s12528-023-09379-w)
 
 ## Notes
@@ -34,11 +34,11 @@ My grade would be a 7.
     Also
     [the homepage of the first author](https://kwc.edu/academics/academic-programs/majors/psychology/meet-the-faculty/dr-derek-mcclellan/)
     offers no help
-    - Demographics of students, such as the distribution of dis-/organizedness,
-    is missing
+    - Demographics of students (especially the distribution of learners that
+      are disorganized or organized) is missing
     - Old (2012 and 2015) literature references for
-    'Research supports the use of video lecture as an effec-
-    tive method of instruction'; with ease I could found reviews
+    'Research supports the use of video lecture as an effective method of
+    instruction'; with ease I could found reviews
     in 2019, 2020, 2021 and 2022. The newest paper cited (in this 2023 paper)
     is from 2021.
     - The conclusion is not completely true:
@@ -58,8 +58,8 @@ We could argue that we should aim for the weaker students.
 Cognitive prompts do improve the grades for these disorganized
 students by 9%.
 
-However, for asyncronous teaching (as in this setting),
-other interventions are more effectice.
+However, for asynchronous teaching (as in this setting),
+other interventions are more effective.
 For example, `[Brecht, 2012]` found that 'videos with a strong
 presentation of relief and change-of-pace elements (design 2's use of
 graphics and sounds) are' 13% more effective.
@@ -143,7 +143,7 @@ a back-of-the envelope calculation.
 > graphics and sounds) are the
 > most learning-effective.
 
-Adapting figure 5 ([tables.ods](tables.ods)), these are the average grades:
+Adapting figure 5 ([`tables.ods`](tables.ods)), these are the average grades:
 
 Parameter    |Lecture only|Video 1|Video 3|Video 2
 -------------|------------|-------|-------|-------
@@ -290,8 +290,8 @@ the 9% for disorganized learers only, as shown in this paper).
   Brent R. Stockwell, Melissa S. Stockwell, Michael Cennamo, Elise Jiang,
   Blended Learning Improves Science Education,
   Cell, Volume 162, Issue 5, 2015, Pages 933-936, ISSN 0092-8674,
-  <https://doi.org/10.1016/j.cell.2015.08.009>.
-  (<https://www.sciencedirect.com/science/article/pii/S0092867415010223>)
+  [DOI](https://doi.org/10.1016/j.cell.2015.08.009)
+  [Publisher's site](https://www.sciencedirect.com/science/article/pii/S0092867415010223)
 
 - `[Noetel et al., 2021]` Noetel, Michael, et al. "Video improves learning in higher education: A systematic review." Review of educational research 91.2 (2021): 204-236.
 
