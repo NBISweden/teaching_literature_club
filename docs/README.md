@@ -25,9 +25,9 @@ and discuss those in an informal way.
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-| Date       | Person      | Description  |
-| ---------- | ----------- | ------------ |
-| 2025-08-18 | Nima Rafati | Discuss: TBA |
+| Date       | Person         | Description  |
+| ---------- | -------------- | ------------ |
+| 2025-09-25 | Elena Dracheva | Discuss: TBA |
 
 <!-- markdownlint-enable MD013 -->
 

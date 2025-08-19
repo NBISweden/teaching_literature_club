@@ -20,20 +20,21 @@ My grade would be a 7.
 
 - Q: How would you praise the paper?
 
+    - It is quite a straightforward paper
     - I learned the term 'surface level information processing'
     - The paper made me do a literature search, as some of its references
-    are too old
+      are too old
     - I learned about Edpuzzle, which seems a fine website for me to try this
-    out
+      out
     - I now believe that cognitive prompts do improve grades for disorganized
-    students by 9%, where these grades decrease for organized students by 17%
+      students by 9%, where these grades decrease for organized students by 17%
 
 - Q: How would you criticise the paper?
 
     - No mention of accessing the data at all.
-    Also
-    [the homepage of the first author](https://kwc.edu/academics/academic-programs/majors/psychology/meet-the-faculty/dr-derek-mcclellan/)
-    offers no help
+      Also
+      [the homepage of the first author](https://kwc.edu/academics/academic-programs/majors/psychology/meet-the-faculty/dr-derek-mcclellan/)
+      offers no help
     - Demographics of students (especially the distribution of learners that
       are disorganized or organized) is missing
     - Old (2012 and 2015) literature references for
