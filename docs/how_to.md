@@ -1,3 +1,9 @@
+---
+tags:
+  - how to
+  - literature
+---
+
 # How to run a literature club
 
 A review of of the literature :-)

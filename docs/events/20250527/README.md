@@ -1,3 +1,12 @@
+---
+tags:
+  - notes
+  - 2025-05-25
+  - Elin
+  - Andrés Garzón
+  - Andres Garzon
+---
+
 # 2025-05-25
 
 - Date: 2025-05-25

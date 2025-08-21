@@ -1,3 +1,13 @@
+---
+tags:
+  - notes
+  - 2025-01-16
+  - Åsa
+  - Andrés Garzón
+  - Boring
+  - Ottoboni
+---
+
 # 2025-01-16
 
 - Discussion leader: Åsa Björklund

@@ -1,3 +1,11 @@
+---
+tags:
+  - reflections
+  - contemplate
+  - ideas
+  - vision
+---
+
 # Reflections
 
 ## 2024-11-28 by Richèl
@@ -40,3 +48,4 @@ repository into a more fancy site.
 
 Keep going as it is: it seems to go fine.
 Reflect again before summer.
+

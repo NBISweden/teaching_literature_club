@@ -1,3 +1,10 @@
+---
+tags:
+  - faq
+  - frequently asked questions
+  - answers
+---
+
 # FAQ
 
 ## What is the goal of the teaching literature club?

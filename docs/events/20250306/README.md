@@ -1,3 +1,10 @@
+---
+tags:
+  - notes
+  - 2025-03-06
+  - Kirstin
+---
+
 # 2025-03-06
 
 - Paper: Haag, Kirstin, et al. "Co-Teaching in undergraduate STEM

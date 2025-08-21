@@ -1,3 +1,11 @@
+---
+tags:
+  - notes
+  - 2025-04-11
+  - Richel
+  - Willem de Grave
+---
+
 # 2025-04-11
 
 - Date: 2025-04-11

@@ -1,3 +1,10 @@
+---
+tags:
+  - about
+  - main page
+  - home
+---
+
 # About the NBIS' teaching literature club
 
 <!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
