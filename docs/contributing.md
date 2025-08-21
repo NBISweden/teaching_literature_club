@@ -16,7 +16,7 @@ with a preference to accept suggestions.
 
 - For presenting a paper, see [this FAQ item](faq.md#i-want-to-discuss-a-paper-or-book-chapter-how-do-i-do-so)
 - For questions, you can [create an issue](https://github.com/NBISweden/teaching_literature_club/issues)
-  or 
+  or
 - Textual changes go via Pull Requests
 
 This GitHub follows the
