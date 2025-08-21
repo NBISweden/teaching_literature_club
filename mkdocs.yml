@@ -1,4 +1,4 @@
-site_name: NBIS Teaching Literature Club
+site_name: Teaching Literature Club
 
 repo_url: https://github.com/NBISweden/teaching_literature_club
 
@@ -17,7 +17,7 @@ nav:
 
 theme:
   name: material
-  greetings: Welcome to the NBIS Teaching Literature Club
+  greetings: Welcome to the Teaching Literature Club
   font:
     text: Lato
     code: JetBrains Mono
@@ -33,7 +33,6 @@ theme:
     - navigation.sections
     - navigation.path
     - navigation.footer
-    #    - navigation.expand
     - search.suggest
     - content.code.annotate
     - content.code.copy

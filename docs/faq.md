@@ -18,12 +18,15 @@ to become a better teachers
 
 ## How do I know when meetings are?
 
-The schedule above shows when the meetings are :-)
+The schedule [at the main page](README.md) shows when the meetings are.
 
 ## How do I know which paper or book chapter will be discussed?
 
 Papers will be scheduled ahead of time,
 ideally at least one month in advance.
+
+The paper presenter, however, is perfectly excused
+from meeting this ideal: work comes first.
 
 ## Why is there no emaillist?
 
@@ -68,7 +71,9 @@ Great!
 **First**, we need to know, so we can put you in the schedule and share
 the reading materials one meeting in advance with the rest.
 
-To let us know: create an Issue here or send an email to `richel.bilderbeek@icm.uu.se`.
+To let us know:
+[create an issue](https://github.com/NBISweden/teaching_literature_club/issues)
+or send an email to `richel.bilderbeek@icm.uu.se`.
 
 **Second**, on the day you discuss a paper or book chapter,
 you may determine freely:
