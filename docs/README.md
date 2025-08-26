@@ -34,7 +34,9 @@ and discuss those in an informal way.
 
 | Date       | Person         | Description  |
 | ---------- | -------------- | ------------ |
-| 2025-09-25 | Elena Dracheva | Discuss: TBA |
+| 2025-09-25 | Elena Dracheva | Discuss: 'McGreevy, Kristen M., and Frank C. Church. "Active learning: Subtypes, intra-exam comparison, and student survey in an undergraduate biology course." Education Sciences 10.7 (2020): 185. [`https://www.mdpi.com/2227-7102/10/7/185`](https://www.mdpi.com/2227-7102/10/7/185) |
+
+
 
 <!-- markdownlint-enable MD013 -->
 
