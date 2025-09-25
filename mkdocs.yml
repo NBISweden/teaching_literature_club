@@ -5,8 +5,7 @@ repo_url: https://github.com/NBISweden/teaching_literature_club
 nav:
   - About:
       - About us: README.md
-  - Past events:
-      - Past events: past_events.md
+  - Events: events/README.md
   - FAQ:
       - Frequently asked questions: faq.md
   - Misc:

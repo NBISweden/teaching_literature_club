@@ -1,0 +1,25 @@
+---
+tags:
+  - events
+  - history
+---
+
+# Events
+
+Here is a list of our events
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+| Date       | Person            | Discussion notes                              | Paper                                                                                                                                                                                                                                                                                                                                                    |
+| ---------- | ----------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-18 | Richel Bilderbeek | [Discussion notes](20240918/README.md)        | Lockman, Alison S., and Barbara R. Schirmer. "Online instruction in higher education: Promising, research-based, and evidence-based practices." Journal of Education and e-Learning Research 7.2 (2020): 130-152. [Download page](https://eric.ed.gov/?id=EJ1258655)                                                                                     |
+| 2024-10-16 | Stephan Nylinder  | [Discussion notes](20241016/README.md)        | Dimitriadou, Eleni, and Andreas Lanitis. "Evaluating the impact of an automated body language assessment system." Education and Information Technologies (2024): 1-31. [Download page](https://link.springer.com/article/10.1007/s10639-024-12931-5) [PDF](papers/dimitriadou_and_lanitis_2024.pdf)                                                      |
+| 2024-11-28 | Elin Kronander    | [Discussion notes](20241128/README.md)        | Traci Sitzmann and Stefanie Johnson. "**The paradox of seduction by irrelevant details: How irrelevant information helps and hinders self-regulated learning**." Learning and Individual Differences (2014): 1-11. [Download page](https://doi.org/10.1016/j.lindif.2014.05.009)                                                                         |
+| 2025-01-16 | Åsa Björklund     | [Discussion notes](20250116/README.md)        | Boring, Anne, and Kellie Ottoboni. "Student evaluations of teaching (mostly) do not measure teaching effectiveness." ScienceOpen research (2016). [Article site](https://www.scienceopen.com/document/read?vid=818d8ec0-5908-47d8-86b4-5dc38f04b23e) [PDF](papers/boring_et_al_2016.pdf)                                                                 |
+| 2025-03-06 | Stephan Nylinder  | [Discussion notes](20250306/README.md)        | Haag, Kirstin, et al. "Co-Teaching in undergraduate STEM education: a lever for pedagogical change toward evidence-based teaching?." CBE—Life Sciences Education 22.1 (2023): es1. [site](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074276/)                                                                                                            |
+| 2025-04-11 | Richèl Bilderbeek | [Discussion notes](20250411/README.md)        | [De Grave, Willem, et al. "Workshops and seminars: enhancing effectiveness." Faculty Development in the Health Professions: A Focus on Research and Practice (2014): 181-195.](https://link.springer.com/chapter/10.1007/978-94-007-7612-8_9)                                                                                                            |
+| 2025-05-27 | Elin Kronander    | [Discussion notes](20250527/README.md)        | Andrés Garzón et al. **E-learning strategies from a bioinformatics postgraduate programme to improve student engagement and completion rate**, Bioinformatics Advances (2022) [`https://doi.org/10.1093/bioadv/vbac031`](https://doi.org/10.1093/bioadv/vbac031)                                                                                         |
+| 2025-08-18 | Nima Rafati       | [Discussion notes](20250818/README.md)        | McClellan, D., Chastain, R.J. & DeCaro, M.S. Enhancing learning from online video lectures: the impact of embedded learning prompts in an undergraduate physics lesson. `J Comput High Educ` 36, 852–874 (2024). [`https://doi.org/10.1007/s12528-023-09379-w`](https://doi.org/10.1007/s12528-023-09379-w)                                              |
+| 2025-09-25 | Elena Dracheva    | [Discussion notes](20250924/README.md)        | McGreevy, Kristen M., and Frank C. Church. "Active learning: Subtypes, intra-exam comparison, and student survey in an undergraduate biology course." Education Sciences 10.7 (2020): 185. [`https://www.mdpi.com/2227-7102/10/7/185`](https://www.mdpi.com/2227-7102/10/7/185) [`mcgreevy_and_church_2020.pdf`](../papers/mcgreevy_and_church_2020.pdf] |
+
+<!-- markdownlint-enable MD013 -->
