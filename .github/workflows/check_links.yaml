@@ -7,11 +7,13 @@ on:
   push:
     paths:
       - "docs/**"
+      - "**.md"
       - .github/workflows/check_links.yaml
       - mlc_config.json
   pull_request:
     paths:
       - "docs/**"
+      - "**.md"
       - .github/workflows/check_links.yaml
       - mlc_config.json
   schedule:
