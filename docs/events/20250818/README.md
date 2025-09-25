@@ -14,7 +14,6 @@ tags:
   the impact of embedded learning prompts in an undergraduate physics lesson.
   `J Comput High Educ` 36, 852–874 (2024).
   [`https://link.springer.com/article/10.1007/s12528-023-09379-w`](https://link.springer.com/article/10.1007/s12528-023-09379-w)
-
 ## Notes
 
 ### Questions
@@ -299,7 +298,6 @@ the 9% for disorganized learners only, as shown in this paper).
   Blended Learning Improves Science Education,
   Cell, Volume 162, Issue 5, 2015, Pages 933-936, ISSN 0092-8674,
   [DOI](https://doi.org/10.1016/j.cell.2015.08.009)
-  [Publisher's site](https://www.sciencedirect.com/science/article/pii/S0092867415010223)
 
 - `[Noetel et al., 2021]` Noetel, Michael, et al. "Video improves learning in higher education: A systematic review." Review of educational research 91.2 (2021): 204-236.
 
