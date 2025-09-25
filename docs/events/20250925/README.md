@@ -9,7 +9,7 @@ tags:
 
 - Date: 2025-09-25
 - Lead discussion: Elena Dracheva
-- Paper: 'McGreevy, Kristen M., and Frank C. Church. 
+- Paper: 'McGreevy, Kristen M., and Frank C. Church.
   "Active learning: Subtypes, intra-exam comparison,
   and student survey in an undergraduate biology course."
   Education Sciences 10.7 (2020): 185.
@@ -115,13 +115,17 @@ Abnormal Psychology,3.19,1.02,2.92,1.02,14.48***,0.27
 
 - `[Machemer and Crawford, 2007]` found
   'The study found that students valued lectures and being active.
-  From the students' perspective, however, working with others (cooperative learning) diminishes the value significantly. Any activity, be it active, cooperative or traditional, that directly relates to improving exam performance was the most valued of all.'
+  From the students' perspective, however,
+  working with others (cooperative learning) diminishes the value significantly.
+  Any activity, be it active, cooperative or traditional,
+  that directly relates to improving exam performance
+  was the most valued of all.'
   That is, lectures are valued `(4.125 - 4.1026) / 4.1026 =` 0.5% more
   Cooperation was valued `(3.479075 - 4.1026) / 4.1026 =` 15% less than
   active teaching.
 
 
-```
+```text
 2002,Coop_overall,3.3000,112,0.81914,0.07740
 2002,Active_overall,3.9286,112,0.74995,0.07086
 2002,Traditional_overall,3.68,112,0.988,0.093
@@ -139,7 +143,7 @@ Abnormal Psychology,3.19,1.02,2.92,1.02,14.48***,0.27
 Putting this little literature search in a table:
 
 Reference                      |What do students prefer|Extent
--------------------------------|-----------------------|-------------------------
+-------------------------------|-----------------------|------------------------
 `[Joel, 2006]`                 |Not mentioned          |Not mentioned
 `[Volpe, 1984]`                |Not mentioned          |Not mentioned
 `[Halpern and Hakel, 2002]`    |Not mentioned          |Not mentioned
@@ -148,7 +152,7 @@ Reference                      |What do students prefer|Extent
 `[Machemer and Crawford, 2007]`|Passive learning       |0.5% higher value
 
 Are students really 'still convinced they learn more from a traditional
-lecture than from an active learning experience'? 
+lecture than from an active learning experience'?
 
 ## 2.2. Question selection
 
@@ -157,7 +161,7 @@ From 2.2. Exam Information:
 > Only the multiple choice, matching, and true–false response sections
 > for each exam were used in the analyses.
 
-Why? What is the impact? 
+Why? What is the impact?
 What do you think the reason is?
 
 ## Table 2
@@ -170,7 +174,7 @@ as can be inferred from figure 3.
 
 ## 2.5 Dwass–Steel–Critchlow–Fligner test
 
-In section 2.5, we read about the use of the 
+In section 2.5, we read about the use of the
 Dwass–Steel–Critchlow–Fligner test.
 
 A quick search finds me the
@@ -213,13 +217,13 @@ do we think this is a relevant improvement?
 
 Level    |Mean score|Improvement over lecturing
 ---------|----------|-------------------------------
-Lecturing|89.3      |`(89.3 - 89.3) / 89.3 = ` +0%
-R        |87.6      |`(87.6 - 89.3) / 89.3 = ` -2%
-E        |93.8      |`(93.8 - 89.3) / 89.3 = ` +5%
-C        |86.2      |`(86.2 - 89.3) / 89.3 = ` -3%
-F        |91.8      |`(91.8 - 89.3) / 89.3 = ` +3%
-A        |88.7      |`(88.7 - 89.3) / 89.3 = ` -1%
-RECFA    |89.62     |`(89.62 - 89.3) / 89.3 = ` +0.3%
+Lecturing|89.3      |`(89.3 - 89.3) / 89.3 =` +0%
+R        |87.6      |`(87.6 - 89.3) / 89.3 =` -2%
+E        |93.8      |`(93.8 - 89.3) / 89.3 =` +5%
+C        |86.2      |`(86.2 - 89.3) / 89.3 =` -3%
+F        |91.8      |`(91.8 - 89.3) / 89.3 =` +3%
+A        |88.7      |`(88.7 - 89.3) / 89.3 =` -1%
+RECFA    |89.62     |`(89.62 - 89.3) / 89.3 =` +0.3%
 
 ### 3.2b. Do students study?
 
@@ -270,8 +274,10 @@ Note that they mention this in the Discussion themselves too:
 
 ## 3.4
 
-> student responses from survey statement three show most students think they learn better
-> by lectures than active learning regardless of year or honors, which confirms previous research [25].
+> student responses from survey statement three show most students
+> think they learn better
+> by lectures than active learning regardless of year or honors,
+> which confirms previous research [25].
 
 Again, this is false, as shown in the introduction.
 
@@ -286,10 +292,14 @@ Is this a relevant difference?
 ## 4. Discussion
 
 > We recommend that teachers (1) use online break-out
-> rooms, but keep the same students in each group; (2) alternatively, the students were also asked
-> to meet on their own time as groups using Zoom, and (3) we recommend that teachers remind the
-> students to turn on their sound and videos in these groups. The students formed collegial bonds and
-> re-established team-building relations during the pressing times. It was clear that most of the students
+> rooms, but keep the same students in each group;
+> (2) alternatively, the students were also asked
+> to meet on their own time as groups using Zoom, and
+> (3) we recommend that teachers remind the
+> students to turn on their sound and videos in these groups.
+> The students formed collegial bonds and
+> re-established team-building relations during the pressing times.
+> It was clear that most of the students
 > reacted positively to re-joining their groups.
 
 This is my favorite part, only because I have the same ideas.
@@ -320,8 +330,19 @@ effective.
 - `[Volpe, 1984]`
   Volpe, E. Peter. "The shame of science education."
   American Zoologist (1984): 433-441.
-- `[Lumpkin & Achen, 2015]` Lumpkin, Angela, Rebecca M. Achen, and Regan K. Dodd. "Student perceptions of active learning." College Student Journal 49.1 (2015): 121-133.
-- `[Smith and Cardaciotto, 2011]` Smith, C. Veronica, and LeeAnn Cardaciotto. "Is active learning like broccoli? Student perceptions of active learning in large lecture classes." Journal of the Scholarship of Teaching and Learning 11.1 (2011): 53-61.
-- `[Machemer and Crawford, 2007]` Machemer, Patricia L., and Pat Crawford. "Student perceptions of active learning in a large cross-disciplinary classroom." Active learning in higher education 8.1 (2007): 9-30.
-- `[Joel, 2006]` Michael, Joel. "Where's the evidence that active learning works?." Advances in physiology education (2006).
-- `[Halpern and Hakel, 2002]` Halpern, Diane F., and Milton D. Hakel. "Learning that lasts a lifetime: teaching for long‐term retention and transfer." New Directions for Teaching and Learning 2002.89 (2002): 3-7.
+- `[Lumpkin & Achen, 2015]` Lumpkin, Angela, Rebecca M. Achen,
+  and Regan K. Dodd. "Student perceptions of active learning."
+  College Student Journal 49.1 (2015): 121-133.
+- `[Smith and Cardaciotto, 2011]` Smith, C. Veronica, and LeeAnn Cardaciotto.
+  "Is active learning like broccoli? Student perceptions of active learning
+  in large lecture classes."
+  Journal of the Scholarship of Teaching and Learning 11.1 (2011): 53-61.
+- `[Machemer and Crawford, 2007]` Machemer, Patricia L., and Pat Crawford.
+  "Student perceptions of active learning in a large cross-disciplinary
+  classroom." Active learning in higher education 8.1 (2007): 9-30.
+- `[Joel, 2006]` Michael, Joel.
+  "Where's the evidence that active learning works?."
+  Advances in physiology education (2006).
+- `[Halpern and Hakel, 2002]` Halpern, Diane F., and Milton D. Hakel.
+  "Learning that lasts a lifetime: teaching for long‐term retention
+  and transfer." New Directions for Teaching and Learning 2002.89 (2002): 3-7.
