@@ -32,10 +32,9 @@ and discuss those in an informal way.
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-| Date       | Person         | Description  |
-| ---------- | -------------- | ------------ |
-| 2025-09-25 | Elena Dracheva | Discuss: 'McGreevy, Kristen M., and Frank C. Church. "Active learning: Subtypes, intra-exam comparison, and student survey in an undergraduate biology course." Education Sciences 10.7 (2020): 185. [`https://www.mdpi.com/2227-7102/10/7/185`](https://www.mdpi.com/2227-7102/10/7/185) |
-
+| Date       | Person           | Description  |
+| ---------- | ---------------- | ------------ |
+| 2025-10-30 | Kristen Schröder | Discuss: 'Johnson, Angela. "How to design research-aligned DEI interventions in physics." arXiv preprint arXiv:2406.01390 (2024). [`https://arxiv.org/abs/2406.01390`](https://arxiv.org/abs/2406.01390) |
 
 <!-- markdownlint-enable MD013 -->
 
