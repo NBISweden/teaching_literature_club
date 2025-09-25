@@ -39,5 +39,5 @@ and discuss those in an informal way.
 
 <!-- markdownlint-enable MD013 -->
 
-- For [past events](past_events.md), see [past events](past_events.md).
+- For [past events](events.md), see [events](events.md).
 - For [frequently asked questions](faq.md), see [FAQ](faq.md)
