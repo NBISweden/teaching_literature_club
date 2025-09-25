@@ -218,3 +218,12 @@ Regan
 Subtype
 Subtypes
 Volpe
+analitica
+Bonferroni
+cjimenezgallardo
+Critchlow
+Dwass
+Fligner
+grantschneider
+Holm
+NSM
