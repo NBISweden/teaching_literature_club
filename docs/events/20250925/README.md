@@ -14,7 +14,7 @@ tags:
   and student survey in an undergraduate biology course."
   Education Sciences 10.7 (2020): 185.
   [`https://www.mdpi.com/2227-7102/10/7/185`](https://www.mdpi.com/2227-7102/10/7/185)
-  [`mcgreevy_and_church_2020.pdf`](../papers/mcgreevy_and_church_2020.pdf]
+  [`mcgreevy_and_church_2020.pdf`](../../papers/mcgreevy_and_church_2020.pdf)
 
 ## Notes
 
@@ -67,9 +67,6 @@ tags:
 
     It shows me that being able to do active learning
     also makes one better at lecturing.
-
-## Scribbles
-
 
 ## My questions
 
