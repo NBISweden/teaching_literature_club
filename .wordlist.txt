@@ -227,3 +227,6 @@ Fligner
 grantschneider
 Holm
 NSM
+DEI
+arXiv
+preprint
