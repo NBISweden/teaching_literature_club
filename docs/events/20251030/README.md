@@ -39,7 +39,9 @@ tags:
 
 ???- question "My answer"
 
-    ?
+    I am sorry for all people that care about DEI
+    that misleading papers such as `[Hazari et al., 2013]` (`[42]` in this
+    paper) exist. It makes people researching DEI look needlessly stupid.
 
 - Q: How would you summarize the paper in one line?
 
@@ -57,7 +59,8 @@ tags:
 
 ???- question "My answer"
 
-    ?
+    - It shows me again that we should never trust a paper at face value
+
 
 ## My questions
 
@@ -135,7 +138,6 @@ The paper refers to `[Hazari et al., 2013][42]`:
 - (v) discussing the underrepresentation of women
 
 Six point scale ('0 - Not at all likely' to '5 - Extremely likely')
-
 
 discussion of underrepresentation was highly significantly
 correlated with interest in a career in physical science. Discussing the work of female scientists
