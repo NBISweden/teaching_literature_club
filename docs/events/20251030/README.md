@@ -2,13 +2,11 @@
 tags:
   - notes
   - 2025-10-30
-  - McClellan
+  - Angela Johnson
+  - How to design research-aligned DEI interventions in physics
 ---
 
 # 2025-10-30
-
-
-
 
 - Date: 2025-10-30
 - Lead discussion: Kristen Schröder
@@ -98,7 +96,7 @@ DEI semester-long theme     |?No                 |?No              |?No
 
 
 - A. Reduce implicit bias
-- B. Increase participants’ awareness of their own biases/the impact of bias on others
+- B. Increase participants' awareness of their own biases/the impact of bias on others
 - C. Teach participants strategies to overcome bias
 - D. Increase opportunities to practice strategies to overcome bias
 - E. Increase internal or external motivation to reduce bias
@@ -117,11 +115,11 @@ Let's take a look at that.
 ## 4.A Implicit bias
 
 > A. Reduce implicit bias
-> While some interventions have been shown to reduce participants’ implicit biases (as measured
+> While some interventions have been shown to reduce participants' implicit biases (as measured
 > on the Implicit Association Test, for example), these changes do not lead to changes in either explicit bias
 > or behavior. Thus, I do not recommend reduction of implicit bias as an outcome goal unless it is
 > accompanied with other goals; perhaps not even then, as it is not clear that implicit bias is in fact a
-> measure of participants’ animus to other groups. There is reason to think it might be a measure instead of
+> measure of participants' animus to other groups. There is reason to think it might be a measure instead of
 > the cultural norms of their environment.
 
 I think this is a good idea, to not care about implicit bias tests:
@@ -135,7 +133,8 @@ This results does not give me any info. I felt the test was rigged.
 
 ## 4.F. Increase physics identity/intent to pursue a physic major or career
 
-The paper refers to `[Hazari et al., 2013][42]`:
+The paper refers to `[Hazari et al., 2013][42]`,
+where they analyses the effect of these DEI interventions:
 
 - (i) having a single-sex physics class
 - (ii) having female scientist guest speakers, 
@@ -143,15 +142,16 @@ The paper refers to `[Hazari et al., 2013][42]`:
 - (iv) discussing the work of female scientists
 - (v) discussing the underrepresentation of women
 
-Six point scale ('0 - Not at all likely' to '5 - Extremely likely')
+Table 1 from `[Hazari et al., 2013][42]` contains the results.
 
-discussion of underrepresentation was highly significantly
-correlated with interest in a career in physical science. Discussing the work of female scientists
-trended very strongly towards significance (p=.05).
+???- question "How does that table look like?"
 
-Here is table 1 from `[Hazari et al., 2013][42]`:
+    ![Hazari et al., 2013 table 1](hazari_et_al_2013_table_1.png)
 
-![Hazari et al., 2013 table 1](hazari_et_al_2013_table_1.png)
+As the data was not available ( :-/ ), I created
+[a comma-seperated](hazari_et_al_2013_table_1.csv) from it manually.
+I am happy the values for the control group before and after the
+experiment were reported: the world may change during the experiment.
 
 I decided to take a look at the results visually, following the
 line of reasoning of the paper:
@@ -179,10 +179,9 @@ Here I see no difference. Let's plot the differences:
 I conclude that `[Hazari et al., 2013][42]` is misleading
 and proves that there is no relevant effect.
 
-
 Back to the original paper, its author writes:
 
-> First, it is indeed possible to increase girls’ and women’s interest
+> First, it is indeed possible to increase girls' and women's interest
 > in physics, and
 > second, several of the common-sense ways people hope to do this are not
 > well-supported by research;
@@ -198,16 +197,51 @@ that should convince me of the importance of belonging:
 
 > This outcome is particularly salient to physics communities, 
 > as there is evidence that 
-> 1) a sense of belonging is associated with success in STEM 43, Good, 2012 #903 
-> and physics 44, 45, and 
+> 1) a sense of belonging is associated with success 
+> in STEM `[43, Good, 2012, #903]`
+> and physics `[44, 45]`, and 
 > 2) members of minoritized groups often experience a lower sense of belonging
-> than other students in STEM 46, Good, 2012 #903 and 
-> physics 8, 44, 47-49. 
-> There is also evidence that women of color in physics
-> sometimes experience intense isolation 50, 51.
+> than other students in STEM `[46, Good, 2012 #903]` and 
+> physics `[8, 44, 47-49]`. There is also evidence that women of color in physics
+> sometimes experience intense isolation `[50, 51.]`
+
+I think point 2 is is uninteresting: I am unsurprised any minority group
+has a lower sense of belonging. Question is: do these feelings have an effect?
+I will take a look at paper `[44][Stout et al, 2013]`
+to see how much this influences success.
+
+The author of this paper claims 'a sense of belonging is associated with
+success in physics'. 
+The title of `[44][Stout et al, 2013]` ('How a gender gap in belonging
+contributes to the gender gap in physics participation') is about participation.
+Let's see how we can unite these different words.
+
+The numbers we need are in `[44][Stout et al, 2013]` table 2.
+
+???- question "How does that table look like?"
+
+    ![Stout et al., 2013 table 2](stout_et_al_2013_table_2.png)
+
+When I convert these number to [a comma-seperated file](stout_et_al_2013_table_2.csv)
+by hand, I see this:
+
+![Stout et al., 2013 table 2](stout_et_al_2013_table_2_results.png)
+
+> Visualization of `[44][Stout et al, 2013]` table 2,
+> with the following abbreviations:
+
+Abbreviation|Full
+------------|-----------------------
+`se`        |Stereotype Endorsement
+`b`         |Belonging
+`uv`        |Utility Value
+`score`     |Course Score
+`sat`       |SAT/ACT score
 
 
 
+Women|1.72 (1.02)           | 3.64 (.92)|3.56 (.86)|2.47 (.96)   |-0.19 (.98)
+Men  |2.30 (1.20)           | 3.97 (.81)|3.93 (.77)|2.73 (.90)   |.03 (.97) 
 
 ## References
 
@@ -229,3 +263,10 @@ that should convince me of the importance of belonging:
   Proceedings of the Physics Education
   Research Conference, 535-540 (2019).
 
+
+- `[Stout et al, 2013]` 
+  Stout, Jane G., et al. 
+  "How a gender gap in belonging contributes to the gender gap
+  in physics participation."
+  AIP conference proceedings. Vol. 1513. No. 1.
+  American Institute of Physics, 2013.
