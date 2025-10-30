@@ -17,7 +17,10 @@ ggplot2::ggplot(
   ggplot2::aes(x = covariate, y = value, fill = name)
 ) + ggplot2::geom_col(position = "dodge") +
   ggplot2::facet_grid(rows = ggplot2::vars(intervention)) +
-  ggplot2::theme(strip.text.y.right = ggplot2::element_text(angle = 0))
+  ggplot2::theme(
+    strip.text.y.right = ggplot2::element_text(angle = 0),
+    axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust = 1)
+  )
 
 ggplot2::ggsave("hazari_et_al_2013_results_1.png", width = 7, height = 7)
 
@@ -32,7 +35,10 @@ ggplot2::ggplot(
   ggplot2::aes(x = covariate, y = value, fill = name)
 ) + ggplot2::geom_col(position = "dodge") +
   ggplot2::facet_grid(rows = ggplot2::vars(intervention)) +
-  ggplot2::theme(strip.text.y.right = ggplot2::element_text(angle = 0))
+  ggplot2::theme(
+    strip.text.y.right = ggplot2::element_text(angle = 0),
+    axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust = 1)
+  )
 
 ggplot2::ggsave("hazari_et_al_2013_results_2.png", width = 7, height = 7)
 
@@ -50,7 +56,10 @@ ggplot2::ggplot(
 ) + ggplot2::geom_col(position = "dodge") +
   ggplot2::scale_y_continuous(labels = scales::percent) +
   ggplot2::facet_grid(rows = ggplot2::vars(intervention)) +
-  ggplot2::theme(strip.text.y.right = ggplot2::element_text(angle = 0))
+  ggplot2::theme(
+    strip.text.y.right = ggplot2::element_text(angle = 0),
+    axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust = 1)
+  )
 
 ggplot2::ggsave("hazari_et_al_2013_results_1_improvement.png", width = 7, height = 7)
 
@@ -60,6 +69,9 @@ ggplot2::ggplot(
 ) + ggplot2::geom_col(position = "dodge") +
   ggplot2::scale_y_continuous(labels = scales::percent) +
   ggplot2::facet_grid(rows = ggplot2::vars(intervention)) +
-  ggplot2::theme(strip.text.y.right = ggplot2::element_text(angle = 0))
+  ggplot2::theme(
+    strip.text.y.right = ggplot2::element_text(angle = 0),
+    axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust = 1)
+  )
 
 ggplot2::ggsave("hazari_et_al_2013_results_2_improvement.png", width = 7, height = 7)

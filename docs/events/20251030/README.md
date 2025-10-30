@@ -42,6 +42,7 @@ tags:
     I am sorry for all people that care about DEI
     that misleading papers such as `[Hazari et al., 2013]` (`[42]` in this
     paper) exist. It makes people researching DEI look needlessly stupid.
+    The author is mislead by that paper herself.
 
 - Q: How would you summarize the paper in one line?
 
@@ -102,10 +103,15 @@ DEI semester-long theme     |?No                 |?No              |?No
 - D. Increase opportunities to practice strategies to overcome bias
 - E. Increase internal or external motivation to reduce bias
 - F. Increase physics identity/intent to pursue a physic major or career
+- G. Increase the sense of belonging/decrease the sense of isolation of physics students who are members of minoritized groups
 
 I think F is most important for this paper. I hope to read a number
-about this.
+about this. However, when I analysed the author adressing this,
+I am convinced that the outcome is that there is no difference, i.e.
+each of the DEI interventions have had no relevant outcome.
 
+With F concluded to be irrelevant, I am most interested in G.
+Let's take a look at that.
 
 
 ## 4.A Implicit bias
@@ -172,6 +178,36 @@ Here I see no difference. Let's plot the differences:
 
 I conclude that `[Hazari et al., 2013][42]` is misleading
 and proves that there is no relevant effect.
+
+
+Back to the original paper, its author writes:
+
+> First, it is indeed possible to increase girls’ and women’s interest
+> in physics, and
+> second, several of the common-sense ways people hope to do this are not
+> well-supported by research;
+
+I conclude that the author is successfully mislead.
+
+## 4.G. Increase the sense of belonging/decrease the sense of isolation of physics students who are members of minoritized groups
+
+Here no qualitative research regarding physics is supplied.
+
+Let's take a look at the author's more general statements,
+that should convince me of the importance of belonging:
+
+> This outcome is particularly salient to physics communities, 
+> as there is evidence that 
+> 1) a sense of belonging is associated with success in STEM 43, Good, 2012 #903 
+> and physics 44, 45, and 
+> 2) members of minoritized groups often experience a lower sense of belonging
+> than other students in STEM 46, Good, 2012 #903 and 
+> physics 8, 44, 47-49. 
+> There is also evidence that women of color in physics
+> sometimes experience intense isolation 50, 51.
+
+
+
 
 ## References
 
