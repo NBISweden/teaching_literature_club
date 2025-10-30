@@ -73,7 +73,6 @@ tags:
 I hope this paper will show how big the problem is that is solved.
 
 
-
 The paper seems ambitious by also stating that it looks for
 evidence.
 
@@ -88,6 +87,8 @@ evidence.
 
 Here is my initial guess:
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 Intervention                |Effect of diversity?|Effect on equity?|Effect on inclusion?
 ----------------------------|--------------------|-----------------|--------------------
 Light touch DEI intervention|?No                 |?No              |?Yes, but weird
@@ -95,16 +96,19 @@ DEI training: workshops     |?No                 |?No              |?No
 DEI unit                    |?No                 |?No              |?No
 DEI semester-long theme     |?No                 |?No              |?No
 
+<!-- markdownlint-enable MD013 -->
+
 ## 4. Outcomes
 
-
 - A. Reduce implicit bias
-- B. Increase participants' awareness of their own biases/the impact of bias on others
+- B. Increase participants' awareness of their
+  own biases/the impact of bias on others
 - C. Teach participants strategies to overcome bias
 - D. Increase opportunities to practice strategies to overcome bias
 - E. Increase internal or external motivation to reduce bias
 - F. Increase physics identity/intent to pursue a physic major or career
-- G. Increase the sense of belonging/decrease the sense of isolation of physics students who are members of minoritized groups
+- G. Increase the sense of belonging/decrease the sense of isolation
+  of physics students who are members of minoritized groups
 
 I think F is most important for this paper. I hope to read a number
 about this. However, when I analysed the author adressing this,
@@ -118,18 +122,23 @@ Let's take a look at that.
 ## 4.A Implicit bias
 
 > A. Reduce implicit bias
-> While some interventions have been shown to reduce participants' implicit biases (as measured
-> on the Implicit Association Test, for example), these changes do not lead to changes in either explicit bias
-> or behavior. Thus, I do not recommend reduction of implicit bias as an outcome goal unless it is
-> accompanied with other goals; perhaps not even then, as it is not clear that implicit bias is in fact a
-> measure of participants' animus to other groups. There is reason to think it might be a measure instead of
+> While some interventions have been shown to reduce participants'
+> implicit biases (as measured
+> on the Implicit Association Test, for example), these changes do not lead
+> to changes in either explicit bias
+> or behavior. Thus, I do not recommend reduction of implicit bias
+> as an outcome goal unless it is
+> accompanied with other goals; perhaps not even then,
+> as it is not clear that implicit bias is in fact a
+> measure of participants' animus to other groups.
+> There is reason to think it might be a measure instead of
 > the cultural norms of their environment.
 
 I think this is a good idea, to not care about implicit bias tests:
 out of curiosity, I've taken one. This is my result:
 
-> You were slightly faster at sorting 'Fat people' with 'Bad words' 
-> and 'Thin people' with 'Good words' 
+> You were slightly faster at sorting 'Fat people' with 'Bad words'
+> and 'Thin people' with 'Good words'
 > than 'Thin people' with 'Bad words' and 'Fat people' with 'Good words'
 
 This results does not give me any info. I felt the test was rigged.
@@ -140,8 +149,8 @@ The paper refers to `[Hazari et al., 2013][42]`,
 where they analyses the effect of these DEI interventions:
 
 - (i) having a single-sex physics class
-- (ii) having female scientist guest speakers, 
-- (iii) having a female physics teacher, 
+- (ii) having female scientist guest speakers,
+- (iii) having a female physics teacher,
 - (iv) discussing the work of female scientists
 - (v) discussing the underrepresentation of women
 
@@ -162,7 +171,7 @@ line of reasoning of the paper:
 ![Hazari et al., 2013 table 1 as a plot](hazari_et_al_2013_results_2.png)
 
 I also wanted to see the improvements, similar to the paper,
-using `(new - old) / old = (treatment - control) / control = `,
+using `(new - old) / old = (treatment - control) / control =`,
 resulting in the same reported values:
 
 ![Improvements](hazari_et_al_2013_results_2_improvement.png)
@@ -191,21 +200,28 @@ Back to the original paper, its author writes:
 
 I conclude that the author is successfully mislead.
 
+<!-- markdownlint-disable MD013 --><!-- Headings cannot be split up over lines, hence will break 80 characters per line -->
+
 ## 4.G. Increase the sense of belonging/decrease the sense of isolation of physics students who are members of minoritized groups
+
+<!-- markdownlint-enable MD013 -->
 
 Here no qualitative research regarding physics is supplied.
 
 Let's take a look at the author's more general statements,
 that should convince me of the importance of belonging:
 
-> This outcome is particularly salient to physics communities, 
-> as there is evidence that 
-> 1) a sense of belonging is associated with success 
+> This outcome is particularly salient to physics communities,
+> as there is evidence that
+>
+> 1) a sense of belonging is associated with success
 > in STEM `[43, Good, 2012, #903]`
-> and physics `[44, 45]`, and 
-> 2) members of minoritized groups often experience a lower sense of belonging
-> than other students in STEM `[46, Good, 2012 #903]` and 
-> physics `[8, 44, 47-49]`. There is also evidence that women of color in physics
+> and physics `[44, 45]`, and
+> 2) members of minoritized groups often experience
+> a lower sense of belonging
+> than other students in STEM `[46, Good, 2012 #903]` and
+> physics `[8, 44, 47-49]`.
+> There is also evidence that women of color in physics
 > sometimes experience intense isolation `[50, 51.]`
 
 I think point 2 is is uninteresting: I am unsurprised any minority group
@@ -214,7 +230,7 @@ I will take a look at paper `[44][Stout et al, 2013]`
 to see how much this influences success.
 
 The author of this paper claims 'a sense of belonging is associated with
-success in physics'. 
+success in physics'.
 The title of `[44][Stout et al, 2013]` ('How a gender gap in belonging
 contributes to the gender gap in physics participation') is about participation.
 Let's see how we can unite these different words.
@@ -225,7 +241,8 @@ The numbers we need are in `[44][Stout et al, 2013]` table 2.
 
     ![Stout et al., 2013 table 2](stout_et_al_2013_table_2.png)
 
-When I convert these number to [a comma-seperated file](stout_et_al_2013_table_2.csv)
+When I convert these number to
+[a comma-seperated file](stout_et_al_2013_table_2.csv)
 by hand, I see this:
 
 ![Stout et al., 2013 table 2](stout_et_al_2013_table_2_results.png)
@@ -274,21 +291,21 @@ hence I conclude the author has decided to paint a biased picture.
   arXiv preprint arXiv:2406.01390 (2024)
   [`https://arxiv.org/abs/2406.01390`](https://arxiv.org/abs/2406.01390)
 
-- `[Schipull, 2019][7]` 
-  E. M. Schipull, X. R. Quichocho and E. W. Close, 
+- `[Schipull, 2019][7]`
+  E. M. Schipull, X. R. Quichocho and E. W. Close,
   ““Success Together”: Physics departmental
   practices supporting LGBTQ+ women and women of color,”
   Proceedings of the Physics Education
   Research Conference, 535-540 (2019).
 
-- `[Stout et al, 2013]` 
-  Stout, Jane G., et al. 
+- `[Stout et al, 2013]`
+  Stout, Jane G., et al.
   "How a gender gap in belonging contributes to the gender gap
   in physics participation."
   AIP conference proceedings. Vol. 1513. No. 1.
   American Institute of Physics, 2013.
 
-- `[Sharma and Bewes, 2011]` 
-  Sharma, Manjula Devi, and James Bewes. 
+- `[Sharma and Bewes, 2011]`
+  Sharma, Manjula Devi, and James Bewes.
   "Self-monitoring: Confidence, academic achievement and gender differences
   in physics." Journal of Learning Design 4.3 (2011): 1-13.
