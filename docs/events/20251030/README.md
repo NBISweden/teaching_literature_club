@@ -250,6 +250,17 @@ difference!
 
 I conclude that the author is misleading the reader here.
 
+Also I conclude the author has omitted counterindications.
+A simple search on Google Scholar for
+'gender confidence in predicted academic success per field'
+gave `[Sharma and Bewes, 2011]` as a second hit.
+It shows that admission rates and grades are equal:
+
+![Sharma and Bewes, 2011, table 4](sharma_and_bewes_2011_table_4.png)
+
+I would assume that the author of this paper is aware of this paper,
+hence I conclude the author has decided to paint a biased picture.
+
 ## References
 
 - `[Hazari et al., 2013][42]`
@@ -276,3 +287,8 @@ I conclude that the author is misleading the reader here.
   in physics participation."
   AIP conference proceedings. Vol. 1513. No. 1.
   American Institute of Physics, 2013.
+
+- `[Sharma and Bewes, 2011]` 
+  Sharma, Manjula Devi, and James Bewes. 
+  "Self-monitoring: Confidence, academic achievement and gender differences
+  in physics." Journal of Learning Design 4.3 (2011): 1-13.
