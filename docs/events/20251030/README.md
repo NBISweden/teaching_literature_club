@@ -25,41 +25,44 @@ tags:
 
 ???- question "My answer"
 
-    ?
+    2
 
 - Q: How would you praise the paper?
 
 ???- question "My answer"
 
-    ?
+    I am happy the author seems to care about minorities
+    and tries to recommend an evidence-based approach.
 
 - Q: How would you criticise the paper?
 
 ???- question "My answer"
 
     I am sorry for all people that care about DEI
-    that misleading papers such as `[Hazari et al., 2013]` (`[42]` in this
-    paper) exist. It makes people researching DEI look needlessly stupid.
-    The author is mislead by that paper herself.
+    that misleading papers such as this one exist.
+    It makes people honestly researching DEI look needlessly stupid.
+    I feel the same of two out of two papers I've taken
+    a closer look at, which are `[Hazari et al., 2013]` (`[42]` in this paper)
+    and `[Stout et al., 2013]` (`[44]` in this
+    paper).
 
 - Q: How would you summarize the paper in one line?
 
 ???- question "My answer"
 
-    ?
+    DEI research is a fraud
 
 - Q: Should we do what is in the paper?
 
 ???- question "My answer"
 
-    ?
+    Absolutely not
 
 - Q: How does this paper make us a better teacher?
 
 ???- question "My answer"
 
-    - It shows me again that we should never trust a paper at face value
-
+    It shows me again that we should never trust a paper at face value
 
 ## My questions
 
@@ -228,7 +231,7 @@ by hand, I see this:
 ![Stout et al., 2013 table 2](stout_et_al_2013_table_2_results.png)
 
 > Visualization of `[44][Stout et al, 2013]` table 2,
-> with the following abbreviations:
+> with the abbreviations below. Error bars show the standard deviation.
 
 Abbreviation|Full
 ------------|-----------------------
@@ -238,10 +241,14 @@ Abbreviation|Full
 `score`     |Course Score
 `sat`       |SAT/ACT score
 
+The `se` is the most interesting here, which is 'Stereotype Endorsement'
+The question surveyed was: 'According to my own personal beliefs,
+I expect men to generally do better in physics than women'.
+This has nothing to do with 'success in physics': success in physics
+would be a course or a SAT score. For these values, there is not a big
+difference!
 
-
-Women|1.72 (1.02)           | 3.64 (.92)|3.56 (.86)|2.47 (.96)   |-0.19 (.98)
-Men  |2.30 (1.20)           | 3.97 (.81)|3.93 (.77)|2.73 (.90)   |.03 (.97) 
+I conclude that the author is misleading the reader here.
 
 ## References
 
@@ -262,7 +269,6 @@ Men  |2.30 (1.20)           | 3.97 (.81)|3.93 (.77)|2.73 (.90)   |.03 (.97)
   practices supporting LGBTQ+ women and women of color,”
   Proceedings of the Physics Education
   Research Conference, 535-540 (2019).
-
 
 - `[Stout et al, 2013]` 
   Stout, Jane G., et al. 
