@@ -27,6 +27,10 @@ tags:
 
     2
 
+8, 8, 10, 2, 3
+
+Answer: 
+
 - Q: How would you praise the paper?
 
 ???- question "My answer"
