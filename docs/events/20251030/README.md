@@ -59,7 +59,7 @@ Answer:
 
 ???- question "My answer"
 
-    DEI research is a fraud
+    DEI research is not to be trusted.
 
 - Q: Should we do what is in the paper?
 
