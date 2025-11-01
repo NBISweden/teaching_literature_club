@@ -27,7 +27,12 @@ tags:
 
     2
 
-8, 8, 10, 2, 3
+???- question "Answers from the group"
+
+    These are the answers from the group, which
+    includes me.
+
+    8, 8, 10, 2, 3
 
 Answer: 
 
@@ -66,7 +71,16 @@ Answer:
 
 ???- question "My answer"
 
-    It shows me again that we should never trust a paper at face value
+    - It shows me again that we should never trust a paper at face value
+    - DEI interventions have no effect `[Hazari et al., 2013][42]`,
+      however, that paper presents a wrong analysis
+      that makes it appear they do
+    - There is no relevant gender gap in physicals: the variation between
+      the two genders is much bigger than the difference in mean:
+      we should focus on improving the measured variables for everyone,
+      instead of for one gender. Also here, this conclusion is
+      drawn from `[44][Stout et al, 2013]`, however, that paper misinterprets
+      its data
 
 ## My questions
 
