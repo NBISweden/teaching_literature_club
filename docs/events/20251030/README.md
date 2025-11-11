@@ -129,7 +129,7 @@ DEI semester-long theme     |?No                 |?No              |?No
   of physics students who are members of minoritized groups
 
 I think F is most important for this paper. I hope to read a number
-about this. However, when I analysed the author adressing this,
+about this. However, when I analysed the author addressing this,
 I am convinced that the outcome is that there is no difference, i.e.
 each of the DEI interventions have had no relevant outcome.
 
