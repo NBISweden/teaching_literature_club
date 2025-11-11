@@ -34,7 +34,7 @@ and discuss those in an informal way.
 
 | Date       | Person           | Description  |
 | ---------- | ---------------- | ------------ |
-| 2025-10-30 | Kristen Schröder | Discuss: 'Johnson, Angela. "How to design research-aligned DEI interventions in physics." arXiv preprint arXiv:2406.01390 (2024). [`https://arxiv.org/abs/2406.01390`](https://arxiv.org/abs/2406.01390) |
+| 2025-12-15 | Stephan Nylinder | TBA          |
 
 <!-- markdownlint-enable MD013 -->
 
