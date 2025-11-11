@@ -34,7 +34,7 @@ tags:
 
     8, 8, 10, 2, 3
 
-Answer: 
+Answer:
 
 - Q: How would you praise the paper?
 
