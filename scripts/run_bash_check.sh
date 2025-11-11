@@ -18,7 +18,7 @@ if [[ "$PWD" =~ scripts$ ]]; then
 	exit 42
 fi
 
-# We do need the files to be seperated by spaces
+# We do need the files to be separated by spaces
 # shellcheck disable=SC2046
 
 shellcheck $(find . | grep "sh$" | grep -v exercises)

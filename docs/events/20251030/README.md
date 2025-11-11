@@ -179,7 +179,7 @@ Table 1 from `[Hazari et al., 2013][42]` contains the results.
     ![Hazari et al., 2013 table 1](hazari_et_al_2013_table_1.png)
 
 As the data was not available ( :-/ ), I created
-[a comma-seperated](hazari_et_al_2013_table_1.csv) from it manually.
+[a comma-separated](hazari_et_al_2013_table_1.csv) from it manually.
 I am happy the values for the control group before and after the
 experiment were reported: the world may change during the experiment.
 
@@ -260,7 +260,7 @@ The numbers we need are in `[44][Stout et al, 2013]` table 2.
     ![Stout et al., 2013 table 2](stout_et_al_2013_table_2.png)
 
 When I convert these number to
-[a comma-seperated file](stout_et_al_2013_table_2.csv)
+[a comma-separated file](stout_et_al_2013_table_2.csv)
 by hand, I see this:
 
 ![Stout et al., 2013 table 2](stout_et_al_2013_table_2_results.png)
