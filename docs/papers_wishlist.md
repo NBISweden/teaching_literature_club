@@ -1,7 +1,5 @@
 # Papers
 
-## Richel
-
 A wishlist to read:
 
 - Bragg, Leicha A., Chris Walsh, and Marion Heyeres.
