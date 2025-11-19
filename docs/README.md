@@ -34,7 +34,7 @@ and discuss those in an informal way.
 
 | Date       | Person           | Description  |
 | ---------- | ---------------- | ------------ |
-| 2025-12-15 | Stephan Nylinder | TBA          |
+| 2025-12-15 | Stephan Nylinder | Bragg, Leicha A., Chris Walsh, and Marion Heyeres. "Successful design and delivery of online professional development for teachers: A systematic review of the literature." Computers & education 166 (2021): 104158. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S036013152100035X?casa_token=4rtj6MH4PtIAAAAA:-cr3L-cbnMSPXwxWyC7qXB1BEO2RksBqrRjr7Bl1U-_JZYp2IAE9B88yfxjHH-_6bONkt6wHauw)|
 
 <!-- markdownlint-enable MD013 -->
 
