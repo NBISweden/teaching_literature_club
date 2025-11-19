@@ -32,9 +32,9 @@ and discuss those in an informal way.
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-| Date       | Person           | Description  |
-| ---------- | ---------------- | ------------ |
-| 2025-12-15 | Stephan Nylinder | Bragg, Leicha A., Chris Walsh, and Marion Heyeres. "Successful design and delivery of online professional development for teachers: A systematic review of the literature." Computers & education 166 (2021): 104158. [Paper](https://doi.org/10.1016/j.compedu.2021.104158)|
+| Date       | Person           | Description                                                                                                                                                                                                                                                                  |
+| ---------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-12-15 | Stephan Nylinder | Bragg, Leicha A., Chris Walsh, and Marion Heyeres. "Successful design and delivery of online professional development for teachers: A systematic review of the literature." Computers & education 166 (2021): 104158. [Paper](https://doi.org/10.1016/j.compedu.2021.104158) |
 
 <!-- markdownlint-enable MD013 -->
 
