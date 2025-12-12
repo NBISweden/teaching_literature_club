@@ -109,7 +109,7 @@ From `[Browns and Woods, 2012]` I find these two instructional models:
 
 Let's read a paper that has an **outcome** I am interested in.
 I am mostly interested in something practice, hence
-'Improved instructional practices'. This also has 
+'Improved instructional practices'. This also has
 `[Browns and Woods, 2012]` mentioned. Let's take a closer look.
 
 Something positive         |Before|After
@@ -131,12 +131,16 @@ Let's find a study that could be at that cell, as the size of the
 blue dot indicates that either the effect is clear or that there
 are multiple studies.
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 First author     |Effect found                                                                                                              |EPHPP score|CASP score
 -----------------|--------------------------------------------------------------------------------------------------------------------------|-----------|----------
 Erickson         |Increased level of competency to **apply** and implement research-based practices of secondary transition in the classroom|Weak       |Strong
 Magidin de Kramer|Significant positive effects on vocabulary, ELA knowledge, and instructional writing **practices**                        |Weak       |.
 Masters          |Improved instructional practices                                                                                          |Weak       |.
 Orleans          |Improved teaching practice                                                                                                |Weak       |Moderate
+
+<!-- markdownlint-enable MD013 -->
 
 OK, lets try `[Erickson et al., 2012]` as it seems to be the best done research
 of the 4 papers that had an effect on actual teaching.
@@ -155,14 +159,18 @@ See Table 2 of the appendix:
 
 No effect of a teachers course in grades of learners:
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 Study            |Effect on learners
------------------|-------------------------------
+-----------------|-------------------------------------------------------------------------------------------
 Dash             |None
 Goldenberg       |None
 Griffin          |None
 Magidin de Kramer|Reading comprehension practices
 O'Dwyer          |Larger changes in student content knowledge scores (only at an 8th-grade Mathematics trial)
 Orleans          |?Increased scores in achievement (unsure if this is about learners or teachers)
+
+<!-- markdownlint-enable MD013 -->
 
 
 ## Table 1 shows the outcome
@@ -185,7 +193,7 @@ because:
   (however, this paper may change my ideas on that)
 - I assume that useful course outcomes for teachers are
   regular learning outcomes like any other course: they need to
-  change behavior 
+  change behavior
 
 
 ## What is andragogy?
@@ -197,17 +205,19 @@ that it has different principles than regular).
 These are its principles,
 from `https://www.instructionaldesign.org/theories/andragogy/`:
 
-- Adults need to be involved in the planning and evaluation of their instruction.
+- Adults need to be involved in the planning and
+  evaluation of their instruction.
 - Experience (including mistakes) provides the basis for learning activities.
-- Adults are most interested in learning subjects that have immediate relevance to their job or personal life.
+- Adults are most interested in learning subjects that have immediate
+  relevance to their job or personal life.
 - Adult learning is problem-centered rather than content-oriented.
 
 Where they refer to:
 
 - Knowles, M. (1975). Self-Directed Learning. Chicago: Follet.
-- Knowles, M. (1984). The Adult Learner: A Neglected Species (3rd Ed.). Houston: Gulf Publishing.
+- Knowles, M. (1984). The Adult Learner: A Neglected Species (3rd Ed.).
+  Houston: Gulf Publishing.
 - Knowles, M. (1984). Andragogy in Action. San Francisco: Jossey-Bass.
-
 
 
 ## What is CASP?
@@ -215,20 +225,22 @@ Where they refer to:
 CASP is a method to identify the quality of a research,
 e.g. CASP Checklist For Qualitative Research:
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 Item|Question
 ----|------------------------------------------------------------------------------------
 1   |Was there a clear statement of the aims of the research?
 2   |Is a qualitative methodology appropriate?
 3   |Was the research design appropriate to address the aims of the research?
-4   |Was the recruitment strategy appropriate to the aims of the research? 
-5   |Was the data collected in a way that addressed the research issue? 
+4   |Was the recruitment strategy appropriate to the aims of the research?
+5   |Was the data collected in a way that addressed the research issue?
 6   |Has the relationship between researcher and participants been adequately considered?
-7   |Have ethical issues been taken into consideration? 
+7   |Have ethical issues been taken into consideration?
 8   |Was the data analysis sufficiently rigorous?
-9   |Is there a clear statement of findings? 
-10  |How valuable is the research? 
+9   |Is there a clear statement of findings?
+10  |How valuable is the research?
 
-
+<!-- markdownlint-enable MD013 -->
 
 ## References
 
@@ -237,7 +249,7 @@ Item|Question
   Evaluation of a multicomponent online communication professional
   development program for early interventionists.
   Journal of Early Intervention, 34(4), 222–242.
-  https://doi.org/10.1177/1053815113483316
+  <https://doi.org/10.1177/1053815113483316>
 
 - `[Bragg et al., 2021]`
   Bragg, Leicha A., Chris Walsh, and Marion Heyeres.
@@ -250,4 +262,4 @@ Item|Question
   Erickson, A. S. G., Noonan, P. M., & Mccall, Z. (2012).
   Effectiveness of online professional development for rural special educators.
   Rural Special Education Quarterly, 31(1), 22–32.
-  https://doi.org/10.1177/875687051203100104
+  <https://doi.org/10.1177/875687051203100104>
