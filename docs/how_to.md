@@ -21,7 +21,8 @@ A review of of the literature :-)
   lead the group adequately. It is a fine balance between choosing a
   leader of high academic standing whose expertise may stifle discussion,
   or choosing a leader from peers who may not have the
-  requisite understanding of the paper under discussion' `[Deenadayalan et al., 2008]`
+  requisite understanding of the paper under discussion'
+  `[Deenadayalan et al., 2008]`
 - 'Provide access to a statistician to assist the leader in preparing
   for journal club, and to answer questions that may arise from the
   journal club discussion' `[Deenadayalan et al., 2008]`
@@ -35,7 +36,8 @@ A review of of the literature :-)
 - 'Identify one journal club member (either the designated leader
   or a member) who has the responsibility for identifying the literature
   to be discussed for each meeting. This person should also lead
-  the discussion on the article at the journal club' `[Deenadayalan et al., 2008]`
+  the discussion on the article at the journal club'
+  `[Deenadayalan et al., 2008]`
 
 ## Circulating articles for discussion
 
@@ -60,10 +62,12 @@ A review of of the literature :-)
 ## Journal club effectiveness
 
 - 'Depending on the journal club purpose, it may be appropriate to
-  evaluate knowledge uptake formally or informally' `[Deenadayalan et al., 2008]`
+  evaluate knowledge uptake formally or informally'
+  `[Deenadayalan et al., 2008]`
 - 'Evaluation should specifically relate to the article(s) for
   discussion, critical appraisal, understanding of biostatistics reported in
-  the paper and translating evidence into practice' `[Deenadayalan et al., 2008]`
+  the paper and translating evidence into practice'
+  `[Deenadayalan et al., 2008]`
 
 ## References
 

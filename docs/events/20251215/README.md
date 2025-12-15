@@ -41,7 +41,7 @@ tags:
 ???- question "My answer"
 
     - I found it hard to understand what this paper was about
-    - No public data 
+    - No public data
 
 - Q: How would you summarize the paper in one line?
 
