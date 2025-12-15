@@ -258,6 +258,16 @@ Item|Question
   Computers & education 166 (2021): 104158.
   [Paper](https://doi.org/10.1016/j.compedu.2021.104158)
 
+- `[Clayson, 2009]` Clayson, Dennis E. 
+  "Student evaluations of teaching: Are they related to what students learn?
+  A meta-analysis and review of the literature."
+  Journal of marketing education 31.1 (2009): 16-30.
+  This meta analysis concludes that there are many papers that report a link
+  between learner ratings and any metric. However,
+  this effect vanishes for bigger studies and/or studies with
+  rigorous metrics. It concludes that there is no relation between ratings
+  given by learners and any metric.
+
 - `[Erickson et al., 2012]`
   Erickson, A. S. G., Noonan, P. M., & Mccall, Z. (2012).
   Effectiveness of online professional development for rural special educators.

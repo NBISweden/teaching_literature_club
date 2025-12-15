@@ -2,10 +2,10 @@
 
 A wishlist to read:
 
-- Bragg, Leicha A., Chris Walsh, and Marion Heyeres.
-  "Successful design and delivery of online professional development for
-  teachers: A systematic review of the literature."
-  Computers & Education 166 (2021): 104158.
+- Tractenberg, Rochelle E. "Catalytic learning requires metacognition,
+  sustainable learning, and cognitive schema change." (2022).
+  [paper](https://osf.io/preprints/socarxiv/hp4k6_v1)
+  From a SLL presentation at 2025-12-10 by Rochelle E. Tractenberg
 - Sylvia Kullmann; Teaching counts!
   Open Educational Resources as an object of measurement
   for scientometric analysis.
