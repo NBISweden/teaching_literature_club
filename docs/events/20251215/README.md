@@ -258,7 +258,7 @@ Item|Question
   Computers & education 166 (2021): 104158.
   [Paper](https://doi.org/10.1016/j.compedu.2021.104158)
 
-- `[Clayson, 2009]` Clayson, Dennis E. 
+- `[Clayson, 2009]` Clayson, Dennis E.
   "Student evaluations of teaching: Are they related to what students learn?
   A meta-analysis and review of the literature."
   Journal of marketing education 31.1 (2009): 16-30.
