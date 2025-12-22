@@ -24,8 +24,8 @@ and discuss those in an informal way.
 - Goal: read and discuss literature on teaching in an informal way
 - Frequency: around monthly
 - Day: scheduled at the end of a meeting
-- Time: 15:00 (sharp!) - 15:55 (sharp!).
-  Room will be open at 14:45
+- Time: 14:00 (sharp!) - 14:55 (sharp!).
+  Room will be open at 13:45
 - Duration: 55 minutes (max)
 - Meeting type: online-only
 - Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
@@ -34,7 +34,7 @@ and discuss those in an informal way.
 
 | Date       | Person           | Description                                                                                                                                                                                                                                                                  |
 | ---------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025-12-15 | Stephan Nylinder | Bragg, Leicha A., Chris Walsh, and Marion Heyeres. "Successful design and delivery of online professional development for teachers: A systematic review of the literature." Computers & education 166 (2021): 104158. [Paper](https://doi.org/10.1016/j.compedu.2021.104158) |
+| 2026-01-26 | Dania Machlab    | TBA                                                                                                                                                                                                                                                                          |
 
 <!-- markdownlint-enable MD013 -->
 
