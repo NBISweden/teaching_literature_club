@@ -34,7 +34,7 @@ and discuss those in an informal way.
 
 | Date       | Person           | Description                                                                                                                                                                                                                                                                  |
 | ---------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026-01-26 | Dania Machlab    | TBA                                                                                                                                                                                                                                                                          |
+| 2026-01-26 | Dania Machlab    | Lerner, Talia N., Ashley L. Holloway, and Jillian L. Seiler. "Dopamine, updated: reward prediction error and beyond." Current opinion in neurobiology 67 (2021): 123-130 [Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8116345/)                                        |
 
 <!-- markdownlint-enable MD013 -->
 
