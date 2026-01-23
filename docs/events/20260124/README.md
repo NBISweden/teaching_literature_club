@@ -75,17 +75,23 @@ I like how they add comments to the references!
 
 ### Study 4
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 Procedure                                              |Results
 -------------------------------------------------------|------------------------------------------------------------------
 `1`. Train `A -> R`                                    |VTA dopamine neurons give RPE
 `2a`. Train `AX -> R`                                  |'Blocking': `X` does not change the behavior of the neuron
 `2b`. Train `AX -> R` and stimulate neurons to give RPE|`A -> R` is unlearnt. Conclude: RPE signal updates learning system
 
+<!-- markdownlint-enable MD013 -->
+
 In my words: if a neuron has an association, additional info is ignored,
 unless the neurons are artificially stimulated
 to 'chemically pretend' to be learning.
 
 ### Study 5
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Procedure                                      |Results
 -----------------------------------------------|------------------------------------------------------------------
@@ -94,10 +100,13 @@ Procedure                                      |Results
 `3`. Train `AY -> R`                           |'Blocking': `Y` does not change the behavior of the neuron
 `4`. inhibit neurons during `AX` (but not `AY`)|Learning about `X` and `Y` was equally blocked.
 
+<!-- markdownlint-enable MD013 -->
+
 In my words: if a neuron has an association, additional info is ignored.
 This additional info does not give any extra chemical signal whatsoever.
 
-From 10: 'if dopamine release is inhibited during a novel cue, learning about that cue is impaired'
+From 10: 'if dopamine release is inhibited during a novel cue,
+learning about that cue is impaired'
 
 'RPE signals are not
 necessarily accurate representations of error, but reflect
@@ -116,9 +125,6 @@ subjects narrow their focus to relevant stimuli'.
 
 Ramps exist 'where internal goal
 representations are necessary to support behavior'.
-
-
-
 
 
 ## References
