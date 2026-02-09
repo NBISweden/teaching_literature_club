@@ -34,7 +34,8 @@ and discuss those in an informal way.
 
 | Date       | Person           | Description                                                                                                                                                                                                                                                                  |
 | ---------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026-01-26 | Dania Machlab    | Lerner, Talia N., Ashley L. Holloway, and Jillian L. Seiler. "Dopamine, updated: reward prediction error and beyond." Current opinion in neurobiology 67 (2021): 123-130 [Article](https://www.sciencedirect.com/science/article/abs/pii/S0959438820301501?via%3Dihub)       |
+| 2026-03-04 | Richel Bilderbeek| Lockman, Alison S., and Barbara R. Schirmer. "Online instruction in higher education: Promising, research-based, and evidence-based practices." Journal of Education and e-Learning Research 7.2 (2020): 130-152.                                                            |
+
 
 <!-- markdownlint-enable MD013 -->
 
