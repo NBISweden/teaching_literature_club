@@ -192,7 +192,7 @@ inspire you to do the same?
   
 Should we do what is in the paper?
 
-???- question "My answer"
+???- question "Answers"
 
     > We identified only faculty feedback as an evidence-based practice in
     > online instruction
@@ -201,7 +201,7 @@ Should we do what is in the paper?
 
 How does this paper make us a better teacher?
 
-???- question "My answer"
+???- question "Answers"
 
     - R: it inspires me to combine research with teaching
 
