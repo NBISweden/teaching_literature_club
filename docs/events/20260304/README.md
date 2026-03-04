@@ -14,26 +14,7 @@ tags:
   Journal of Education and e-Learning Research 7.2 (2020): 130-152.
   [Article](https://eric.ed.gov/?id=EJ1258655)
 
-## Notes
-
-### Questions
-
-
-- Q: Should we do what is in the paper?
-
-???- question "My answer"
-
-    > We identified only faculty feedback as an evidence-based practice in
-    > online instruction
-
-    Yes, if we think it is important to listen to the literature.
-
-
-- Q: How does this paper make us a better teacher?
-
-???- question "My answer"
-
-## Talk outline
+## Talk
 
 Why I chose this paper
 
@@ -209,7 +190,23 @@ inspire you to do the same?
       online workshops are synchronous and I predict
       social media has no positive effect
   
+Should we do what is in the paper?
 
+???- question "My answer"
+
+    > We identified only faculty feedback as an evidence-based practice in
+    > online instruction
+
+    Yes, if we think it is important to listen to the literature.
+
+How does this paper make us a better teacher?
+
+???- question "My answer"
+
+    - R: it inspires me to combine research with teaching
+
+
+<!--
 
 ## Scribbles
 
@@ -224,6 +221,7 @@ I enjoy this:
 > The Community of Inquiry model describes learning as occurring in the intersection of social,
 cognitive, and teaching presence (Garrison, 2017).
 
+-->
 
 ## References
 
