@@ -39,7 +39,7 @@ tags:
     suspicious/paranoid, I would investigate if there is some
     partiality there.
 
-- Q: How would you summarizly so in intensive online environments, where instructors need to work to establish and maintain student engagement. Pedagogical approaches need to account for learner competencies, characteristics, and preferred learning approaches. This e the paper in one line?
+- Q: How would you summarize this paper in one line?
 
 ???- question "My answer"
 

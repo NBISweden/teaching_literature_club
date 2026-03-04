@@ -19,7 +19,7 @@ tags:
 Why I chose this paper
 
 ???- question "Answers"
-    
+
     I wanted a paper that is useful for me, so I searched for
     'evidence based practices in online teaching'. This was the best match
     that was most recent.
@@ -37,7 +37,8 @@ How would you summarize this paper in one line?
 
 ???- question "Answers"
 
-    - R: The most up-to-date overview of the literature regarding evidence-based
+    - R: The most up-to-date overview of the literature regarding
+      evidence-based
       best practices in online instructional practice, concluding that
       only 'faculty feedback' is a practiced that is evidence-based.
     - ...
@@ -64,7 +65,7 @@ How would you criticise the paper?
     - ...
 
 A review paper gives only a first general impression: some studies
-will be false/misleading. Was there a finding presented that, 
+will be false/misleading. Was there a finding presented that,
 upon closer investigation, you think is misleading?
 
 ???- question "Answers"
@@ -83,7 +84,7 @@ upon closer investigation, you think is misleading?
     - ...
 
 The only true finding is that only faculty feedback is proven to be
-effective teaching. 
+effective teaching.
 Why do you think that there are so few studies that have actually
 concluded something real?
 
@@ -100,7 +101,7 @@ concluded something real?
     - ...
 
 The only true finding is that only faculty feedback is proven to be
-effective teaching. 
+effective teaching.
 Can we use this in our setting directly? If not, how to tweak this to
 make this work for you? Do you already do this?
 
@@ -113,7 +114,7 @@ make this work for you? Do you already do this?
 
 The paper mentions `[Quality Matters, 2018]`:
 
-> We preface these [i.e. the few implications for practice from research] 
+> We preface these [i.e. the few implications for practice from research]
 > by noting that organizations such as Quality
 > Matters (2018) offer standards for online course designs
 > that can assure at least minimal quality.
@@ -130,6 +131,8 @@ minimal quality'. Do you agree with this statement?
       where they classified different teaching styles (see below).
       Note that 'following rubrics' is a hallmark of 'Satisfactory Teaching'.
 
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
     | Teaching Qualities   | Satisfactory Teaching | High-Quality Teaching                     | Disjointed Teaching                  |
     |----------------------|-----------------------|-------------------------------------------|--------------------------------------|
     | Goals -> Outcome     | Tightly-coupled       | Coupled                                   | Loosely-coupled                      |
@@ -143,6 +146,8 @@ minimal quality'. Do you agree with this statement?
     | Tasks Outcomes       | Predictable           | Developmental                             | Unpredictable                        |
     | Teaching             | Routine               | Reflective                                | Intuitive                            |
     | School Outcomes      | Credential/grade      | Responsible citizen and productive worker | Meeting student needs                |
+
+    <!-- markdownlint-enable MD013 -->
 
     > Table 2.1 from `[McCann et al, 2012]`
 
@@ -213,13 +218,15 @@ How does this paper make us a better teacher?
 I enjoy this:
 
 > we identified only faculty feedback as an evidence-based
-> practice and no specific intervention that we could identify as research-based in online instruction
+> practice and no specific intervention that we could identify
+> as research-based in online instruction
 
 - Web conferencing == Zoom
 - face threat mitigation ?
 
-> The Community of Inquiry model describes learning as occurring in the intersection of social,
-cognitive, and teaching presence (Garrison, 2017).
+> The Community of Inquiry model describes learning
+> as occurring in the intersection of social,
+> cognitive, and teaching presence (Garrison, 2017).
 
 -->
 
@@ -239,7 +246,7 @@ cognitive, and teaching presence (Garrison, 2017).
 
 - `[Quality Matters, 2018]` Quality Matters. (2018).
   Higher education course design rubric. Retrieved from:
-  https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric
+  <https://www.qualitymatters.org/qa-resources/rubric-standards/higher-ed-rubric>
 
 - `[Uttl et al., 2017]` Uttl, Bob, Carmela A. White, and Daniela Wong Gonzalez.
   "Meta-analysis of faculty's teaching effectiveness:
