@@ -11,7 +11,7 @@ tags:
 - Paper: Lerner, Talia N., Ashley L. Holloway, and Jillian L. Seiler.
   "Dopamine, updated: reward prediction error and beyond."
   Current opinion in neurobiology 67 (2021): 123-130
-  [Article](https://www.sciencedirect.com/science/article/abs/pii/S0959438820301501?via%3Dihub)
+  [Article](https://doi.org/10.1016/j.conb.2020.10.012)
 
 ## Notes
 

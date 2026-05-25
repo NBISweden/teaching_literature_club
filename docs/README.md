@@ -34,8 +34,7 @@ and discuss those in an informal way.
 
 | Date       | Person           | Description                                                                                                                                                                                                                                                                  |
 | ---------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026-03-04 | Richel Bilderbeek| Lockman, Alison S., and Barbara R. Schirmer. "Online instruction in higher education: Promising, research-based, and evidence-based practices." Journal of Education and e-Learning Research 7.2 (2020): 130-152.                                                            |
-
+| TBA        | Richel Bilderbeek| Lockman, Alison S., and Barbara R. Schirmer. "Online instruction in higher education: Promising, research-based, and evidence-based practices." Journal of Education and e-Learning Research 7.2 (2020): 130-152.                                                            |
 
 <!-- markdownlint-enable MD013 -->
 
