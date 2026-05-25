@@ -24,8 +24,8 @@ and discuss those in an informal way.
 - Goal: read and discuss literature on teaching in an informal way
 - Frequency: around monthly
 - Day: scheduled at the end of a meeting
-- Time: 14:00 (sharp!) - 14:55 (sharp!).
-  Room will be open at 13:45
+- Time: schedules, typically from x:00 (sharp!) to x:55 (sharp!).
+  Room will be open 15 minutes earlier
 - Duration: 55 minutes (max)
 - Meeting type: online-only
 - Online meeting room: <https://bit.ly/tlc_room_with_passcode_42>
