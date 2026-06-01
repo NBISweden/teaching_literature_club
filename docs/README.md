@@ -32,9 +32,9 @@ and discuss those in an informal way.
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-| Date       | Person           | Description                                                                                                                                                                                                                                                                  |
-| ---------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TBA        | Richel Bilderbeek| Lockman, Alison S., and Barbara R. Schirmer. "Online instruction in higher education: Promising, research-based, and evidence-based practices." Journal of Education and e-Learning Research 7.2 (2020): 130-152.                                                            |
+| Date                              | Person           | Description                                                                                                                                                                                                                                                                  |
+| --------------------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Monday June 15th 2026 14:00-14:55 | Richel Bilderbeek| Lockman, Alison S., and Barbara R. Schirmer. "Online instruction in higher education: Promising, research-based, and evidence-based practices." Journal of Education and e-Learning Research 7.2 (2020): 130-152.                                                            |
 
 <!-- markdownlint-enable MD013 -->
 
