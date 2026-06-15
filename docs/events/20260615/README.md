@@ -224,7 +224,7 @@ How does this paper make us a better teacher?
 I wondered if there are other benchmarks for quality.
 I found list of quality measures `[Brasher et al., 2022]`:
 
-Benchmark                 |Description                                                                                                                     |
+Benchmark                 |Description                                                                                                                     |My verdict
 --------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------
 ACODE                     |[Benchmark for Technology Enhanced Learning](https://acode.edu.au/resources/2023/tel-framework/)                                |Commercial, hence I do not care
 EADTU                     |[E-xcellence](https://e-xcellencelabel.eadtu.eu/) manual, quickscan, peer observation                                           |Open, applies to longer online courses
