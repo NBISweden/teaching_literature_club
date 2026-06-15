@@ -131,7 +131,22 @@ minimal quality'. Do you agree with this statement?
 
     - R: To my own surprise, I do! I enjoy rubrics!
       As `[Quality Matters, 2018]` is proprietary, I do not read it.
-      But I do enjoy a the rubric by `[McCann et al, 2012]`,
+      So I searched for other benchmarks for quality.
+      I found list of quality measures `[Brasher et al., 2022]`:
+
+      Benchmark                 |Description                                                                                                                     |My verdict
+      --------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------
+      ACODE                     |[Benchmark for Technology Enhanced Learning](https://acode.edu.au/resources/2023/tel-framework/)                                |Commercial, hence I do not care
+      EADTU                     |[E-xcellence](https://e-xcellencelabel.eadtu.eu/) manual, quickscan, peer observation                                           |Open, applies to longer online courses
+      EADTU                     |[OpenupEd Quality Label](http://www.openuped.eu/quality-label)                                                                  |Open, applies to MOOCs [MOOC checklist](OpenupEd_Quality_Assurance_checklists.pdf)
+      EFQUEL                    |[Obsolete link to ECBCheck](https://en.wikipedia.org/wiki/European_Foundation_for_Quality_in_e-Learning)                        |Obsolete
+      Online Learning Consortium|[Administration of Online Programs & scorecard suite](https://onlinelearningconsortium.org/consult/olc-quality-scorecard-suite/)|[Scorecard](OLC_QSS_CourseReviewScorecard.pdf)
+      Quality Matters           |[Quality Matters](https://www.qualitymatters.org/)                                                                              |Commercial, hence I do not care
+
+      In the end, I think `[McCann et al, 2012]` (not in this list,
+      below) is the best resource here.
+
+      I do enjoy a the rubric by `[McCann et al, 2012]`,
       where they classified different teaching styles (see below).
       Note that 'following rubrics' is a hallmark of 'Satisfactory Teaching'.
 
@@ -217,43 +232,6 @@ How does this paper make us a better teacher?
 ???- question "Answers"
 
     - R: it inspires me to combine research with teaching
-
-
-## Scribbles
-
-I wondered if there are other benchmarks for quality.
-I found list of quality measures `[Brasher et al., 2022]`:
-
-Benchmark                 |Description                                                                                                                     |My verdict
---------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------
-ACODE                     |[Benchmark for Technology Enhanced Learning](https://acode.edu.au/resources/2023/tel-framework/)                                |Commercial, hence I do not care
-EADTU                     |[E-xcellence](https://e-xcellencelabel.eadtu.eu/) manual, quickscan, peer observation                                           |Open, applies to longer online courses
-EADTU                     |[OpenupEd Quality Label](http://www.openuped.eu/quality-label)                                                                  |Open, applies to MOOCs [MOOC checklist](OpenupEd_Quality_Assurance_checklists.pdf)
-EFQUEL                    |[Obsolete link to ECBCheck](https://en.wikipedia.org/wiki/European_Foundation_for_Quality_in_e-Learning)                        |Obsolete
-Online Learning Consortium|[Administration of Online Programs & scorecard suite](https://onlinelearningconsortium.org/consult/olc-quality-scorecard-suite/)|[Scorecard](OLC_QSS_CourseReviewScorecard.pdf)
-Quality Matters           |[Quality Matters](https://www.qualitymatters.org/)                                                                              |Commercial, hence I do not care
-
-In the end, I think `[McCann et al, 2012]` is the best resource here.
-
-
-<!--
-
-## Scribbles
-
-I enjoy this:
-
-> we identified only faculty feedback as an evidence-based
-> practice and no specific intervention that we could identify
-> as research-based in online instruction
-
-- Web conferencing == Zoom
-- face threat mitigation ?
-
-> The Community of Inquiry model describes learning
-> as occurring in the intersection of social,
-> cognitive, and teaching presence (Garrison, 2017).
-
--->
 
 ## References
 
