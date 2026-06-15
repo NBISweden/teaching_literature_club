@@ -14,9 +14,9 @@ tags:
   Journal of Education and e-Learning Research 7.2 (2020): 130-152.
   [Article](https://eric.ed.gov/?id=EJ1258655)
 
-## Talk
+## Discussion
 
-Why I chose this paper
+Talk: why I chose this paper
 
 ???- question "Answers"
 
