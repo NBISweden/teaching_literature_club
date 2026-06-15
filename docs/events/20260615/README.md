@@ -1,12 +1,12 @@
 ---
 tags:
   - notes
-  - 2026-03-04
+  - 2026-06-15
 ---
 
-# 2026-03-04
+# 2026-06-15
 
-- Date: 2026-03-04
+- Date: 2026-06-15
 - Lead discussion: Richel Bilderbeek
 - Paper: Lockman, Alison S., and Barbara R. Schirmer.
   "Online instruction in higher education: Promising, research-based,
