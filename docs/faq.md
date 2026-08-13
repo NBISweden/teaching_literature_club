@@ -45,7 +45,7 @@ The person having picked the reading material determines freely:
 - whether there is a presentation about the reading material
 - how to lead a discussion on the reading material
 
-## I am not part of NBIS. Am I welcome?
+## I am not part of SciLifeLab. Am I welcome?
 
 Yes.
 
@@ -90,7 +90,7 @@ Elin and Richel will always have a paper to be discussed ready.
 
 ## Why online-only?
 
-NBIS is a national organisation throughout Sweden,
+SciLifeLab is a national organisation throughout Sweden,
 hence online is the norm.
 
 ## Why not hybrid?
@@ -102,8 +102,8 @@ when groups in different cities start gathering.
 
 ## Why not meet in real life?
 
-NBIS is a national organisation throughout Sweden,
-so meeting in real life (in any one place) would exclude most of NBIS.
+SciLifeLab is a national organisation throughout Sweden,
+so meeting in real life (in any one place) would exclude most of SciLifeLab.
 
 ## Why monthly?
 
@@ -130,7 +130,7 @@ There are points we feel we can deviate from the literature:
 - In this club, attendance is not expected and not recorded and not mandatory
   (instead of the advice to have attendance expected and/or recorded
   and/or mandatory `[Deenadayalan et al., 2008]`).
-  We feel this does not fit the NBIS life of flexible schedule
+  We feel this does not fit the SciLifeLab life of flexible schedule
 
 You can share your feedback at this repository by:
 

@@ -14,7 +14,7 @@ The SciLifeLab Teaching Literature Club
 is a group that reads literature regarding teaching
 and discusses it in an informal way.
 
-Go to [the nicely rendered pages](https://bit.ly/teaching_literature_club).
+Go to [the nicely rendered pages](https://nbisweden.github.io/teaching_literature_club/).
 
 ## Files used by continuous integration scripts
 
