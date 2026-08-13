@@ -19,3 +19,4 @@ jobs:
         uses: actions/checkout@v4
 
       - uses: igsekor/pyspelling-any@v1.0.4
+
