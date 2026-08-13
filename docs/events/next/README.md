@@ -2,7 +2,7 @@
 
 Quality measures, from Brasher et al, table 2:
 
-ACODE ACODE Benchmarks for Technology Enhanced Learning <https://www.acode.edu.au/course/view.php?id=5>
+ACODE ACODE Benchmarks for Technology Enhanced Learning <https://acode.edu.au/workshops/>
 EADTU E-xcellence <http://e-xcellencelabel.eadtu.eu/>
 EADTU OpenupEd Quality Label <http://www.openuped.eu/quality-label>
 EFQUEL ECBCheck <http://www.ecb-check.net/>
