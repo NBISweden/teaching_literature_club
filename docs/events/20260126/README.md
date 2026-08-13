@@ -123,11 +123,11 @@ based on previous experiences in that environment'
 Ramping: I would explain this is as:
 When an interesting target becomes available,
 a high RPE is given off, which decreases when the subject is
-getting closes. The decrease in RPE is the chemical respresentation
+getting closes. The decrease in RPE is the chemical representation
 of 'motivation'.
 
 
-Rampls are 'a reduction in task dimensionality as
+Ramps are 'a reduction in task dimensionality as
 subjects narrow their focus to relevant stimuli'.
 
 Ramps exist 'where internal goal

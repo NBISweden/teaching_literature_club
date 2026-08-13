@@ -119,7 +119,7 @@ The paper mentions `[Quality Matters, 2018]`:
 > Matters (2018) offer standards for online course designs
 > that can assure at least minimal quality.
 
-`[Quality Matters, 2018]` (a propietary method) offers rubrics that
+`[Quality Matters, 2018]` (a proprietary method) offers rubrics that
 one can follow. This paper state that these rubrics 'can assure at least
 minimal quality'. Do you agree with this statement?
 
