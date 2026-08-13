@@ -244,7 +244,7 @@ is to assume that the more efficient teachers are drawn to active
 teaching (i.e. the authors),
 yet are able to teach effectively too using passive learning.
 What do we think about this theory?
-  
+
 
 ```mermaid
 flowchart TD

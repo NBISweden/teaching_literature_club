@@ -23,7 +23,7 @@ Talk: why I chose this paper
     I wanted a paper that is useful for me, so I searched for
     'evidence based practices in online teaching'. This was the best match
     that was most recent.
-    
+
 What grade on a scale from 1 (worst) to 10 (best) would you give this paper?
 
 ???- question "Answers"
@@ -114,7 +114,7 @@ make this work for you? Do you already do this?
     - R: I cannot, as I do not receive written work from the learners.
       I do typically see my (online) learners working from a shared screen,
       where I can give feedback on how they work. I do do this,
-      as this part of the teaching cycle I use 
+      as this part of the teaching cycle I use
 
 The paper mentions `[Quality Matters, 2018]`:
 
@@ -185,7 +185,7 @@ timespan. What do you feel is missing?
       how long can an online monologue be,
       should the cameras be on/off, should the instructor have his/her
       camera on, should a live lecture be recorded, how to best make
-      learners work in breakout rooms, etc. 
+      learners work in breakout rooms, etc.
 
 
 In section '3.3.5. Qualities of Faculty Online Teaching', the paper
@@ -210,7 +210,7 @@ First, what is, according to you, 'orientation to online instruction'?
 
 ???- question "Answers"
 
-    - R: I have no idea. 
+    - R: I have no idea.
 
 Second, will these strategies with *promising effectiveness*
 inspire you to do the same?
@@ -221,7 +221,7 @@ inspire you to do the same?
       no idea what 'orientation to online instruction' is,
       online workshops are synchronous and I predict
       social media has no positive effect
-  
+
 Should we do what is in the paper?
 
 ???- question "Answers"
