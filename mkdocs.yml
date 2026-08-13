@@ -16,14 +16,13 @@ nav:
 
 theme:
   name: material
-  greetings: Welcome to the Teaching Literature Club
   font:
     text: Lato
     code: JetBrains Mono
   palette:
     primary: white
 
-  logo: logo/nbis_logo.png
+  logo: logo/sll_logo_green.png
 
   features:
     - toc.integrate

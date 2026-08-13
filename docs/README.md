@@ -5,7 +5,7 @@ tags:
   - home
 ---
 
-# About the NBIS' teaching literature club
+# About the SciLifeLab Teaching Literature Club
 
 <!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
 
@@ -17,9 +17,9 @@ tags:
 
 <!-- markdownlint-enable MD013 -->
 
-The NBIS' teaching literature club
-in which we read literature regarding teaching
-and discuss those in an informal way.
+The SciLifeLab Teaching Literature Club
+is a group that reads literature regarding teaching
+and discusses it in an informal way.
 
 - Goal: read and discuss literature on teaching in an informal way
 - Frequency: around monthly

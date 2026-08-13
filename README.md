@@ -1,4 +1,4 @@
-# NBIS' teaching literature club
+# SciLifeLab Teaching Literature Club
 
 <!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
 
@@ -10,9 +10,9 @@
 
 <!-- markdownlint-enable MD013 -->
 
-The NBIS' teaching literature club
-in which we read literature regarding teaching
-and discuss those in an informal way.
+The SciLifeLab Teaching Literature Club
+is a group that reads literature regarding teaching
+and discusses it in an informal way.
 
 Go to [the nicely rendered pages](https://bit.ly/teaching_literature_club).
 
