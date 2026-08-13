@@ -134,6 +134,8 @@ minimal quality'. Do you agree with this statement?
       So I searched for other benchmarks for quality.
       I found list of quality measures `[Brasher et al., 2022]`:
 
+      <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
       Benchmark                 |Description                                                                                                                     |My verdict
       --------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------
       ACODE                     |[Benchmark for Technology Enhanced Learning](https://acode.edu.au/resources/2023/tel-framework/)                                |Commercial, hence I do not care
@@ -142,6 +144,8 @@ minimal quality'. Do you agree with this statement?
       EFQUEL                    |[Obsolete link to ECBCheck](https://en.wikipedia.org/wiki/European_Foundation_for_Quality_in_e-Learning)                        |Obsolete
       Online Learning Consortium|[Administration of Online Programs & scorecard suite](https://onlinelearningconsortium.org/consult/olc-quality-scorecard-suite/)|[Scorecard](OLC_QSS_CourseReviewScorecard.pdf)
       Quality Matters           |[Quality Matters](https://www.qualitymatters.org/)                                                                              |Commercial, hence I do not care
+
+      <!-- markdownlint-enable MD013 -->
 
       In the end, I think `[McCann et al, 2012]` (not in this list,
       below) is the best resource here.
@@ -202,7 +206,7 @@ In the paper, we can read:
 > opportunities for synchronous class sessions,
 > and incorporation of social media.
 
-First, what is, according to you, 'orientation to online instruction'? 
+First, what is, according to you, 'orientation to online instruction'?
 
 ???- question "Answers"
 
