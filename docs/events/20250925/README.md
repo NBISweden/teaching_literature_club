@@ -177,7 +177,8 @@ Dwass–Steel–Critchlow–Fligner test.
 A quick search finds me the
 [`DSCFTest` as part of the `Analitica` package](https://rdrr.io/cran/Analitica/man/DSCFTest.html).
 Fun fact: the return values are in Spanish :-) . The author
-keeps the versions [https://github.com/cjimenezgallardo/analitica](https://github.com/cjimenezgallardo/analitica).
+keeps the versions `https://github.com/cjimenezgallardo/analitica`
+**EDIT: the link broke on around 2026-08-18. I guess the repo went private**.
 The package has 1 test: to check if a function returns a structure
 with the element `Mean`.
 
