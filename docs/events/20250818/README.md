@@ -104,7 +104,7 @@ I feel it is not worth my time.
 ## My questions
 
 I received this paper as a tip from Kristen Schröder
-[on June 9th](https://github.com/NBISweden/teaching_literature_club/commit/de9cf365759baf284dfb599d0ed4d3c780a77e80).
+[on June 9th](https://github.com/SciLifeLab/teaching_literature_club/commit/de9cf365759baf284dfb599d0ed4d3c780a77e80).
 On July 27th Nima suggested his picks.
 How did he get his interest in this paper?
 Was it from Kristen?

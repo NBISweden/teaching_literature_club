@@ -72,7 +72,7 @@ Great!
 the reading materials one meeting in advance with the rest.
 
 To let us know:
-[create an issue](https://github.com/NBISweden/teaching_literature_club/issues)
+[create an issue](https://github.com/SciLifeLab/teaching_literature_club/issues)
 or send an email to `richel.bilderbeek@icm.uu.se`.
 
 **Second**, on the day you discuss a paper or book chapter,
@@ -134,7 +134,7 @@ There are points we feel we can deviate from the literature:
 
 You can share your feedback at this repository by:
 
-- creating an [Issue](https://github.com/NBISweden/teaching_literature_club/issues):
+- creating an [Issue](https://github.com/SciLifeLab/teaching_literature_club/issues):
   this results in a public discussion and require a GitHub account
 - sending an email to `richel.bilderbeek@icm.uu.se`
 - share your feedback in the next round:
