@@ -22,9 +22,9 @@ is a group that reads literature regarding teaching
 and discusses it in an informal way.
 
 - Goal: read and discuss literature on teaching in an informal way
-- Frequency: around monthly
-- Day: scheduled at the end of a meeting
-- Time: schedules, typically from x:00 (sharp!) to x:55 (sharp!).
+- Frequency: last Thursday of the month
+- Day: Thursdays
+- Time: 15:00 (sharp!) to 15:55 (sharp!)
   Room will be open 15 minutes earlier
 - Duration: 55 minutes (max)
 - Meeting type: online-only
